@@ -1,7 +1,0 @@
-library(dplyr)
-characters_in_movies <- read.csv("chmovies.csv", stringsAsFactors = FALSE)
-characters_map <- read.csv("chmaps.csv", stringsAsFactors = FALSE)
-characters <- read.csv("characters.csv", stringsAsFactors = FALSE)
-uniquech <- unique(characters_map$closest_imdb_character_id)
-characters_in_movies <- characters_in_movies %>% select(title, imdb_id, script_id, year, gross)
-combo <- left_join(characters_in_movies, characters, by = "script_id")

@@ -1,0 +1,3231 @@
+"Movie","Year","IMDB","Gender","Words","Revenue"
+"Toy Story",1995,7.7,"Male",5681,373554033
+"Toy Story",1995,7.7,"Female",-523,373554033
+"Heat",1995,7.7,"Male",4020,187436818
+"Heat",1995,7.7,"Female",-1098,187436818
+"GoldenEye",1995,6.6,"Male",2103,352194034
+"GoldenEye",1995,6.6,"Female",-899,352194034
+"The American President",1995,6.5,"Male",23202,107879496
+"The American President",1995,6.5,"Female",-12002,107879496
+"Nixon",1995,7.1,"Male",23865,13681765
+"Nixon",1995,7.1,"Female",-2122,13681765
+"Casino",1995,7.8,"Male",57944,116112375
+"Casino",1995,7.8,"Female",-9734,116112375
+"Sense and Sensibility",1995,7.2,"Male",9614,1.35e+08
+"Sense and Sensibility",1995,7.2,"Female",-23922,1.35e+08
+"Four Rooms",1995,6.5,"Male",16108,4300000
+"Four Rooms",1995,6.5,"Female",-10102,4300000
+"Get Shorty",1995,6.4,"Male",18656,115101622
+"Get Shorty",1995,6.4,"Female",-3092,115101622
+"Copycat",1995,6.5,"Male",9936,0
+"Copycat",1995,6.5,"Female",-16078,0
+"Assassins",1995,6,"Male",12478,30303072
+"Assassins",1995,6,"Female",-4380,30303072
+"Leaving Las Vegas",1995,7.1,"Male",9062,49800000
+"Leaving Las Vegas",1995,7.1,"Female",-7272,49800000
+"Now and Then",1995,6.6,"Male",0,27400000
+"Now and Then",1995,6.6,"Female",-4186,27400000
+"Twelve Monkeys",1995,7.4,"Male",7478,168840000
+"Twelve Monkeys",1995,7.4,"Female",-3534,168840000
+"Clueless",1995,6.9,"Male",5146,0
+"Clueless",1995,6.9,"Female",-5226,0
+"Se7en",1995,8.1,"Male",19074,327311859
+"Se7en",1995,8.1,"Female",-1562,327311859
+"Pocahontas",1995,6.7,"Male",4036,346079773
+"Pocahontas",1995,6.7,"Female",-2108,346079773
+"The Usual Suspects",1995,8.1,"Male",11428,23341568
+"The Usual Suspects",1995,8.1,"Female",-325,23341568
+"From Dusk Till Dawn",1996,6.9,"Male",18216,25836616
+"From Dusk Till Dawn",1996,6.9,"Female",-2016,25836616
+"Kicking and Screaming",1995,7,"Male",3671,718490
+"Kicking and Screaming",1995,7,"Female",-1345,718490
+"Bed of Roses",1996,5.1,"Male",2586,19030691
+"Bed of Roses",1996,5.1,"Female",-3999,19030691
+"White Squall",1996,6.3,"Male",8971,10300000
+"White Squall",1996,6.3,"Female",-173,10300000
+"Nick of Time",1995,6.1,"Male",11482,8175346
+"Nick of Time",1995,6.1,"Female",-4076,8175346
+"Broken Arrow",1996,5.7,"Male",6948,150270147
+"Broken Arrow",1996,5.7,"Female",-1412,150270147
+"City Hall",1996,6,"Male",9923,0
+"City Hall",1996,6,"Female",-1831,0
+"Bottle Rocket",1996,6.8,"Male",19414,560069
+"Bottle Rocket",1996,6.8,"Female",0,560069
+"The Bridges of Madison County",1995,7.3,"Male",2631,182016617
+"The Bridges of Madison County",1995,7.3,"Female",-3763,182016617
+"Braveheart",1995,7.7,"Male",4873,2.1e+08
+"Braveheart",1995,7.7,"Female",-1024,2.1e+08
+"Up Close & Personal",1996,5.9,"Male",939,0
+"Up Close & Personal",1996,5.9,"Female",-2402,0
+"Bad Boys",1995,6.5,"Male",8772,141407024
+"Bad Boys",1995,6.5,"Female",-3133,141407024
+"Batman Forever",1995,5.2,"Male",9956,336529144
+"Batman Forever",1995,5.2,"Female",-2082,336529144
+"Crimson Tide",1995,7,"Male",8519,157387195
+"Crimson Tide",1995,7,"Female",0,157387195
+"Devil in a Blue Dress",1995,6.3,"Male",18466,16140822
+"Devil in a Blue Dress",1995,6.3,"Female",-2660,16140822
+"Die Hard: With a Vengeance",1995,6.9,"Male",6627,366101666
+"Die Hard: With a Vengeance",1995,6.9,"Female",0,366101666
+"Hackers",1995,6.2,"Male",10390,7563728
+"Hackers",1995,6.2,"Female",-2180,7563728
+"Judge Dredd",1995,5.4,"Male",8136,113493481
+"Judge Dredd",1995,5.4,"Female",-3262,113493481
+"Kids",1995,6.8,"Male",8156,7412216
+"Kids",1995,6.8,"Female",-3916,7412216
+"Living in Oblivion",1995,7.2,"Male",14172,1148752
+"Living in Oblivion",1995,7.2,"Female",-7582,1148752
+"Lord of Illusions",1995,5.9,"Male",9926,0
+"Lord of Illusions",1995,5.9,"Female",-1950,0
+"Mallrats",1995,6.8,"Male",4793,2122561
+"Mallrats",1995,6.8,"Female",-677,2122561
+"Mighty Morphin Power Rangers: The Movie",1995,5.2,"Male",3713,6.6e+07
+"Mighty Morphin Power Rangers: The Movie",1995,5.2,"Female",-1569,6.6e+07
+"Mute Witness",1995,6.4,"Male",2471,1
+"Mute Witness",1995,6.4,"Female",-1160,1
+"The Prophecy",1995,6.4,"Male",6462,16
+"The Prophecy",1995,6.4,"Female",-2036,16
+"Showgirls",1995,4.9,"Male",4054,20350754
+"Showgirls",1995,4.9,"Female",-7027,20350754
+"Smoke",1995,7.2,"Male",13273,8349430
+"Smoke",1995,7.2,"Female",-1997,8349430
+"Strange Days",1995,6.8,"Male",15016,7959291
+"Strange Days",1995,6.8,"Female",-6314,7959291
+"Waterworld",1995,5.9,"Male",2731,264218220
+"Waterworld",1995,5.9,"Female",-1968,264218220
+"Wild Bill",1995,5.9,"Male",4257,0
+"Wild Bill",1995,5.9,"Female",-461,0
+"Before Sunrise",1995,7.7,"Male",5467,5535405
+"Before Sunrise",1995,7.7,"Female",-5957,5535405
+"Boys on the Side",1995,6.3,"Male",1425,23450000
+"Boys on the Side",1995,6.3,"Female",-7548,23450000
+"Clerks",1994,7.4,"Male",24428,3151130
+"Clerks",1994,7.4,"Female",-6956,3151130
+"Dolores Claiborne",1995,7.1,"Male",2380,0
+"Dolores Claiborne",1995,7.1,"Female",-5794,0
+"Ed Wood",1994,7.3,"Male",12591,5887457
+"Ed Wood",1994,7.3,"Female",-1926,5887457
+"Heavenly Creatures",1994,6.9,"Male",970,3049135
+"Heavenly Creatures",1994,6.9,"Female",-11060,3049135
+"Kiss of Death",1995,5.7,"Male",5252,0
+"Kiss of Death",1995,5.7,"Female",-1019,0
+"Mary Shelley's Frankenstein",1994,6.1,"Male",5167,112006296
+"Mary Shelley's Frankenstein",1994,6.1,"Female",-1333,112006296
+"Natural Born Killers",1994,6.9,"Male",10975,50282766
+"Natural Born Killers",1994,6.9,"Female",-1177,50282766
+"Only You",1994,6.4,"Male",3662,0
+"Only You",1994,6.4,"Female",-7969,0
+"Outbreak",1995,6.4,"Male",6292,189859560
+"Outbreak",1995,6.4,"Female",-980,189859560
+"Pulp Fiction",1994,8.3,"Male",6749,213928762
+"Pulp Fiction",1994,8.3,"Female",-2094,213928762
+"Panther",1995,6.4,"Male",9442,6834525
+"Panther",1995,6.4,"Female",-351,6834525
+"Quiz Show",1994,7.1,"Male",12142,0
+"Quiz Show",1994,7.1,"Female",-951,0
+"The Shawshank Redemption",1994,8.5,"Male",13414,28341469
+"The Shawshank Redemption",1994,8.5,"Female",0,28341469
+"Shallow Grave",1994,7,"Male",9128,0
+"Shallow Grave",1994,7,"Female",-2012,0
+"Star Trek: Generations",1994,6.4,"Male",7477,1.2e+08
+"Star Trek: Generations",1994,6.4,"Female",-1689,1.2e+08
+"Village of the Damned",1995,5.6,"Male",2571,0
+"Village of the Damned",1995,5.6,"Female",-3166,0
+"Virtuosity",1995,5.4,"Male",4590,24048000
+"Virtuosity",1995,5.4,"Female",-1933,24048000
+"Ace Ventura: Pet Detective",1994,6.4,"Male",7942,107217396
+"Ace Ventura: Pet Detective",1994,6.4,"Female",-2785,107217396
+"The Adventures of Priscilla, Queen of the Desert",1994,7.2,"Male",3210,11220670
+"The Adventures of Priscilla, Queen of the Desert",1994,7.2,"Female",-681,11220670
+"Bullets Over Broadway",1994,7,"Male",3635,0
+"Bullets Over Broadway",1994,7,"Female",-1683,0
+"Clear and Present Danger",1994,6.4,"Male",4243,215887717
+"Clear and Present Danger",1994,6.4,"Female",-179,215887717
+"The Client",1994,6.4,"Male",2553,117615211
+"The Client",1994,6.4,"Female",-3081,117615211
+"The Crow",1994,7.3,"Male",6102,9.4e+07
+"The Crow",1994,7.3,"Female",-1184,9.4e+07
+"Cobb",1994,6.1,"Male",12644,1007583
+"Cobb",1994,6.1,"Female",-605,1007583
+"The Flintstones",1994,5,"Male",5024,341631208
+"The Flintstones",1994,5,"Female",-1398,341631208
+"Forrest Gump",1994,8.2,"Male",7541,677945399
+"Forrest Gump",1994,8.2,"Female",-1549,677945399
+"The Lion King",1994,8,"Male",2397,788241776
+"The Lion King",1994,8,"Female",-365,788241776
+"New Nightmare",1994,6.4,"Male",2075,18090181
+"New Nightmare",1994,6.4,"Female",-4126,18090181
+"The Mask",1994,6.6,"Male",4627,351583407
+"The Mask",1994,6.6,"Female",-1583,351583407
+"Maverick",1994,6.6,"Male",7080,0
+"Maverick",1994,6.6,"Female",-1973,0
+"Red Rock West",1993,6.4,"Male",2481,2e+06
+"Red Rock West",1993,6.4,"Female",-900,2e+06
+"True Lies",1994,6.8,"Male",14006,378882411
+"True Lies",1994,6.8,"Female",-5678,378882411
+"In the Mouth of Madness",1994,7.1,"Male",3734,8946600
+"In the Mouth of Madness",1994,7.1,"Female",-1374,8946600
+"Being Human",1994,5,"Male",9707,0
+"Being Human",1994,5,"Female",-2680,0
+"Boxing Helena",1993,4.5,"Male",3786,1796389
+"Boxing Helena",1993,4.5,"Female",-2967,1796389
+"Carlito's Way",1993,7.7,"Male",7623,36516012
+"Carlito's Way",1993,7.7,"Female",-1400,36516012
+"Cliffhanger",1993,6.1,"Male",6508,255000211
+"Cliffhanger",1993,6.1,"Female",-1872,255000211
+"Color of Night",1994,5.4,"Male",13761,19726050
+"Color of Night",1994,5.4,"Female",-4368,19726050
+"Dave",1993,6.3,"Male",7227,6.3e+07
+"Dave",1993,6.3,"Female",-1174,6.3e+07
+"Dazed and Confused",1993,7.4,"Male",7496,7993039
+"Dazed and Confused",1993,7.4,"Female",-2518,7993039
+"Demolition Man",1993,6.4,"Male",5170,159055768
+"Demolition Man",1993,6.4,"Female",-1556,159055768
+"Even Cowgirls Get the Blues",1993,4.2,"Male",10586,0
+"Even Cowgirls Get the Blues",1993,4.2,"Female",-12248,0
+"Fatal Instinct",1993,5.4,"Male",12624,0
+"Fatal Instinct",1993,5.4,"Female",-7694,0
+"The Fugitive",1993,7.2,"Male",12890,368875760
+"The Fugitive",1993,7.2,"Female",-1350,368875760
+"The Hudsucker Proxy",1994,7.1,"Male",7183,0
+"The Hudsucker Proxy",1994,7.1,"Female",-1963,0
+"I'll Do Anything",1994,5.7,"Male",15334,0
+"I'll Do Anything",1994,5.7,"Female",-11408,0
+"In the Line of Fire",1993,6.8,"Male",6081,176997168
+"In the Line of Fire",1993,6.8,"Female",-2228,176997168
+"Jurassic Park",1993,7.6,"Male",9972,920100000
+"Jurassic Park",1993,7.6,"Female",-1941,920100000
+"Kalifornia",1993,6.5,"Male",4787,2395231
+"Kalifornia",1993,6.5,"Female",-2986,2395231
+"Killing Zoe",1993,6.1,"Male",6474,418961
+"Killing Zoe",1993,6.1,"Female",-708,418961
+"Last Action Hero",1993,6.1,"Male",2585,137298489
+"Last Action Hero",1993,6.1,"Female",0,137298489
+"Malice",1993,5.9,"Male",6707,46405336
+"Malice",1993,5.9,"Female",-3136,46405336
+"Manhattan Murder Mystery",1993,7.1,"Male",12493,11285588
+"Manhattan Murder Mystery",1993,7.1,"Female",-10147,11285588
+"Executive Decision",1996,5.8,"Male",11168,121969216
+"Executive Decision",1996,5.8,"Female",-610,121969216
+"A Perfect World",1993,7.2,"Male",9510,135130999
+"A Perfect World",1993,7.2,"Female",-2277,135130999
+"Philadelphia",1993,7.6,"Male",12740,206678440
+"Philadelphia",1993,7.6,"Female",-944,206678440
+"The Piano",1993,7.1,"Male",5640,116700000
+"The Piano",1993,7.1,"Female",-3820,116700000
+"The Program",1993,6,"Male",21436,23042200
+"The Program",1993,6,"Female",-4194,23042200
+"The Ref",1994,6.7,"Male",7152,11439193
+"The Ref",1994,6.7,"Female",-3881,11439193
+"Schindler's List",1993,8.3,"Male",5250,321365567
+"Schindler's List",1993,8.3,"Female",0,321365567
+"Searching for Bobby Fischer",1993,7.3,"Male",8035,7266383
+"Searching for Bobby Fischer",1993,7.3,"Female",-1346,7266383
+"Serial Mom",1994,6.4,"Male",2028,7820688
+"Serial Mom",1994,6.4,"Female",-2500,7820688
+"Six Degrees of Separation",1993,6.5,"Male",12084,0
+"Six Degrees of Separation",1993,6.5,"Female",-8173,0
+"Sleepless in Seattle",1993,6.5,"Male",5073,227799884
+"Sleepless in Seattle",1993,6.5,"Female",-5438,227799884
+"Blade Runner",1982,7.9,"Male",11916,33139618
+"Blade Runner",1982,7.9,"Female",-2078,33139618
+"So I Married an Axe Murderer",1993,6.1,"Male",5155,11585483
+"So I Married an Axe Murderer",1993,6.1,"Female",-2954,11585483
+"The Nightmare Before Christmas",1993,7.6,"Male",2756,75634409
+"The Nightmare Before Christmas",1993,7.6,"Female",-789,75634409
+"The Three Musketeers",1993,6.2,"Male",7172,53898845
+"The Three Musketeers",1993,6.2,"Female",-1196,53898845
+"Tombstone",1993,7.4,"Male",6424,56505065
+"Tombstone",1993,7.4,"Female",-520,56505065
+"True Romance",1993,7.5,"Male",23616,12281551
+"True Romance",1993,7.5,"Female",-4366,12281551
+"Home Alone",1990,7.1,"Male",1795,476684675
+"Home Alone",1990,7.1,"Female",-757,476684675
+"Ghost",1990,6.9,"Male",11322,5.05e+08
+"Ghost",1990,6.9,"Female",-8604,5.05e+08
+"Aladdin",1992,7.4,"Male",6635,504050219
+"Aladdin",1992,7.4,"Female",-774,504050219
+"Terminator 2: Judgment Day",1991,7.7,"Male",3377,5.2e+08
+"Terminator 2: Judgment Day",1991,7.7,"Female",-1331,5.2e+08
+"Dances with Wolves",1990,7.6,"Male",14036,424208848
+"Dances with Wolves",1990,7.6,"Female",-1498,424208848
+"Batman",1989,7,"Male",2615,411348924
+"Batman",1989,7,"Female",-1136,411348924
+"The Silence of the Lambs",1991,8.1,"Male",7333,272742922
+"The Silence of the Lambs",1991,8.1,"Female",-4600,272742922
+"Beauty and the Beast",1991,7.5,"Male",7291,377350553
+"Beauty and the Beast",1991,7.5,"Female",-2868,377350553
+"Pretty Woman",1990,7,"Male",3978,4.63e+08
+"Pretty Woman",1990,7,"Female",-3444,4.63e+08
+"Fargo",1996,7.7,"Male",11894,60611975
+"Fargo",1996,7.7,"Female",-4486,60611975
+"Primal Fear",1996,7.4,"Male",9764,102616183
+"Primal Fear",1996,7.4,"Female",-3625,102616183
+"Diabolique",1996,5.4,"Male",1586,0
+"Diabolique",1996,5.4,"Female",-4634,0
+"Courage Under Fire",1996,6.2,"Male",10536,100860818
+"Courage Under Fire",1996,6.2,"Female",-1850,100860818
+"Mission: Impossible",1996,6.7,"Male",13346,457696359
+"Mission: Impossible",1996,6.7,"Female",-2844,457696359
+"Kids in the Hall: Brain Candy",1996,5.9,"Male",1405,0
+"Kids in the Hall: Brain Candy",1996,5.9,"Female",0,0
+"Space Jam",1996,6.5,"Male",5257,250200000
+"Space Jam",1996,6.5,"Female",0,250200000
+"Mrs. Winterbourne",1996,5.5,"Male",1006,10070000
+"Mrs. Winterbourne",1996,5.5,"Female",-6431,10070000
+"The Craft",1996,6.3,"Male",444,24769466
+"The Craft",1996,6.3,"Female",-3662,24769466
+"The Rock",1996,6.9,"Male",7116,335062621
+"The Rock",1996,6.9,"Female",-301,335062621
+"Twister",1996,6.1,"Male",2510,494471524
+"Twister",1996,6.1,"Female",-3516,494471524
+"Trainspotting",1996,7.8,"Male",10820,16491080
+"Trainspotting",1996,7.8,"Female",-1138,16491080
+"Independence Day",1996,6.7,"Male",5202,816969268
+"Independence Day",1996,6.7,"Female",-849,816969268
+"The Cable Guy",1996,5.7,"Male",8562,102825796
+"The Cable Guy",1996,5.7,"Female",-969,102825796
+"The Frighteners",1996,6.7,"Male",2952,29359216
+"The Frighteners",1996,6.7,"Female",-1237,29359216
+"Lone Star",1996,6.9,"Male",23182,13269963
+"Lone Star",1996,6.9,"Female",-9202,13269963
+"Ransom",1996,6.4,"Male",3989,309492681
+"Ransom",1996,6.4,"Female",-489,309492681
+"Chain Reaction",1996,5.3,"Male",4972,60209334
+"Chain Reaction",1996,5.3,"Female",-1538,60209334
+"Emma",1996,6.7,"Male",2958,22231658
+"Emma",1996,6.7,"Female",-8801,22231658
+"The Crow: City of Angels",1996,5.2,"Male",2019,17917287
+"The Crow: City of Angels",1996,5.2,"Female",-823,17917287
+"Escape from L.A.",1996,5.6,"Male",3711,42277365
+"Escape from L.A.",1996,5.6,"Female",-1179,42277365
+"Basquiat",1996,6.6,"Male",10564,3011195
+"Basquiat",1996,6.6,"Female",-2094,3011195
+"Tin Cup",1996,5.9,"Male",9176,53854588
+"Tin Cup",1996,5.9,"Female",-2686,53854588
+"The Godfather",1972,8.5,"Male",11879,245066411
+"The Godfather",1972,8.5,"Female",-962,245066411
+"Bound",1996,6.9,"Male",7338,7011317
+"Bound",1996,6.9,"Female",-11108,7011317
+"The Relic",1997,5.8,"Male",14106,33956608
+"The Relic",1997,5.8,"Female",-7132,33956608
+"The Island of Dr. Moreau",1996,4.6,"Male",6687,49627779
+"The Island of Dr. Moreau",1996,4.6,"Female",-624,49627779
+"Halloween: The Curse of Michael Myers",1995,5,"Male",3493,15116634
+"Halloween: The Curse of Michael Myers",1995,5,"Female",-1552,15116634
+"Vertigo",1958,8,"Male",5079,2.8e+07
+"Vertigo",1958,8,"Female",-2689,2.8e+07
+"Rear Window",1954,8.2,"Male",12952,36764313
+"Rear Window",1954,8.2,"Female",-8528,36764313
+"Some Like It Hot",1959,8,"Male",11215,2.5e+07
+"Some Like It Hot",1959,8,"Female",-3737,2.5e+07
+"The Wizard of Oz",1939,7.4,"Male",4706,33754967
+"The Wizard of Oz",1939,7.4,"Female",-4681,33754967
+"2001: A Space Odyssey",1968,7.9,"Male",4246,68700000
+"2001: A Space Odyssey",1968,7.9,"Female",-155,68700000
+"Ninotchka",1939,7.3,"Male",10217,2279000
+"Ninotchka",1939,7.3,"Female",-5732,2279000
+"Last Man Standing",1996,6.2,"Male",6778,47267001
+"Last Man Standing",1996,6.2,"Female",-819,47267001
+"Robin Hood: Prince of Thieves",1991,6.6,"Male",13923,390493908
+"Robin Hood: Prince of Thieves",1991,6.6,"Female",-1777,390493908
+"Die Hard",1988,7.5,"Male",14952,140767956
+"Die Hard",1988,7.5,"Female",-1200,140767956
+"The Long Kiss Goodnight",1996,6.4,"Male",3657,89456761
+"The Long Kiss Goodnight",1996,6.4,"Female",-2410,89456761
+"The Ghost and the Darkness",1996,6.4,"Male",9714,7.5e+07
+"The Ghost and the Darkness",1996,6.4,"Female",-390,7.5e+07
+"Romeo + Juliet",1996,6.7,"Male",6402,147298761
+"Romeo + Juliet",1996,6.7,"Female",-3172,147298761
+"Swingers",1996,6.8,"Male",16662,4505922
+"Swingers",1996,6.8,"Female",-1840,4505922
+"Reservoir Dogs",1992,8.1,"Male",19280,14661007
+"Reservoir Dogs",1992,8.1,"Female",0,14661007
+"Platoon",1986,7.5,"Male",18530,138530565
+"Platoon",1986,7.5,"Female",0,138530565
+"Basic Instinct",1992,6.5,"Male",4871,352927224
+"Basic Instinct",1992,6.5,"Female",-2680,352927224
+"The Doors",1991,6.7,"Male",10500,34416893
+"The Doors",1991,6.7,"Female",-2080,34416893
+"The Crying Game",1992,6.9,"Male",13626,62548947
+"The Crying Game",1992,6.9,"Female",-1520,62548947
+"Glengarry Glen Ross",1992,7.5,"Male",22480,10725228
+"Glengarry Glen Ross",1992,7.5,"Female",0,10725228
+"Days of Thunder",1990,5.9,"Male",6443,157920733
+"Days of Thunder",1990,5.9,"Female",-807,157920733
+"Top Gun",1986,6.7,"Male",14788,356830601
+"Top Gun",1986,6.7,"Female",-3600,356830601
+"On Golden Pond",1981,7.3,"Male",3566,19255967
+"On Golden Pond",1981,7.3,"Female",-2496,19255967
+"The Abyss",1989,7.1,"Male",10660,90000098
+"The Abyss",1989,7.1,"Female",-4942,90000098
+"Escape from New York",1981,6.9,"Male",6196,50244700
+"Escape from New York",1981,6.9,"Female",-500,50244700
+"The Howling",1981,6.4,"Male",3516,17985893
+"The Howling",1981,6.4,"Female",-2693,17985893
+"Private Benjamin",1980,6,"Male",4160,0
+"Private Benjamin",1980,6,"Female",-8977,0
+"The Grifters",1990,6.5,"Male",8916,13446769
+"The Grifters",1990,6.5,"Female",-8394,13446769
+"The English Patient",1996,7,"Male",14474,231976425
+"The English Patient",1996,7,"Female",-4584,231976425
+"Sex, Lies, and Videotape",1989,6.7,"Male",10480,0
+"Sex, Lies, and Videotape",1989,6.7,"Female",-13272,0
+"The Princess Bride",1987,7.6,"Male",9874,30857814
+"The Princess Bride",1987,7.6,"Female",-1173,30857814
+"Raiders of the Lost Ark",1981,7.7,"Male",3421,389925971
+"Raiders of the Lost Ark",1981,7.7,"Female",-972,389925971
+"Brazil",1985,7.6,"Male",6479,0
+"Brazil",1985,7.6,"Female",-1154,0
+"Aliens",1986,7.7,"Male",7194,183316455
+"Aliens",1986,7.7,"Female",-6476,183316455
+"Apocalypse Now",1979,8,"Male",20250,89460381
+"Apocalypse Now",1979,8,"Female",-564,89460381
+"The Third Man",1949,7.9,"Male",8098,596349
+"The Third Man",1949,7.9,"Female",-1512,596349
+"Alien",1979,7.9,"Male",5672,104931801
+"Alien",1979,7.9,"Female",-2830,104931801
+"Army of Darkness",1992,7.3,"Male",5980,0
+"Army of Darkness",1992,7.3,"Female",-440,0
+"Psycho",1960,8.3,"Male",5926,3.2e+07
+"Psycho",1960,8.3,"Female",-2927,3.2e+07
+"The Godfather: Part II",1974,8.3,"Male",14788,47542841
+"The Godfather: Part II",1974,8.3,"Female",-2346,47542841
+"Full Metal Jacket",1987,7.9,"Male",14124,46357676
+"Full Metal Jacket",1987,7.9,"Female",-102,46357676
+"Once Upon a Time in America",1984,8.3,"Male",5810,0
+"Once Upon a Time in America",1984,8.3,"Female",-1765,0
+"Annie Hall",1977,7.8,"Male",8994,38251425
+"Annie Hall",1977,7.8,"Female",-4142,38251425
+"The Sting",1973,7.9,"Male",6091,159616327
+"The Sting",1973,7.9,"Female",-216,159616327
+"The Terminator",1984,7.4,"Male",4956,78371200
+"The Terminator",1984,7.4,"Female",-4166,78371200
+"Glory",1989,7.4,"Male",7714,26828365
+"Glory",1989,7.4,"Female",-643,26828365
+"Dead Poets Society",1989,8.1,"Male",22390,235860116
+"Dead Poets Society",1989,8.1,"Female",-1036,235860116
+"Touch of Evil",1958,7.6,"Male",6182,2247465
+"Touch of Evil",1958,7.6,"Female",-946,2247465
+"Stand by Me",1986,7.8,"Male",8763,52287414
+"Stand by Me",1986,7.8,"Female",0,52287414
+"Groundhog Day",1993,7.4,"Male",6221,70906973
+"Groundhog Day",1993,7.4,"Female",-2727,70906973
+"Unforgiven",1992,7.7,"Male",7997,159157447
+"Unforgiven",1992,7.7,"Female",-725,159157447
+"Back to the Future",1985,8,"Male",6822,381109762
+"Back to the Future",1985,8,"Female",-917,381109762
+"Fried Green Tomatoes",1991,7.6,"Male",1869,119418501
+"Fried Green Tomatoes",1991,7.6,"Female",-8796,119418501
+"Highlander",1986,6.8,"Male",4386,5900000
+"Highlander",1986,6.8,"Female",-1720,5900000
+"Young Frankenstein",1974,7.7,"Male",7469,86273333
+"Young Frankenstein",1974,7.7,"Female",-1527,86273333
+"Heathers",1988,7.3,"Male",4299,1108462
+"Heathers",1988,7.3,"Female",-6649,1108462
+"Indiana Jones and the Last Crusade",1989,7.6,"Male",13532,474171806
+"Indiana Jones and the Last Crusade",1989,7.6,"Female",-1452,474171806
+"A Room with a View",1985,6.9,"Male",5474,20966644
+"A Room with a View",1985,6.9,"Female",-7644,20966644
+"Real Genius",1985,6.6,"Male",6688,1.3e+07
+"Real Genius",1985,6.6,"Female",-1297,1.3e+07
+"Field of Dreams",1989,7.1,"Male",13720,84431625
+"Field of Dreams",1989,7.1,"Female",-3298,84431625
+"When Harry Met Sally...",1989,7.3,"Male",5245,92823546
+"When Harry Met Sally...",1989,7.3,"Female",-5382,92823546
+"Dracula",1992,7.1,"Male",6345,215862692
+"Dracula",1992,7.1,"Female",-2584,215862692
+"Candyman",1992,6.2,"Male",2295,25792310
+"Candyman",1992,6.2,"Female",-3599,25792310
+"Cape Fear",1991,7,"Male",5281,182300000
+"Cape Fear",1991,7,"Female",-2237,182300000
+"A Nightmare on Elm Street",1984,7.2,"Male",2188,25504513
+"A Nightmare on Elm Street",1984,7.2,"Female",-3132,25504513
+"Blood and Wine",1996,5.5,"Male",11142,0
+"Blood and Wine",1996,5.5,"Female",-3925,0
+"The Mirror Has Two Faces",1996,6.5,"Male",5758,0
+"The Mirror Has Two Faces",1996,6.5,"Female",-7264,0
+"Star Trek: First Contact",1996,7,"Male",5013,1.5e+08
+"Star Trek: First Contact",1996,7,"Female",-1670,1.5e+08
+"Sling Blade",1996,7.4,"Male",24964,24444121
+"Sling Blade",1996,7.4,"Female",-4176,24444121
+"Die Hard 2",1990,6.6,"Male",8908,240031094
+"Die Hard 2",1990,6.6,"Female",-1438,240031094
+"Star Trek: The Motion Picture",1979,6.2,"Male",7249,1.39e+08
+"Star Trek: The Motion Picture",1979,6.2,"Female",-1491,1.39e+08
+"Star Trek VI: The Undiscovered Country",1991,6.7,"Male",7746,96900000
+"Star Trek VI: The Undiscovered Country",1991,6.7,"Female",-1714,96900000
+"Star Trek V: The Final Frontier",1989,5.6,"Male",6224,70200000
+"Star Trek V: The Final Frontier",1989,5.6,"Female",-851,70200000
+"Star Trek II: The Wrath of Khan",1982,7.3,"Male",8554,96800000
+"Star Trek II: The Wrath of Khan",1982,7.3,"Female",-2298,96800000
+"Star Trek III: The Search for Spock",1984,6.4,"Male",5897,8.7e+07
+"Star Trek III: The Search for Spock",1984,6.4,"Female",-1134,8.7e+07
+"Star Trek IV: The Voyage Home",1986,6.9,"Male",7311,1.33e+08
+"Star Trek IV: The Voyage Home",1986,6.9,"Female",-1972,1.33e+08
+"Batman Returns",1992,6.6,"Male",6278,2.8e+08
+"Batman Returns",1992,6.6,"Female",-1188,2.8e+08
+"Jaws",1975,7.5,"Male",8457,470654000
+"Jaws",1975,7.5,"Female",-835,470654000
+"Jaws 2",1978,5.9,"Male",6363,187884007
+"Jaws 2",1978,5.9,"Female",-1641,187884007
+"Jaws 3-D",1983,4.2,"Male",3733,87987055
+"Jaws 3-D",1983,4.2,"Female",-1953,87987055
+"Mars Attacks!",1996,6.1,"Male",5060,101371017
+"Mars Attacks!",1996,6.1,"Female",-1075,101371017
+"Jerry Maguire",1996,6.7,"Male",12742,273552592
+"Jerry Maguire",1996,6.7,"Female",-7690,273552592
+"Raising Arizona",1987,7.2,"Male",4879,29180280
+"Raising Arizona",1987,7.2,"Female",-1324,29180280
+"Tin Men",1987,6.8,"Male",18329,0
+"Tin Men",1987,6.8,"Female",-1809,0
+"Sneakers",1992,6.7,"Male",8619,105232691
+"Sneakers",1992,6.7,"Female",-850,105232691
+"Beavis and Butt-Head Do America",1996,6.5,"Male",2978,0
+"Beavis and Butt-Head Do America",1996,6.5,"Female",-519,0
+"Scream",1996,7,"Male",4255,173046663
+"Scream",1996,7,"Female",-4497,173046663
+"The Last of the Mohicans",1992,7.1,"Male",9558,75505856
+"The Last of the Mohicans",1992,7.1,"Female",-1847,75505856
+"Metro",1997,5.3,"Male",7915,31987563
+"Metro",1997,5.3,"Female",-781,31987563
+"Benny & Joon",1993,6.9,"Male",6780,23202734
+"Benny & Joon",1993,6.9,"Female",-2078,23202734
+"SubUrbia",1996,6.4,"Male",9069,656747
+"SubUrbia",1996,6.4,"Female",-2274,656747
+"Absolute Power",1997,6.4,"Male",9180,50068310
+"Absolute Power",1997,6.4,"Female",-3006,50068310
+"Lost Highway",1997,7.5,"Male",2898,3675201
+"Lost Highway",1997,7.5,"Female",-859,3675201
+"Donnie Brasco",1997,7.4,"Male",11744,41954997
+"Donnie Brasco",1997,7.4,"Female",-1720,41954997
+"The Saint",1997,5.9,"Male",2811,118063304
+"The Saint",1997,5.9,"Female",-1721,118063304
+"Liar Liar",1997,6.4,"Male",5714,302710615
+"Liar Liar",1997,6.4,"Female",-2045,302710615
+"Inventing the Abbotts",1997,6.4,"Male",12134,5926128
+"Inventing the Abbotts",1997,6.4,"Female",-8748,5926128
+"Grosse Pointe Blank",1997,6.9,"Male",5227,28084357
+"Grosse Pointe Blank",1997,6.9,"Female",-1684,28084357
+"Austin Powers: International Man of Mystery",1997,6.5,"Male",3779,67683989
+"Austin Powers: International Man of Mystery",1997,6.5,"Female",-1714,67683989
+"Breakdown",1997,6.6,"Male",3740,50159144
+"Breakdown",1997,6.6,"Female",-460,50159144
+"The Fifth Element",1997,7.3,"Male",6961,263920180
+"The Fifth Element",1997,7.3,"Female",-379,263920180
+"The Lost World: Jurassic Park",1997,6.2,"Male",6008,229074524
+"The Lost World: Jurassic Park",1997,6.2,"Female",-1596,229074524
+"Batman & Robin",1997,4.2,"Male",7020,238207122
+"Batman & Robin",1997,4.2,"Female",-3126,238207122
+"Hercules",1997,7.3,"Male",7445,252712101
+"Hercules",1997,7.3,"Female",-1294,252712101
+"My Best Friend's Wedding",1997,6.4,"Male",3308,299288605
+"My Best Friend's Wedding",1997,6.4,"Female",-6540,299288605
+"Face/Off",1997,6.8,"Male",3282,245676146
+"Face/Off",1997,6.8,"Female",-1433,245676146
+"Men in Black",1997,6.9,"Male",6057,589390539
+"Men in Black",1997,6.9,"Female",-776,589390539
+"Contact",1997,7.2,"Male",6876,171120329
+"Contact",1997,7.2,"Female",-4870,171120329
+"G.I. Jane",1997,6,"Male",4104,48169156
+"G.I. Jane",1997,6,"Female",-4267,48169156
+"Event Horizon",1997,6.4,"Male",13554,26673242
+"Event Horizon",1997,6.4,"Female",-3944,26673242
+"Spawn",1997,5,"Male",6181,87840042
+"Spawn",1997,5,"Female",-930,87840042
+"Conspiracy Theory",1997,6.5,"Male",5641,136982834
+"Conspiracy Theory",1997,6.5,"Female",-2672,136982834
+"Mimic",1997,5.7,"Male",3151,25480490
+"Mimic",1997,5.7,"Female",-1607,25480490
+"Air Force One",1997,6.2,"Male",4679,315156409
+"Air Force One",1997,6.2,"Female",-1492,315156409
+"One Eight Seven",1997,6.5,"Male",5023,5716080
+"One Eight Seven",1997,6.5,"Female",-1700,5716080
+"The Hunt for Red October",1990,7.2,"Male",12897,199200000
+"The Hunt for Red October",1990,7.2,"Female",0,199200000
+"My Own Private Idaho",1991,7.1,"Male",6253,0
+"My Own Private Idaho",1991,7.1,"Female",-252,0
+"The Edge",1997,6.8,"Male",6711,43312294
+"The Edge",1997,6.8,"Female",-246,43312294
+"L.A. Confidential",1997,7.7,"Male",8367,126216940
+"L.A. Confidential",1997,7.7,"Female",-1120,126216940
+"The Game",1997,7.5,"Male",6811,109423648
+"The Game",1997,7.5,"Female",-2706,109423648
+"U Turn",1997,6.5,"Male",24264,6682098
+"U Turn",1997,6.5,"Female",-8526,6682098
+"The Assignment",1997,6.6,"Male",8977,0
+"The Assignment",1997,6.6,"Female",-1141,0
+"The Ice Storm",1997,6.9,"Male",12622,8038061
+"The Ice Storm",1997,6.9,"Female",-7726,8038061
+"Chasing Amy",1997,6.7,"Male",20574,12021272
+"Chasing Amy",1997,6.7,"Female",-10864,12021272
+"Mrs Brown",1997,6.6,"Male",11684,0
+"Mrs Brown",1997,6.6,"Female",-4068,0
+"I Know What You Did Last Summer",1997,5.6,"Male",1074,125586134
+"I Know What You Did Last Summer",1997,5.6,"Female",-4583,125586134
+"The Devil's Advocate",1997,7.2,"Male",18188,152944660
+"The Devil's Advocate",1997,7.2,"Female",-4908,152944660
+"Gattaca",1997,7.5,"Male",4982,12532777
+"Gattaca",1997,7.5,"Female",-458,12532777
+"Gang Related",1997,6.5,"Male",21340,5790448
+"Gang Related",1997,6.5,"Female",-3588,5790448
+"Bean",1997,6.3,"Male",9432,251212670
+"Bean",1997,6.3,"Female",-2034,251212670
+"Boogie Nights",1997,7.5,"Male",13930,43101594
+"Boogie Nights",1997,7.5,"Female",-3974,43101594
+"Witness",1985,7,"Male",3993,68706993
+"Witness",1985,7,"Female",-1849,68706993
+"Starship Troopers",1997,6.7,"Male",6798,121214377
+"Starship Troopers",1997,6.7,"Female",-2299,121214377
+"The Truman Show",1998,7.8,"Male",4526,264118201
+"The Truman Show",1998,7.8,"Female",-670,264118201
+"Anastasia",1997,7.4,"Male",3003,139804348
+"Anastasia",1997,7.4,"Female",-2148,139804348
+"Alien: Resurrection",1997,5.9,"Male",2886,1.62e+08
+"Alien: Resurrection",1997,5.9,"Female",-1504,1.62e+08
+"Deconstructing Harry",1997,7.3,"Male",2030,10686841
+"Deconstructing Harry",1997,7.3,"Female",-663,10686841
+"Good Will Hunting",1997,7.9,"Male",19054,225933435
+"Good Will Hunting",1997,7.9,"Female",-3352,225933435
+"Scream 2",1997,6.1,"Male",3424,172363301
+"Scream 2",1997,6.1,"Female",-3630,172363301
+"The Sweet Hereafter",1997,6.8,"Male",10986,3263585
+"The Sweet Hereafter",1997,6.8,"Female",-8732,3263585
+"Titanic",1997,7.5,"Male",7825,1845034188
+"Titanic",1997,7.5,"Female",-4683,1845034188
+"Tomorrow Never Dies",1997,6,"Male",4071,333011068
+"Tomorrow Never Dies",1997,6,"Female",-1591,333011068
+"The Postman",1997,6.1,"Male",15049,17626234
+"The Postman",1997,6.1,"Female",-2734,17626234
+"The Horse Whisperer",1998,6.7,"Male",12080,186883563
+"The Horse Whisperer",1998,6.7,"Female",-16920,186883563
+"Jackie Brown",1997,7.3,"Male",25984,39673162
+"Jackie Brown",1997,7.3,"Female",-13244,39673162
+"Kundun",1997,6.8,"Male",4376,5684789
+"Kundun",1997,6.8,"Female",-312,5684789
+"The Big Lebowski",1998,7.8,"Male",9740,46189568
+"The Big Lebowski",1998,7.8,"Female",-830,46189568
+"Wag the Dog",1997,6.7,"Male",18030,64256513
+"Wag the Dog",1997,6.7,"Female",-4854,64256513
+"Dark City",1998,7.2,"Male",9546,27200316
+"Dark City",1998,7.2,"Female",-430,27200316
+"Hard Rain",1998,5.5,"Male",6879,19870567
+"Hard Rain",1998,5.5,"Female",-1009,19870567
+"Fallen",1998,6.6,"Male",5534,25232289
+"Fallen",1998,6.6,"Female",-780,25232289
+"Deep Rising",1998,6,"Male",4454,11203026
+"Deep Rising",1998,6,"Female",-667,11203026
+"The Wedding Singer",1998,6.5,"Male",7763,123306987
+"The Wedding Singer",1998,6.5,"Female",-5961,123306987
+"Sphere",1998,5.8,"Male",18450,13100000
+"Sphere",1998,5.8,"Female",-6424,13100000
+"As Good as It Gets",1997,7.2,"Male",15860,314178011
+"As Good as It Gets",1997,7.2,"Female",-8458,314178011
+"The Man in the Iron Mask",1998,6.3,"Male",7473,0
+"The Man in the Iron Mask",1998,6.3,"Female",-444,0
+"Wild Things",1998,6.3,"Male",10370,67200000
+"Wild Things",1998,6.3,"Female",-8200,67200000
+"Lost in Space",1998,5,"Male",5936,136159423
+"Lost in Space",1998,5,"Female",-1720,136159423
+"The Odd Couple II",1998,6.1,"Male",9840,0
+"The Odd Couple II",1998,6.1,"Female",-433,0
+"Zero Effect",1998,6,"Male",11711,1980338
+"Zero Effect",1998,6,"Female",-2216,1980338
+"Fear and Loathing in Las Vegas",1998,7.2,"Male",22984,10680275
+"Fear and Loathing in Las Vegas",1998,7.2,"Female",-1382,10680275
+"Henry Fool",1997,6.9,"Male",6800,1334786
+"Henry Fool",1997,6.9,"Female",-1619,1334786
+"Mulan",1998,7.6,"Male",10856,304320254
+"Mulan",1998,7.6,"Female",-3560,304320254
+"The X Files",1998,6.6,"Male",5584,189198313
+"The X Files",1998,6.6,"Female",-2512,189198313
+"Out of Sight",1998,6.5,"Male",23926,77745568
+"Out of Sight",1998,6.5,"Female",-7828,77745568
+"Armageddon",1998,6.5,"Male",7333,553799566
+"Armageddon",1998,6.5,"Female",-379,553799566
+"Lethal Weapon 4",1998,6.3,"Male",18758,285444603
+"Lethal Weapon 4",1998,6.3,"Female",-2096,285444603
+"Pi",1998,7.1,"Male",11364,3221152
+"Pi",1998,7.1,"Female",-3018,3221152
+"There's Something About Mary",1998,6.5,"Male",16078,369884651
+"There's Something About Mary",1998,6.5,"Female",-7076,369884651
+"On the Waterfront",1954,8,"Male",9292,9600000
+"On the Waterfront",1954,8,"Female",-1939,9600000
+"Rocky",1976,7.5,"Male",8233,117235147
+"Rocky",1976,7.5,"Female",-590,117235147
+"Kramer vs. Kramer",1979,7.4,"Male",8947,106260000
+"Kramer vs. Kramer",1979,7.4,"Female",-1878,106260000
+"Ordinary People",1980,7.4,"Male",16816,0
+"Ordinary People",1980,7.4,"Female",-5940,0
+"Terms of Endearment",1983,6.9,"Male",2080,0
+"Terms of Endearment",1983,6.9,"Female",-6032,0
+"The Breakfast Club",1985,7.8,"Male",13612,51525171
+"The Breakfast Club",1985,7.8,"Female",-4276,51525171
+"A Nightmare on Elm Street 3: Dream Warriors",1987,6.5,"Male",3817,44793222
+"A Nightmare on Elm Street 3: Dream Warriors",1987,6.5,"Female",-3546,44793222
+"A Nightmare on Elm Street 4: The Dream Master",1988,5.8,"Male",1778,72500000
+"A Nightmare on Elm Street 4: The Dream Master",1988,5.8,"Female",-2252,72500000
+"A Nightmare on Elm Street 5: The Dream Child",1989,5.5,"Male",2420,22168359
+"A Nightmare on Elm Street 5: The Dream Child",1989,5.5,"Female",-4614,22168359
+"Freddy's Dead: The Final Nightmare",1991,5.1,"Male",2667,34872033
+"Freddy's Dead: The Final Nightmare",1991,5.1,"Female",-877,34872033
+"Friday the 13th",1980,6.4,"Male",4532,59754601
+"Friday the 13th",2009,5.7,"Male",4532,91379051
+"Friday the 13th",1980,6.4,"Female",-3310,59754601
+"Friday the 13th",2009,5.7,"Female",-3310,91379051
+"Friday the 13th Part III",1982,5.7,"Male",2071,36690067
+"Friday the 13th Part III",1982,5.7,"Female",-2374,36690067
+"Friday the 13th Part VIII: Jason Takes Manhattan",1989,4.8,"Male",3162,1.4e+07
+"Friday the 13th Part VIII: Jason Takes Manhattan",1989,4.8,"Female",-2432,1.4e+07
+"Halloween",1978,7.4,"Male",2879,7e+07
+"Halloween",2007,5.9,"Male",2879,80253908
+"Halloween",1978,7.4,"Female",-5183,7e+07
+"Halloween",2007,5.9,"Female",-5183,80253908
+"Halloween II",1981,6.4,"Male",1777,25533818
+"Halloween II",1981,6.4,"Female",-2095,25533818
+"Halloween 4: The Return of Michael Myers",1988,5.9,"Male",1966,17768757
+"Halloween 4: The Return of Michael Myers",1988,5.9,"Female",-1641,17768757
+"The Exorcist",1973,7.5,"Male",3607,441306145
+"The Exorcist",1973,7.5,"Female",-2765,441306145
+"Lethal Weapon",1987,7,"Male",13854,120207127
+"Lethal Weapon",1987,7,"Female",-1282,120207127
+"Gremlins",1984,6.9,"Male",5460,153083102
+"Gremlins",1984,6.9,"Female",-1099,153083102
+"Gremlins 2: The New Batch",1990,6.3,"Male",5219,41482207
+"Gremlins 2: The New Batch",1990,6.3,"Female",-2246,41482207
+"Back to the Future Part II",1989,7.4,"Male",7837,3.32e+08
+"Back to the Future Part II",1989,7.4,"Female",-928,3.32e+08
+"Back to the Future Part III",1990,7.1,"Male",8044,244527583
+"Back to the Future Part III",1990,7.1,"Female",-1082,244527583
+"The Poseidon Adventure",1972,7.3,"Male",4733,84563118
+"The Poseidon Adventure",1972,7.3,"Female",-1156,84563118
+"Dune",1984,6.5,"Male",4791,30925690
+"Dune",1984,6.5,"Female",-1261,30925690
+"The Last Temptation of Christ",1988,7,"Male",6647,8373585
+"The Last Temptation of Christ",1988,7,"Female",-731,8373585
+"Saving Private Ryan",1998,7.9,"Male",10048,481840909
+"Saving Private Ryan",1998,7.9,"Female",0,481840909
+"The Black Cauldron",1985,6.5,"Male",6425,21288692
+"The Black Cauldron",1985,6.5,"Female",-1470,21288692
+"Blue Velvet",1986,7.7,"Male",12710,8551228
+"Blue Velvet",1986,7.7,"Female",-7890,8551228
+"The Jungle Book",1967,7.1,"Male",7060,205843612
+"The Jungle Book",1967,7.1,"Female",-167,205843612
+"The Little Mermaid",1989,7.2,"Male",8276,222300000
+"The Little Mermaid",1989,7.2,"Female",-3456,222300000
+"Newsies",1992,6.2,"Male",9458,0
+"Newsies",1992,6.2,"Female",-807,0
+"The Rescuers Down Under",1990,6.6,"Male",10044,47431461
+"The Rescuers Down Under",1990,6.6,"Female",-1012,47431461
+"The Rocketeer",1991,6.3,"Male",6503,6.2e+07
+"The Rocketeer",1991,6.3,"Female",-1710,6.2e+07
+"Sleeping Beauty",1959,6.8,"Male",1570,5.1e+07
+"Sleeping Beauty",1959,6.8,"Female",-3539,5.1e+07
+"The Outsiders",1983,6.9,"Male",6918,33697647
+"The Outsiders",1983,6.9,"Female",-669,33697647
+"Indiana Jones and the Temple of Doom",1984,7.1,"Male",3678,3.33e+08
+"Indiana Jones and the Temple of Doom",1984,7.1,"Female",-1564,3.33e+08
+"Maximum Overdrive",1986,5.5,"Male",1512,7433663
+"Maximum Overdrive",1986,5.5,"Female",-633,7433663
+"Needful Things",1993,5.9,"Male",2484,0
+"Needful Things",1993,5.9,"Female",-824,0
+"Cujo",1983,5.7,"Male",1956,21200000
+"Cujo",1983,5.7,"Female",-1136,21200000
+"Children of the Corn",1984,5.6,"Male",4036,1.4e+07
+"Children of the Corn",1984,5.6,"Female",-1326,1.4e+07
+"The Addams Family",1991,6.7,"Male",2728,191502426
+"The Addams Family",1991,6.7,"Female",-3689,191502426
+"Snake Eyes",1998,5.8,"Male",10816,103891409
+"Snake Eyes",1998,5.8,"Female",-1695,103891409
+"Weird Science",1985,6.4,"Male",5173,38934048
+"Weird Science",1985,6.4,"Female",-2062,38934048
+"Legend",1985,6.2,"Male",15716,15502112
+"Legend",2015,6.7,"Male",15716,42972994
+"Legend",1985,6.2,"Female",-5300,15502112
+"Legend",2015,6.7,"Female",-5300,42972994
+"Sixteen Candles",1984,6.9,"Male",2668,23686027
+"Sixteen Candles",1984,6.9,"Female",-2583,23686027
+"St. Elmo's Fire",1985,6,"Male",9885,37803872
+"St. Elmo's Fire",1985,6,"Female",-7372,37803872
+"Blade",1998,6.5,"Male",10760,131183530
+"Blade",1998,6.5,"Female",-3548,131183530
+"Beetlejuice",1988,7.1,"Male",5372,73326666
+"Beetlejuice",1988,7.1,"Female",-6004,73326666
+"Willow",1988,6.9,"Male",8996,57269863
+"Willow",1988,6.9,"Female",-3454,57269863
+"Rounders",1998,6.9,"Male",5281,22921898
+"Rounders",1998,6.9,"Female",-475,22921898
+"Cube",1997,6.9,"Male",4892,501818
+"Cube",1997,6.9,"Female",-3618,501818
+"Broadcast News",1987,6.8,"Male",19462,51249404
+"Broadcast News",1987,6.8,"Female",-9556,51249404
+"Working Girl",1988,6.5,"Male",2939,103173635
+"Working Girl",1988,6.5,"Female",-6495,103173635
+"Say Anything...",1989,7.2,"Male",5192,20036737
+"Say Anything...",1989,7.2,"Female",-3079,20036737
+"My Blue Heaven",1990,6,"Male",850,0
+"My Blue Heaven",1990,6,"Female",-804,0
+"Hero",1992,6.3,"Male",8604,0
+"Hero",1992,6.3,"Female",-3804,0
+"We're No Angels",1989,5.6,"Male",8443,0
+"We're No Angels",1989,5.6,"Female",-1531,0
+"A Few Good Men",1992,7.1,"Male",36484,243240178
+"A Few Good Men",1992,7.1,"Female",-5854,243240178
+"Rush Hour",1998,6.8,"Male",7612,244386864
+"Rush Hour",1998,6.8,"Female",-467,244386864
+"Ronin",1998,6.8,"Male",5746,41610884
+"Ronin",1998,6.8,"Female",-1221,41610884
+"Urban Legend",1998,5.6,"Male",3468,72527595
+"Urban Legend",1998,5.6,"Female",-4013,72527595
+"Edward Scissorhands",1990,7.5,"Male",1670,5.3e+07
+"Edward Scissorhands",1990,7.5,"Female",-3326,5.3e+07
+"Antz",1998,6,"Male",9180,171757863
+"Antz",1998,6,"Female",-3366,171757863
+"A Night at the Roxbury",1998,5.9,"Male",13139,30331165
+"A Night at the Roxbury",1998,5.9,"Female",-1490,30331165
+"My Cousin Vinny",1992,7.3,"Male",3728,64088552
+"My Cousin Vinny",1992,7.3,"Female",-409,64088552
+"Beloved",1998,5.9,"Male",8692,0
+"Beloved",1998,5.9,"Female",-19594,0
+"Practical Magic",1998,6.3,"Male",501,46683377
+"Practical Magic",1998,6.3,"Female",-2995,46683377
+"Apt Pupil",1998,6.2,"Male",27428,0
+"Apt Pupil",1998,6.2,"Female",-768,0
+"Pleasantville",1998,7.1,"Male",13676,0
+"Pleasantville",1998,7.1,"Female",-5246,0
+"Soldier",1998,6.1,"Male",6398,14567883
+"Soldier",1998,6.1,"Female",-3330,14567883
+"Life Is Beautiful",1997,8.3,"Male",7517,229400000
+"Life Is Beautiful",1997,8.3,"Female",-1044,229400000
+"American History X",1998,8.2,"Male",6394,23875127
+"American History X",1998,8.2,"Female",-1302,23875127
+"Gods and Monsters",1998,6.8,"Male",19588,6451628
+"Gods and Monsters",1998,6.8,"Female",-3648,6451628
+"The Siege",1998,6.1,"Male",16788,116672912
+"The Siege",1998,6.1,"Female",-5916,116672912
+"Elizabeth",1998,7.2,"Male",4597,82150642
+"Elizabeth",1998,7.2,"Female",-3524,82150642
+"I Still Know What You Did Last Summer",1998,5.1,"Male",6568,40002112
+"I Still Know What You Did Last Summer",1998,5.1,"Female",-2894,40002112
+"Meet Joe Black",1998,6.9,"Male",20874,142940100
+"Meet Joe Black",1998,6.9,"Female",-7186,142940100
+"Enemy of the State",1998,6.7,"Male",17154,250649836
+"Enemy of the State",1998,6.7,"Female",-2242,250649836
+"Fletch",1985,6.8,"Male",5339,59612888
+"Fletch",1985,6.8,"Female",-802,59612888
+"Very Bad Things",1998,6.2,"Male",6728,9898412
+"Very Bad Things",1998,6.2,"Female",-1473,9898412
+"A Simple Plan",1998,6.9,"Male",7563,0
+"A Simple Plan",1998,6.9,"Female",-1930,0
+"Star Trek: Insurrection",1998,6.3,"Male",7891,1.18e+08
+"Star Trek: Insurrection",1998,6.3,"Female",-912,1.18e+08
+"Rushmore",1998,7.5,"Male",4343,17096053
+"Rushmore",1998,7.5,"Female",-1060,17096053
+"Shakespeare in Love",1998,6.8,"Male",13924,289317794
+"Shakespeare in Love",1998,6.8,"Female",-4664,289317794
+"Rambo: First Blood Part II",1985,6.3,"Male",3767,300400432
+"Rambo: First Blood Part II",1985,6.3,"Female",-440,300400432
+"Rocky III",1982,6.6,"Male",9653,2.7e+08
+"Rocky III",1982,6.6,"Female",-296,2.7e+08
+"Rocky V",1990,5.3,"Male",2509,119946358
+"Rocky V",1990,5.3,"Female",-147,119946358
+"Clue",1985,7.1,"Male",6891,14643997
+"Clue",1985,7.1,"Female",-2516,14643997
+"The Karate Kid",1984,6.9,"Male",6248,90815558
+"The Karate Kid",1984,6.9,"Female",-2142,90815558
+"You've Got Mail",1998,6.3,"Male",13248,250821495
+"You've Got Mail",1998,6.3,"Female",-13450,250821495
+"The Thin Red Line",1998,7.2,"Male",18458,98126565
+"The Thin Red Line",1998,7.2,"Female",0,98126565
+"The Faculty",1998,6.2,"Male",1828,40283321
+"The Faculty",1998,6.2,"Female",-4397,40283321
+"Mighty Joe Young",1998,5.9,"Male",4573,0
+"Mighty Joe Young",1998,5.9,"Female",-2329,0
+"Stepmom",1998,6.9,"Male",5278,0
+"Stepmom",1998,6.9,"Female",-25014,0
+"A Civil Action",1998,6.1,"Male",4553,56702901
+"A Civil Action",1998,6.1,"Female",-255,56702901
+"Affliction",1997,5.8,"Male",17032,6330054
+"Affliction",1997,5.8,"Female",-2768,6330054
+"At First Sight",1999,5.9,"Male",13314,0
+"At First Sight",1999,5.9,"Female",-8688,0
+"Running Scared",1986,6.4,"Male",9430,0
+"Running Scared",1986,6.4,"Female",-639,0
+"Jumpin' Jack Flash",1986,5.9,"Male",1246,0
+"Jumpin' Jack Flash",1986,5.9,"Female",-5505,0
+"Peggy Sue Got Married",1986,5.9,"Male",5200,41382841
+"Peggy Sue Got Married",1986,5.9,"Female",-5847,41382841
+"Payback",1999,6.7,"Male",5218,161626121
+"Payback",1999,6.7,"Female",-1004,161626121
+"Blast from the Past",1999,6.3,"Male",15024,40263020
+"Blast from the Past",1999,6.3,"Female",-8676,40263020
+"Office Space",1999,7.4,"Male",15728,12827813
+"Office Space",1999,7.4,"Female",-1546,12827813
+"8MM",1999,6.1,"Male",16082,96618699
+"8MM",1999,6.1,"Female",-4426,96618699
+"Pet Sematary",1989,6.4,"Male",3634,57469467
+"Pet Sematary",1989,6.4,"Female",-2321,57469467
+"Pet Sematary II",1992,5,"Male",3430,17092453
+"Pet Sematary II",1992,5,"Female",-773,17092453
+"Christine",1983,6.5,"Male",4200,21200000
+"Christine",1983,6.5,"Female",-1693,21200000
+"Logan's Run",1976,6.6,"Male",4977,2.5e+07
+"Logan's Run",1976,6.6,"Female",-760,2.5e+07
+"Planet of the Apes",1968,7.5,"Male",6441,33395426
+"Planet of the Apes",1968,7.5,"Female",-1533,33395426
+"Analyze This",1999,6.4,"Male",26548,176885658
+"Analyze This",1999,6.4,"Female",-2292,176885658
+"The Corruptor",1999,6.1,"Male",9145,15156200
+"The Corruptor",1999,6.1,"Female",-556,15156200
+"Cruel Intentions",1999,6.6,"Male",10518,75902208
+"Cruel Intentions",1999,6.6,"Female",-9754,75902208
+"Lock, Stock and Two Smoking Barrels",1998,7.5,"Male",17264,3897569
+"Lock, Stock and Two Smoking Barrels",1998,7.5,"Female",0,3897569
+"The Deep End of the Ocean",1999,6,"Male",2553,28121100
+"The Deep End of the Ocean",1999,6,"Female",-3658,28121100
+"Dead Ringers",1988,7,"Male",3165,8038508
+"Dead Ringers",1988,7,"Female",-2906,8038508
+"Ravenous",1999,6.8,"Male",4410,0
+"Ravenous",1999,6.8,"Female",0,0
+"True Crime",1999,6.3,"Male",9024,0
+"True Crime",1999,6.3,"Female",-3265,0
+"Edtv",1999,5.7,"Male",18050,0
+"Edtv",1999,5.7,"Female",-6592,0
+"The Matrix",1999,7.9,"Male",4629,463517383
+"The Matrix",1999,7.9,"Female",-1084,463517383
+"10 Things I Hate About You",1999,7.3,"Male",10688,53478166
+"10 Things I Hate About You",1999,7.3,"Female",-8992,53478166
+"Go",1999,7,"Male",9704,28451622
+"Go",1999,7,"Female",-4160,28451622
+"Never Been Kissed",1999,5.8,"Male",6952,84565230
+"Never Been Kissed",1999,5.8,"Female",-12974,84565230
+"Life",1999,6.4,"Male",27748,73345029
+"Life",1999,6.4,"Female",-558,73345029
+"Election",1999,6.7,"Male",15258,0
+"Election",1999,6.7,"Female",-9754,0
+"eXistenZ",1999,6.7,"Male",5695,2856712
+"eXistenZ",1999,6.7,"Female",-3752,2856712
+"Entrapment",1999,6,"Male",9476,212404396
+"Entrapment",1999,6,"Female",-7164,212404396
+"The Mummy",1999,6.6,"Male",4727,415885488
+"The Mummy",1999,6.6,"Female",-1699,415885488
+"Star Wars: Episode I - The Phantom Menace",1999,6.4,"Male",8950,924317558
+"Star Wars: Episode I - The Phantom Menace",1999,6.4,"Female",-1788,924317558
+"Superman II",1980,6.5,"Male",3202,190458706
+"Superman II",1980,6.5,"Female",-2624,190458706
+"Superman III",1983,5.3,"Male",7235,75850624
+"Superman III",1983,5.3,"Female",-2931,75850624
+"Superman IV: The Quest for Peace",1987,4.1,"Male",4648,19300000
+"Superman IV: The Quest for Peace",1987,4.1,"Female",-2001,19300000
+"Frankenstein",1931,7.3,"Male",3374,1.2e+07
+"Frankenstein",1931,7.3,"Female",-425,1.2e+07
+"The Rocky Horror Picture Show",1975,7.4,"Male",3359,112892319
+"The Rocky Horror Picture Show",1975,7.4,"Female",-1168,112892319
+"Notting Hill",1999,7,"Male",12732,363889678
+"Notting Hill",1999,7,"Female",-7330,363889678
+"Austin Powers: The Spy Who Shagged Me",1999,6.1,"Male",3494,310940086
+"Austin Powers: The Spy Who Shagged Me",1999,6.1,"Female",-940,310940086
+"Tarzan",1999,7.1,"Male",2147,4.48e+08
+"Tarzan",1999,7.1,"Female",-2384,4.48e+08
+"The General's Daughter",1999,6.1,"Male",8872,149705852
+"The General's Daughter",1999,6.1,"Female",-2419,149705852
+"Wild Wild West",1999,5.1,"Male",14888,222104681
+"Wild Wild West",1999,5.1,"Female",-1448,222104681
+"American Pie",1999,6.4,"Male",12612,235483004
+"American Pie",1999,6.4,"Female",-4844,235483004
+"Arlington Road",1999,7,"Male",8457,0
+"Arlington Road",1999,7,"Female",-2103,0
+"The Blair Witch Project",1999,6.3,"Male",4410,2.48e+08
+"The Blair Witch Project",1999,6.3,"Female",-5168,2.48e+08
+"Eyes Wide Shut",1999,7.1,"Male",2387,162091208
+"Eyes Wide Shut",1999,7.1,"Female",-708,162091208
+"Lake Placid",1999,5.5,"Male",8932,56870414
+"Lake Placid",1999,5.5,"Female",-5250,56870414
+"Ghostbusters",1984,7.3,"Male",9140,295212467
+"Ghostbusters",1984,7.3,"Female",-1591,295212467
+"Ghostbusters II",1989,6.3,"Male",18706,215394738
+"Ghostbusters II",1989,6.3,"Female",-4106,215394738
+"Drop Dead Gorgeous",1999,6.5,"Male",2734,10571408
+"Drop Dead Gorgeous",1999,6.5,"Female",-11134,10571408
+"The Haunting",1999,5.2,"Male",7832,91188905
+"The Haunting",1999,5.2,"Female",-10472,91188905
+"Mystery Men",1999,5.7,"Male",11178,29762011
+"Mystery Men",1999,5.7,"Female",-2032,29762011
+"Runaway Bride",1999,5.8,"Male",10506,309457509
+"Runaway Bride",1999,5.8,"Female",-11288,309457509
+"The Mosquito Coast",1986,6.3,"Male",1738,14302779
+"The Mosquito Coast",1986,6.3,"Female",-394,14302779
+"Light of Day",1987,5.4,"Male",4054,0
+"Light of Day",1987,5.4,"Female",-3076,0
+"Frances",1982,7.1,"Male",10906,5e+06
+"Frances",1982,7.1,"Female",-15978,5e+06
+"The Iron Giant",1999,7.6,"Male",4455,23159305
+"The Iron Giant",1999,7.6,"Female",-678,23159305
+"The Sixth Sense",1999,7.7,"Male",8770,672806292
+"The Sixth Sense",1999,7.7,"Female",-2602,672806292
+"Detroit Rock City",1999,6.7,"Male",18426,4217115
+"Detroit Rock City",1999,6.7,"Female",-4132,4217115
+"Airplane!",1980,7.1,"Male",3984,83453539
+"Airplane!",1980,7.1,"Female",-1500,83453539
+"An American Werewolf in Paris",1997,5.3,"Male",7776,26570463
+"An American Werewolf in Paris",1997,5.3,"Female",-1899,26570463
+"Big",1988,6.9,"Male",8568,151668774
+"Big",1988,6.9,"Female",-3290,151668774
+"The Pelican Brief",1993,6.3,"Male",5229,195268056
+"The Pelican Brief",1993,6.3,"Female",-3004,195268056
+"Chill Factor",1999,5.3,"Male",8982,11263966
+"Chill Factor",1999,5.3,"Female",-245,11263966
+"Stir of Echoes",1999,6.5,"Male",7652,21133087
+"Stir of Echoes",1999,6.5,"Female",-3153,21133087
+"American Beauty",1999,7.9,"Male",9882,356296601
+"American Beauty",1999,7.9,"Female",-6842,356296601
+"Mumford",1999,6.3,"Male",19462,0
+"Mumford",1999,6.3,"Female",-8996,0
+"Three Kings",1999,6.6,"Male",7949,1.08e+08
+"Three Kings",1999,6.6,"Female",-795,1.08e+08
+"The Dark Half",1993,5.4,"Male",8926,10611160
+"The Dark Half",1993,5.4,"Female",-1623,10611160
+"Psycho II",1983,6,"Male",5997,34725000
+"Psycho II",1983,6,"Female",-3840,34725000
+"The Limey",1999,6.6,"Male",14856,3193102
+"The Limey",1999,6.6,"Female",-4250,3193102
+"Risky Business",1983,6.4,"Male",4847,63541777
+"Risky Business",1983,6.4,"Female",-1701,63541777
+"Total Recall",1990,7.1,"Male",4936,261317921
+"Total Recall",1990,7.1,"Female",-1624,261317921
+"Ferris Bueller's Day Off",1986,7.5,"Male",4340,70136369
+"Ferris Bueller's Day Off",1986,7.5,"Female",-2152,70136369
+"Someone to Watch Over Me",1987,5.8,"Male",9336,10278549
+"Someone to Watch Over Me",1987,5.8,"Female",-5248,10278549
+"Fight Club",1999,8.3,"Male",9364,100853753
+"Fight Club",1999,8.3,"Female",-1144,100853753
+"Bringing Out the Dead",1999,6.6,"Male",5799,0
+"Bringing Out the Dead",1999,6.6,"Female",-1711,0
+"Who Framed Roger Rabbit",1988,7.2,"Male",7557,329803958
+"Who Framed Roger Rabbit",1988,7.2,"Female",-1115,329803958
+"For Your Eyes Only",1981,6.3,"Male",1599,195312802
+"For Your Eyes Only",1981,6.3,"Female",-248,195312802
+"Live and Let Die",1973,6.4,"Male",2263,161777836
+"Live and Let Die",1973,6.4,"Female",-303,161777836
+"House on Haunted Hill",1999,5.5,"Male",4963,40846082
+"House on Haunted Hill",1999,5.5,"Female",-1816,40846082
+"Music of the Heart",1999,6.3,"Male",5136,14859394
+"Music of the Heart",1999,6.3,"Female",-17274,14859394
+"Being John Malkovich",1999,7.3,"Male",6344,22863596
+"Being John Malkovich",1999,7.3,"Female",-3931,22863596
+"The Insider",1999,7.3,"Male",21188,60289912
+"The Insider",1999,7.3,"Female",-1780,60289912
+"Drugstore Cowboy",1989,7,"Male",9401,4729352
+"Drugstore Cowboy",1989,7,"Female",-2451,4729352
+"Spaceballs",1987,6.7,"Male",4537,38119483
+"Spaceballs",1987,6.7,"Female",-1042,38119483
+"Trading Places",1983,7.1,"Male",8595,90400000
+"Trading Places",1983,7.1,"Female",-434,90400000
+"Dead Again",1991,6.7,"Male",4126,38016380
+"Dead Again",1991,6.7,"Female",-1402,38016380
+"Dogma",1999,6.8,"Male",22322,30652890
+"Dogma",1999,6.8,"Female",-10480,30652890
+"The Verdict",1982,7.4,"Male",19654,53977250
+"The Verdict",1982,7.4,"Female",-1376,53977250
+"Moonstruck",1987,6.7,"Male",10068,80640528
+"Moonstruck",1987,6.7,"Female",-8632,80640528
+"Sleepy Hollow",1999,6.9,"Male",10422,206071502
+"Sleepy Hollow",1999,6.9,"Female",-3058,206071502
+"The World Is Not Enough",1999,6,"Male",7160,361832400
+"The World Is Not Enough",1999,6,"Female",-3918,361832400
+"Awakenings",1990,7.6,"Male",9503,52096475
+"Awakenings",1990,7.6,"Female",-2417,52096475
+"Come See the Paradise",1990,6.1,"Male",4286,0
+"Come See the Paradise",1990,6.1,"Female",-2787,0
+"Backdraft",1991,6.4,"Male",20664,152368585
+"Backdraft",1991,6.4,"Female",-2798,152368585
+"The Fisher King",1991,7.2,"Male",5398,41895491
+"The Fisher King",1991,7.2,"Female",-2448,41895491
+"End of Days",1999,5.5,"Male",2297,211989043
+"End of Days",1999,5.5,"Female",-1681,211989043
+"The Distinguished Gentleman",1992,5.7,"Male",1384,46434570
+"The Distinguished Gentleman",1992,5.7,"Female",-110,46434570
+"The Bonfire of the Vanities",1990,5.3,"Male",11369,15691192
+"The Bonfire of the Vanities",1990,5.3,"Female",-2844,15691192
+"The Green Mile",1999,8.2,"Male",11310,284600000
+"The Green Mile",1999,8.2,"Female",-1095,284600000
+"The Cider House Rules",1999,6.9,"Male",7755,88545092
+"The Cider House Rules",1999,6.9,"Female",-2689,88545092
+"Stuart Little",1999,5.8,"Male",4217,300135367
+"Stuart Little",1999,5.8,"Female",-1256,300135367
+"Magnolia",1999,7.5,"Male",33024,48451803
+"Magnolia",1999,7.5,"Female",-8466,48451803
+"Any Given Sunday",1999,6.8,"Male",18436,100230832
+"Any Given Sunday",1999,6.8,"Female",-3260,100230832
+"Man on the Moon",1999,6.9,"Male",15692,47434430
+"Man on the Moon",1999,6.9,"Female",-1356,47434430
+"Galaxy Quest",1999,6.9,"Male",8030,90683916
+"Galaxy Quest",1999,6.9,"Female",-1493,90683916
+"The Talented Mr. Ripley",1999,7.1,"Male",17732,128798265
+"The Talented Mr. Ripley",1999,7.1,"Female",-4432,128798265
+"Next Friday",2000,6.5,"Male",7569,59827328
+"Next Friday",2000,6.5,"Female",-665,59827328
+"Snow Falling on Cedars",1999,6.3,"Male",8438,0
+"Snow Falling on Cedars",1999,6.3,"Female",-1972,0
+"Malcolm X",1992,7.3,"Male",8054,48169908
+"Malcolm X",1992,7.3,"Female",-859,48169908
+"Sister Act",1992,6.5,"Male",2234,231605150
+"Sister Act",1992,6.5,"Female",-6394,231605150
+"The Bodyguard",1992,6.2,"Male",8843,411006740
+"The Bodyguard",1992,6.2,"Female",-5086,411006740
+"Death Becomes Her",1992,6.3,"Male",763,149022650
+"Death Becomes Her",1992,6.3,"Female",-1491,149022650
+"Twin Peaks: Fire Walk with Me",1992,7.3,"Male",5973,4160851
+"Twin Peaks: Fire Walk with Me",1992,7.3,"Female",-3623,4160851
+"Buffy the Vampire Slayer",1992,5.3,"Male",6184,16624456
+"Buffy the Vampire Slayer",1992,5.3,"Female",-5181,16624456
+"The Cutting Edge",1992,6.6,"Male",4186,25105517
+"The Cutting Edge",1992,6.6,"Female",-1707,25105517
+"Bad Lieutenant",1992,6.9,"Male",3072,2019469
+"Bad Lieutenant",1992,6.9,"Female",-1222,2019469
+"Scream 3",2000,5.7,"Male",7712,161834276
+"Scream 3",2000,5.7,"Female",-7720,161834276
+"Single White Female",1992,6,"Male",2063,48017402
+"Single White Female",1992,6,"Female",-6409,48017402
+"The Beach",2000,6.3,"Male",9204,144056873
+"The Beach",2000,6.3,"Female",-1605,144056873
+"Boiler Room",2000,6.5,"Male",13596,28780255
+"Boiler Room",2000,6.5,"Female",-1465,28780255
+"Pitch Black",2000,6.7,"Male",8966,53187659
+"Pitch Black",2000,6.7,"Female",-4430,53187659
+"Reindeer Games",2000,5.3,"Male",18934,32168970
+"Reindeer Games",2000,5.3,"Female",-3942,32168970
+"Wonder Boys",2000,6.9,"Male",18460,0
+"Wonder Boys",2000,6.9,"Female",-3788,0
+"Mission to Mars",2000,5.7,"Male",7302,60874615
+"Mission to Mars",2000,5.7,"Female",-1062,60874615
+"The Ninth Gate",1999,6.3,"Male",4820,58401898
+"The Ninth Gate",1999,6.3,"Female",-1359,58401898
+"Defending Your Life",1991,6.5,"Male",9822,0
+"Defending Your Life",1991,6.5,"Female",-3837,0
+"Bull Durham",1988,6.6,"Male",9542,50888000
+"Bull Durham",1988,6.6,"Female",-6122,50888000
+"American Graffiti",1973,6.9,"Male",7255,1.4e+08
+"American Graffiti",1973,6.9,"Female",-2619,1.4e+08
+"JFK",1991,7.5,"Male",50752,205405498
+"JFK",1991,7.5,"Female",-7544,205405498
+"Erin Brockovich",2000,7.1,"Male",5659,256271286
+"Erin Brockovich",2000,7.1,"Female",-9126,256271286
+"Final Destination",2000,6.4,"Male",1971,53302314
+"Final Destination",2000,6.4,"Female",-908,53302314
+"Thelma & Louise",1991,7.2,"Male",4438,45361000
+"Thelma & Louise",1991,7.2,"Female",-9706,45361000
+"Do the Right Thing",1989,7.6,"Male",4850,37295445
+"Do the Right Thing",1989,7.6,"Female",-1070,37295445
+"Jacob's Ladder",1990,7.3,"Male",6508,25965144
+"Jacob's Ladder",1990,7.3,"Female",-2229,25965144
+"La Bamba",1987,6.8,"Male",5097,54215416
+"La Bamba",1987,6.8,"Female",-1723,54215416
+"High Fidelity",2000,7,"Male",31114,47126295
+"High Fidelity",2000,7,"Female",-10270,47126295
+"El Dorado",1966,7.2,"Male",10550,6e+06
+"El Dorado",1966,7.2,"Female",-1110,6e+06
+"Hook",1991,6.7,"Male",5172,300854823
+"Hook",1991,6.7,"Female",-2335,300854823
+"Midnight Express",1978,7.6,"Male",4516,3.5e+07
+"Midnight Express",1978,7.6,"Female",-241,3.5e+07
+"Misery",1990,7.6,"Male",3630,61276872
+"Misery",1990,7.6,"Female",-6314,61276872
+"Frequency",2000,7,"Male",12286,68106245
+"Frequency",2000,7,"Female",-1154,68106245
+"Return to Me",2000,6.1,"Male",3938,36609995
+"Return to Me",2000,6.1,"Female",-1748,36609995
+"Arthur",1981,6.5,"Male",8921,95461682
+"Arthur",1981,6.5,"Female",-4841,95461682
+"Bachelor Party",1984,5.8,"Male",3666,38435947
+"Bachelor Party",1984,5.8,"Female",-955,38435947
+"Predator",1987,7.3,"Male",2875,98235548
+"Predator",1987,7.3,"Female",-132,98235548
+"28 Days",2000,6,"Male",699,0
+"28 Days",2000,6,"Female",-1705,0
+"American Psycho",2000,7.3,"Male",13962,34266564
+"American Psycho",2000,7.3,"Female",-3212,34266564
+"Diner",1982,6.9,"Male",7690,0
+"Diner",1982,6.9,"Female",-1370,0
+"Cabaret",1972,7.4,"Male",2057,0
+"Cabaret",1972,7.4,"Female",-3278,0
+"Caddyshack",1980,6.7,"Male",8462,39846344
+"Caddyshack",1980,6.7,"Female",-2133,39846344
+"Love & Basketball",2000,7.5,"Male",4260,27728118
+"Love & Basketball",2000,7.5,"Female",-5638,27728118
+"Gladiator",2000,7.9,"Male",15594,457640427
+"Gladiator",2000,7.9,"Female",-2778,457640427
+"Battlefield Earth",2000,3,"Male",5825,21400000
+"Battlefield Earth",2000,3,"Female",0,21400000
+"Mission: Impossible II",2000,5.9,"Male",17418,546388105
+"Mission: Impossible II",2000,5.9,"Female",-3346,546388105
+"Blazing Saddles",1974,7.2,"Male",4753,119500000
+"Blazing Saddles",1974,7.2,"Female",-309,119500000
+"The Fabulous Baker Boys",1989,6.5,"Male",10711,0
+"The Fabulous Baker Boys",1989,6.5,"Female",-2807,0
+"Predator 2",1990,6,"Male",4324,57120318
+"Predator 2",1990,6,"Female",-612,57120318
+"Starman",1984,6.6,"Male",4138,28744356
+"Starman",1984,6.6,"Female",-2421,28744356
+"Alien Nation",1988,5.9,"Male",5888,32155047
+"Alien Nation",1988,5.9,"Female",-349,32155047
+"Bird on a Wire",1990,5.9,"Male",1863,0
+"Bird on a Wire",1990,5.9,"Female",-1126,0
+"Firestarter",1984,5.9,"Male",2430,17080167
+"Firestarter",1984,5.9,"Female",-2282,17080167
+"Gone in Sixty Seconds",2000,6.1,"Male",8820,237202299
+"Gone in Sixty Seconds",2000,6.1,"Female",-1362,237202299
+"Near Dark",1987,6.8,"Male",2388,0
+"Near Dark",1987,6.8,"Female",-912,0
+"The Patriot",2000,6.8,"Male",6568,215294342
+"The Patriot",2000,6.8,"Female",-275,215294342
+"Croupier",1998,6.7,"Male",12600,0
+"Croupier",1998,6.7,"Female",-4200,0
+"X-Men",2000,6.8,"Male",4175,296339527
+"X-Men",2000,6.8,"Female",-850,296339527
+"What Lies Beneath",2000,6.3,"Male",4668,155464351
+"What Lies Beneath",2000,6.3,"Female",-8754,155464351
+"Autumn in New York",2000,5.7,"Male",10868,0
+"Autumn in New York",2000,5.7,"Female",-11302,0
+"Hollow Man",2000,5.6,"Male",10502,190213455
+"Hollow Man",2000,5.6,"Female",-6032,190213455
+"Space Cowboys",2000,6.3,"Male",8317,128884132
+"Space Cowboys",2000,6.3,"Female",-1131,128884132
+"The Replacements",2000,6.2,"Male",4657,0
+"The Replacements",2000,6.2,"Female",-540,0
+"The Cell",2000,6,"Male",6556,104155843
+"The Cell",2000,6,"Female",-4532,104155843
+"Supergirl",1984,4.7,"Male",4782,14296438
+"Supergirl",1984,4.7,"Female",-6320,14296438
+"Highlander: Endgame",2000,4.4,"Male",7796,15843608
+"Highlander: Endgame",2000,4.4,"Female",-1029,15843608
+"Nurse Betty",2000,5.9,"Male",8802,0
+"Nurse Betty",2000,5.9,"Female",-6649,0
+"The Way of the Gun",2000,6.4,"Male",9754,19125401
+"The Way of the Gun",2000,6.4,"Female",-1878,19125401
+"Almost Famous",2000,7.4,"Male",16484,47383689
+"Almost Famous",2000,7.4,"Female",-6766,47383689
+"Hellraiser",1987,6.9,"Male",4280,14564027
+"Hellraiser",1987,6.9,"Female",-3084,14564027
+"Hellraiser III: Hell on Earth",1992,5.3,"Male",2175,12534961
+"Hellraiser III: Hell on Earth",1992,5.3,"Female",-3040,12534961
+"Bamboozled",2000,6.3,"Male",9632,0
+"Bamboozled",2000,6.3,"Female",-1835,0
+"Get Carter",2000,4.8,"Male",3867,19412993
+"Get Carter",2000,4.8,"Female",-1142,19412993
+"Requiem for a Dream",2000,7.9,"Male",4910,7390108
+"Requiem for a Dream",2000,7.9,"Female",-3550,7390108
+"Lost Souls",2000,4.5,"Male",3572,0
+"Lost Souls",2000,4.5,"Female",-2870,0
+"Charlie's Angels",2000,5.6,"Male",3608,264105545
+"Charlie's Angels",2000,5.6,"Female",-6964,264105545
+"Little Nicky",2000,5.2,"Male",14414,0
+"Little Nicky",2000,5.2,"Female",-2418,0
+"Red Planet",2000,5.4,"Male",12584,33463969
+"Red Planet",2000,5.4,"Female",-2168,33463969
+"You Can Count on Me",2000,6.8,"Male",14022,0
+"You Can Count on Me",2000,6.8,"Female",-8564,0
+"Quills",2000,6.8,"Male",8451,7060876
+"Quills",2000,6.8,"Female",-2313,7060876
+"Unbreakable",2000,6.9,"Male",4101,248118121
+"Unbreakable",2000,6.9,"Female",-1206,248118121
+"Wall Street",1987,7,"Male",26440,43848069
+"Wall Street",1987,7,"Female",-3290,43848069
+"Born on the Fourth of July",1989,6.7,"Male",5422,161001698
+"Born on the Fourth of July",1989,6.7,"Female",-528,161001698
+"Chocolat",2000,6.8,"Male",3224,152500343
+"Chocolat",2000,6.8,"Female",-3254,152500343
+"Cast Away",2000,7.5,"Male",4956,429632142
+"Cast Away",2000,7.5,"Female",-867,429632142
+"The Family Man",2000,6.5,"Male",20994,0
+"The Family Man",2000,6.5,"Female",-8416,0
+"O Brother, Where Art Thou?",2000,7.3,"Male",8450,71868327
+"O Brother, Where Art Thou?",2000,7.3,"Female",-312,71868327
+"State and Main",2000,6.5,"Male",8601,0
+"State and Main",2000,6.5,"Female",-2182,0
+"Dracula 2000",2000,4.6,"Male",2404,33000337
+"Dracula 2000",2000,4.6,"Female",-1326,33000337
+"All the Pretty Horses",2000,5.8,"Male",11394,0
+"All the Pretty Horses",2000,5.8,"Female",-1559,0
+"Thirteen Days",2000,6.9,"Male",12417,34566746
+"Thirteen Days",2000,6.9,"Female",-136,34566746
+"Traffic",2000,6.9,"Male",6703,207515725
+"Traffic",2000,6.9,"Female",-3192,207515725
+"Shadow of the Vampire",2000,6.6,"Male",10069,8279017
+"Shadow of the Vampire",2000,6.6,"Female",-1300,8279017
+"House of Games",1987,7,"Male",1690,2585639
+"House of Games",1987,7,"Female",-1458,2585639
+"An Officer and a Gentleman",1982,6.8,"Male",8714,129795554
+"An Officer and a Gentleman",1982,6.8,"Female",-2671,129795554
+"Antitrust",2001,5.8,"Male",15668,18195610
+"Antitrust",2001,5.8,"Female",-3686,18195610
+"Save the Last Dance",2001,6.3,"Male",4318,91038276
+"Save the Last Dance",2001,6.3,"Female",-4047,91038276
+"Sugar & Spice",2001,5.7,"Male",2534,13276953
+"Sugar & Spice",2001,5.7,"Female",-11672,13276953
+"The Big Easy",1986,6.2,"Male",5659,0
+"The Big Easy",1986,6.2,"Female",-299,0
+"Hope and Glory",1987,6.5,"Male",4463,0
+"Hope and Glory",1987,6.5,"Female",-3234,0
+"Innerspace",1987,6.6,"Male",6398,25893810
+"Innerspace",1987,6.6,"Female",-1192,25893810
+"Jaws: The Revenge",1987,3.5,"Male",5630,51881013
+"Jaws: The Revenge",1987,3.5,"Female",-3079,51881013
+"The Lost Boys",1987,6.8,"Male",5722,32222567
+"The Lost Boys",1987,6.8,"Female",-1733,32222567
+"Hannibal",2001,6.4,"Male",5343,351692268
+"Hannibal",2001,6.4,"Female",-2265,351692268
+"Sweet November",2001,6.4,"Male",5402,65754228
+"Sweet November",2001,6.4,"Female",-3408,65754228
+"Monkeybone",2001,4.2,"Male",4418,5409517
+"Monkeybone",2001,4.2,"Female",-1667,5409517
+"15 Minutes",2001,5.7,"Male",7584,56359980
+"15 Minutes",2001,5.7,"Female",-1524,56359980
+"Manhunter",1986,6.8,"Male",8650,8620929
+"Manhunter",1986,6.8,"Female",-1310,8620929
+"Memento",2000,8.1,"Male",16450,39723096
+"Memento",2000,8.1,"Female",-3646,39723096
+"Blow",2001,7.4,"Male",21740,83282296
+"Blow",2001,7.4,"Female",-3342,83282296
+"Scarface",1983,8,"Male",12307,65884703
+"Scarface",1983,8,"Female",-1556,65884703
+"True Believer",1989,6.3,"Male",10385,0
+"True Believer",1989,6.3,"Female",-707,0
+"Nine to Five",1980,6.7,"Male",659,0
+"Nine to Five",1980,6.7,"Female",-1160,0
+"Angel Eyes",2001,5.5,"Male",8140,29700000
+"Angel Eyes",2001,5.5,"Female",-11438,29700000
+"Shrek",2001,7.3,"Male",17246,484409218
+"Shrek",2001,7.3,"Female",-3288,484409218
+"Pearl Harbor",2001,6.6,"Male",4988,449220945
+"Pearl Harbor",2001,6.6,"Female",-1259,449220945
+"Swordfish",2001,6.1,"Male",5316,147080413
+"Swordfish",2001,6.1,"Female",-1004,147080413
+"The Anniversary Party",2001,6.4,"Male",5352,0
+"The Anniversary Party",2001,6.4,"Female",-6574,0
+"Point Break",1991,6.9,"Male",4292,83531958
+"Point Break",1991,6.9,"Female",-1390,83531958
+"Unlawful Entry",1992,5.8,"Male",4181,57138719
+"Unlawful Entry",1992,5.8,"Female",-1097,57138719
+"Tootsie",1982,6.9,"Male",1252,177200000
+"Tootsie",1982,6.9,"Female",-1604,177200000
+"The Fast and the Furious",2001,6.6,"Male",5416,207283925
+"The Fast and the Furious",2001,6.6,"Female",-699,207283925
+"A.I. Artificial Intelligence",2001,6.8,"Male",4315,235926552
+"A.I. Artificial Intelligence",2001,6.8,"Female",-1200,235926552
+"Scary Movie 2",2001,5.4,"Male",5751,141220678
+"Scary Movie 2",2001,5.4,"Female",-4097,141220678
+"Something Wild",1986,6.5,"Male",6022,8362969
+"Something Wild",1986,6.5,"Female",-3264,8362969
+"Legally Blonde",2001,6.2,"Male",2754,141774679
+"Legally Blonde",2001,6.2,"Female",-7134,141774679
+"Made",2001,6.3,"Male",10410,5476060
+"Made",2001,6.3,"Female",-682,5476060
+"Above the Law",1988,5.9,"Male",6527,18869631
+"Above the Law",1988,5.9,"Female",-1317,18869631
+"Beaches",1988,6.5,"Male",708,57041866
+"Beaches",1988,6.5,"Female",-3477,57041866
+"The Blob",1988,6.3,"Male",3101,8247943
+"The Blob",1988,6.3,"Female",-1268,8247943
+"Coming to America",1988,6.5,"Male",5734,288752301
+"Coming to America",1988,6.5,"Female",-1443,288752301
+"Critters 2",1988,5,"Male",2515,3813293
+"Critters 2",1988,5,"Female",-1047,3813293
+"The Great Outdoors",1988,6.4,"Male",8091,43455230
+"The Great Outdoors",1988,6.4,"Female",-1351,43455230
+"Red Heat",1988,5.8,"Male",8233,34994648
+"Red Heat",1988,5.8,"Female",-570,34994648
+"They Live",1988,7.1,"Male",4144,13008928
+"They Live",1988,7.1,"Female",-301,13008928
+"Twins",1988,5.7,"Male",6976,216614388
+"Twins",1988,5.7,"Female",-864,216614388
+"Black Rain",1989,6.2,"Male",5225,45892212
+"Black Rain",1989,6.2,"Female",-404,45892212
+"Casualties of War",1989,6.8,"Male",9095,18671317
+"Casualties of War",1989,6.8,"Female",0,18671317
+"A Dry White Season",1989,6.5,"Male",9202,0
+"A Dry White Season",1989,6.5,"Female",-1716,0
+"Erik the Viking",1989,6,"Male",13425,0
+"Erik the Viking",1989,6,"Female",-2809,0
+"Farewell to the King",1989,5.9,"Male",3442,2420917
+"Farewell to the King",1989,5.9,"Female",-131,2420917
+"Gleaming the Cube",1989,5.4,"Male",6508,2777280
+"Gleaming the Cube",1989,5.4,"Female",-1190,2777280
+"Leviathan",1989,6,"Male",3812,15704614
+"Leviathan",1989,6,"Female",-1030,15704614
+"Major League",1989,6.7,"Male",20150,49797148
+"Major League",1989,6.7,"Female",-4882,49797148
+"Jurassic Park III",2001,5.7,"Male",3307,368780809
+"Jurassic Park III",2001,5.7,"Female",-824,368780809
+"Ghost World",2001,7.1,"Male",9122,0
+"Ghost World",2001,7.1,"Female",-18692,0
+"Sea of Love",1989,6.7,"Male",5478,110879513
+"Sea of Love",1989,6.7,"Female",-1269,110879513
+"Uncle Buck",1989,6.6,"Male",6840,79258538
+"Uncle Buck",1989,6.6,"Female",-4170,79258538
+"The Wizard",1989,6.1,"Male",3282,14278900
+"The Wizard",1989,6.1,"Female",-1147,14278900
+"Rush Hour 2",2001,6.4,"Male",14986,347325802
+"Rush Hour 2",2001,6.4,"Female",-1626,347325802
+"The Others",2001,7.4,"Male",854,0
+"The Others",2001,7.4,"Female",-6261,0
+"American Outlaws",2001,5.7,"Male",10438,13678913
+"American Outlaws",2001,5.7,"Female",-911,13678913
+"Jay and Silent Bob Strike Back",2001,6.4,"Male",19270,33788161
+"Jay and Silent Bob Strike Back",2001,6.4,"Female",-4838,33788161
+"Training Day",2001,7.3,"Male",9044,104876233
+"Training Day",2001,7.3,"Female",-104,104876233
+"Little Man Tate",1991,6,"Male",4549,0
+"Little Man Tate",1991,6,"Female",-5942,0
+"Hearts in Atlantis",2001,6.5,"Male",4116,24185781
+"Hearts in Atlantis",2001,6.5,"Female",-1608,24185781
+"Joy Ride",2001,6.3,"Male",4239,36642838
+"Joy Ride",2001,6.3,"Female",-909,36642838
+"Serendipity",2001,6.6,"Male",4627,77516304
+"Serendipity",2001,6.6,"Female",-4173,77516304
+"Coal Miner's Daughter",1980,7.2,"Male",4680,67182787
+"Coal Miner's Daughter",1980,7.2,"Female",-4560,67182787
+"Mulholland Drive",2001,7.7,"Male",5368,20117339
+"Mulholland Drive",2001,7.7,"Female",-8362,20117339
+"Bones",2001,4.3,"Male",5707,7316658
+"Bones",2001,4.3,"Female",-1463,7316658
+"The Last Castle",2001,7,"Male",10298,27642707
+"The Last Castle",2001,7,"Female",-116,27642707
+"K-PAX",2001,7.1,"Male",7243,50315140
+"K-PAX",2001,7.1,"Female",-1445,50315140
+"Thir13en Ghosts",2001,5.4,"Male",4959,0
+"Thir13en Ghosts",2001,5.4,"Female",-2023,0
+"Donnie Darko",2001,7.7,"Male",3877,1270522
+"Donnie Darko",2001,7.7,"Female",-2982,1270522
+"Life as a House",2001,7.2,"Male",15390,0
+"Life as a House",2001,7.2,"Female",-6262,0
+"Monsters, Inc.",2001,7.5,"Male",10184,562816256
+"Monsters, Inc.",2001,7.5,"Female",-399,562816256
+"In the Bedroom",2001,6.4,"Male",7856,0
+"In the Bedroom",2001,6.4,"Female",-4682,0
+"Ocean's Eleven",2001,7.2,"Male",19972,450717150
+"Ocean's Eleven",2001,7.2,"Female",-1046,450717150
+"Moscow on the Hudson",1984,6.3,"Male",5038,25100000
+"Moscow on the Hudson",1984,6.3,"Female",-910,25100000
+"Vanilla Sky",2001,6.5,"Male",7786,203388341
+"Vanilla Sky",2001,6.5,"Female",-2613,203388341
+"The Royal Tenenbaums",2001,7.4,"Male",6016,71441250
+"The Royal Tenenbaums",2001,7.4,"Female",-1581,71441250
+"Kate & Leopold",2001,6,"Male",4676,0
+"Kate & Leopold",2001,6,"Female",-841,0
+"The Lord of the Rings: The Fellowship of the Ring",2001,8,"Male",7483,871368364
+"The Lord of the Rings: The Fellowship of the Ring",2001,8,"Female",-1212,871368364
+"The Majestic",2001,6.6,"Male",7211,37317558
+"The Majestic",2001,6.6,"Female",-416,37317558
+"A Beautiful Mind",2001,7.7,"Male",6487,313542341
+"A Beautiful Mind",2001,7.7,"Female",-1496,313542341
+"Ali",2001,6.7,"Male",8144,87713825
+"Ali",2001,6.7,"Female",-857,87713825
+"Black Hawk Down",2001,7.2,"Male",7647,172989651
+"Black Hawk Down",2001,7.2,"Female",0,172989651
+"Gosford Park",2001,6.8,"Male",5321,87754044
+"Gosford Park",2001,6.8,"Female",-5387,87754044
+"I Am Sam",2001,7.2,"Male",5480,92542418
+"I Am Sam",2001,7.2,"Female",-10596,92542418
+"Monster's Ball",2001,6.6,"Male",2668,44909486
+"Monster's Ball",2001,6.6,"Female",-889,44909486
+"The Shipping News",2001,6.4,"Male",13636,0
+"The Shipping News",2001,6.4,"Female",-7420,0
+"Dragonslayer",1981,6.5,"Male",4697,14110013
+"Dragonslayer",1981,6.5,"Female",-1467,14110013
+"48 Hrs.",1982,6.5,"Male",20866,78868508
+"48 Hrs.",1982,6.5,"Female",-3438,78868508
+"The Mothman Prophecies",2002,6.1,"Male",7502,55157539
+"The Mothman Prophecies",2002,6.1,"Female",-2182,55157539
+"A Walk to Remember",2002,7.5,"Male",3902,41227069
+"A Walk to Remember",2002,7.5,"Female",-1710,41227069
+"Storytelling",2001,6.4,"Male",9120,0
+"Storytelling",2001,6.4,"Female",-3786,0
+"Birthday Girl",2001,6.1,"Male",8352,0
+"Birthday Girl",2001,6.1,"Female",-2682,0
+"Collateral Damage",2002,5.5,"Male",4222,78382433
+"Collateral Damage",2002,5.5,"Female",-470,78382433
+"The Sandlot",1993,7.1,"Male",8976,32416586
+"The Sandlot",1993,7.1,"Female",-340,32416586
+"John Q",2002,7,"Male",5367,102244770
+"John Q",2002,7,"Female",-2604,102244770
+"Queen of the Damned",2002,5.5,"Male",10056,45479110
+"Queen of the Damned",2002,5.5,"Female",-5762,45479110
+"The Time Machine",2002,5.8,"Male",7313,123729176
+"The Time Machine",2002,5.8,"Female",-1471,123729176
+"Resident Evil",2002,6.4,"Male",3545,102984862
+"Resident Evil",2002,6.4,"Female",-2264,102984862
+"Smokey and the Bandit",1977,6.8,"Male",4172,126737428
+"Smokey and the Bandit",1977,6.8,"Female",-1176,126737428
+"Blade II",2002,6.3,"Male",9512,155010032
+"Blade II",2002,6.3,"Female",-2064,155010032
+"Death to Smoochy",2002,5.9,"Male",7375,0
+"Death to Smoochy",2002,5.9,"Female",-1810,0
+"Panic Room",2002,6.6,"Male",2773,196397415
+"Panic Room",2002,6.6,"Female",-1617,196397415
+"Frailty",2001,7,"Male",10387,13110448
+"Frailty",2001,7,"Female",0,13110448
+"Human Nature",2001,6.1,"Male",10308,705308
+"Human Nature",2001,6.1,"Female",-8896,705308
+"My Big Fat Greek Wedding",2002,6.2,"Male",3304,368744044
+"My Big Fat Greek Wedding",2002,6.2,"Female",-4632,368744044
+"Jason X",2001,4.5,"Male",5130,16951798
+"Jason X",2001,4.5,"Female",-3235,16951798
+"Rambling Rose",1991,6.4,"Male",21006,6266621
+"Rambling Rose",1991,6.4,"Female",-8582,6266621
+"Star Wars: Episode II - Attack of the Clones",2002,6.4,"Male",6242,649398328
+"Star Wars: Episode II - Attack of the Clones",2002,6.4,"Female",-1273,649398328
+"The Believer",2001,6.8,"Male",13512,416925
+"The Believer",2001,6.8,"Female",-3332,416925
+"Enough",2002,6.2,"Male",6635,51801187
+"Enough",2002,6.2,"Female",-7418,51801187
+"Insomnia",2002,6.8,"Male",10978,113714830
+"Insomnia",2002,6.8,"Female",-3606,113714830
+"The Bourne Identity",2002,7.3,"Male",5041,214034224
+"The Bourne Identity",2002,7.3,"Female",-1397,214034224
+"Scooby-Doo",2002,5.4,"Male",6008,275650703
+"Scooby-Doo",2002,5.4,"Female",-2224,275650703
+"Minority Report",2002,7.1,"Male",12078,358372926
+"Minority Report",2002,7.1,"Female",-2369,358372926
+"Halloween: Resurrection",2002,4.5,"Male",2302,37664855
+"Halloween: Resurrection",2002,4.5,"Female",-1774,37664855
+"Eight Legged Freaks",2002,5.4,"Male",7372,0
+"Eight Legged Freaks",2002,5.4,"Female",-3858,0
+"Stuart Little 2",2002,5.4,"Male",3938,169956806
+"Stuart Little 2",2002,5.4,"Female",-1781,169956806
+"Signs",2002,6.4,"Male",4359,408247917
+"Signs",2002,6.4,"Female",-1070,408247917
+"The Good Girl",2002,6.1,"Male",6936,16856124
+"The Good Girl",2002,6.1,"Female",-8864,16856124
+"Blood Work",2002,6.1,"Male",1052,26199517
+"Blood Work",2002,6.1,"Female",-1530,26199517
+"xXx",2002,5.8,"Male",7287,277448382
+"xXx",2002,5.8,"Female",-998,277448382
+"Possession",2002,6.5,"Male",2202,10113733
+"Possession",2002,6.5,"Female",-4506,10113733
+"S1m0ne",2002,5.5,"Male",16564,19576023
+"S1m0ne",2002,5.5,"Female",-9172,19576023
+"Down and Out in Beverly Hills",1986,5.9,"Male",5719,62134225
+"Down and Out in Beverly Hills",1986,5.9,"Female",-591,62134225
+"The Four Feathers",2002,6.5,"Male",17643,29882645
+"The Four Feathers",2002,6.5,"Female",-5777,29882645
+"Jonah: A VeggieTales Movie",2002,6.4,"Male",1067,0
+"Jonah: A VeggieTales Movie",2002,6.4,"Female",-119,0
+"Red Dragon",2002,6.7,"Male",3217,209196298
+"Red Dragon",2002,6.7,"Female",-1074,209196298
+"Below",2002,6,"Male",7161,605562
+"Below",2002,6,"Female",-1301,605562
+"The Rules of Attraction",2002,6.3,"Male",7308,0
+"The Rules of Attraction",2002,6.3,"Female",-2591,0
+"Punch-Drunk Love",2002,6.9,"Male",4650,1.7e+07
+"Punch-Drunk Love",2002,6.9,"Female",-2853,1.7e+07
+"The Ring",2002,6.5,"Male",2198,249348933
+"The Ring",2002,6.5,"Female",-4150,249348933
+"Jason Goes to Hell: The Final Friday",1993,4.2,"Male",2225,15938065
+"Jason Goes to Hell: The Final Friday",1993,4.2,"Female",-397,15938065
+"Ghost Ship",2002,5.3,"Male",13070,68349884
+"Ghost Ship",2002,5.3,"Female",-2928,68349884
+"Far from Heaven",2002,6.9,"Male",3434,29027914
+"Far from Heaven",2002,6.9,"Female",-6403,29027914
+"Harry Potter and the Chamber of Secrets",2002,7.4,"Male",14445,876688482
+"Harry Potter and the Chamber of Secrets",2002,7.4,"Female",-2440,876688482
+"Thief",1981,7.3,"Male",6694,4300000
+"Thief",1981,7.3,"Female",-973,4300000
+"Talk to Her",2002,7.5,"Male",3001,51001550
+"Talk to Her",2002,7.5,"Female",-1199,51001550
+"Solaris",2002,5.9,"Male",3797,30002758
+"Solaris",2002,5.9,"Female",-2274,30002758
+"Analyze That",2002,5.7,"Male",12083,55003135
+"Analyze That",2002,5.7,"Female",-759,55003135
+"Adaptation.",2002,7.3,"Male",6817,32801173
+"Adaptation.",2002,7.3,"Female",-2863,32801173
+"Equilibrium",2002,6.9,"Male",2868,5359645
+"Equilibrium",2002,6.9,"Female",-354,5359645
+"Star Trek: Nemesis",2002,6.1,"Male",9305,67312826
+"Star Trek: Nemesis",2002,6.1,"Female",-950,67312826
+"The Lord of the Rings: The Two Towers",2002,8,"Male",5260,926287400
+"The Lord of the Rings: The Two Towers",2002,8,"Female",-206,926287400
+"25th Hour",2002,7.2,"Male",9059,13060843
+"25th Hour",2002,7.2,"Female",-1073,13060843
+"Gangs of New York",2002,7.1,"Male",10005,193772504
+"Gangs of New York",2002,7.1,"Female",-1419,193772504
+"Body of Evidence",1993,4.5,"Male",7200,13273595
+"Body of Evidence",1993,4.5,"Female",-3511,13273595
+"My Girl 2",1994,5.4,"Male",5224,0
+"My Girl 2",1994,5.4,"Female",-5053,0
+"My Girl",1991,7,"Male",3120,0
+"My Girl",1991,7,"Female",-3666,0
+"Catch Me If You Can",2002,7.7,"Male",8913,352114312
+"Catch Me If You Can",2002,7.7,"Female",-1688,352114312
+"The Pianist",2002,8.1,"Male",8072,120072577
+"The Pianist",2002,8.1,"Female",-2578,120072577
+"The King of Comedy",1982,7.6,"Male",7532,0
+"The King of Comedy",1982,7.6,"Female",-2898,0
+"City of God",2002,8.2,"Male",7610,30641770
+"City of God",2002,8.2,"Female",-771,30641770
+"Final Destination 2",2003,5.9,"Male",2841,90426405
+"Final Destination 2",2003,5.9,"Female",-4968,90426405
+"The Recruit",2003,6.2,"Male",5795,101191884
+"The Recruit",2003,6.2,"Female",-728,101191884
+"Evil Under the Sun",1982,6.5,"Male",12573,6110000
+"Evil Under the Sun",1982,6.5,"Female",-7147,6110000
+"The Life of David Gale",2003,7.3,"Male",3030,38955598
+"The Life of David Gale",2003,7.3,"Female",-3182,38955598
+"Old School",2003,6.6,"Male",2878,87055349
+"Old School",2003,6.6,"Female",-379,87055349
+"Cradle 2 the Grave",2003,5.8,"Male",7197,56489558
+"Cradle 2 the Grave",2003,5.8,"Female",-1003,56489558
+"Dreamcatcher",2003,5.2,"Male",4341,75715436
+"Dreamcatcher",2003,5.2,"Female",-123,75715436
+"Basic",2003,6.2,"Male",12456,42792561
+"Basic",2003,6.2,"Female",-2078,42792561
+"A Man Apart",2003,5.8,"Male",7281,44350926
+"A Man Apart",2003,5.8,"Female",-110,44350926
+"Phone Booth",2002,6.7,"Male",14258,97837138
+"Phone Booth",2002,6.7,"Female",-1464,97837138
+"House of 1000 Corpses",2003,6,"Male",5325,16829545
+"House of 1000 Corpses",2003,6,"Female",-3062,16829545
+"Holes",2003,6.7,"Male",6583,0
+"Holes",2003,6.7,"Female",-829,0
+"Malibu's Most Wanted",2003,4.7,"Male",9810,0
+"Malibu's Most Wanted",2003,4.7,"Female",-1544,0
+"The Marrying Man",1991,5,"Male",11311,12454768
+"The Marrying Man",1991,5,"Female",-3609,12454768
+"Confidence",2003,6.4,"Male",10602,0
+"Confidence",2003,6.4,"Female",-1170,0
+"Identity",2003,7.1,"Male",3140,90259536
+"Identity",2003,7.1,"Female",-1230,90259536
+"The Matrix Reloaded",2003,6.7,"Male",2533,738599701
+"The Matrix Reloaded",2003,6.7,"Female",-518,738599701
+"Bruce Almighty",2003,6.4,"Male",9584,484572835
+"Bruce Almighty",2003,6.4,"Female",-3425,484572835
+"Finding Nemo",2003,7.6,"Male",14258,940335536
+"Finding Nemo",2003,7.6,"Female",-4704,940335536
+"The Italian Job",2003,6.6,"Male",3694,176070171
+"The Italian Job",2003,6.6,"Female",-686,176070171
+"Wrong Turn",2003,6,"Male",3442,28650575
+"Wrong Turn",2003,6,"Female",-2154,28650575
+"Barton Fink",1991,7.4,"Male",9395,6153939
+"Barton Fink",1991,7.4,"Female",-505,6153939
+"Bodies, Rest & Motion",1993,4.3,"Male",7382,764083
+"Bodies, Rest & Motion",1993,4.3,"Female",-5544,764083
+"Hulk",2003,5.3,"Male",8096,245360480
+"Hulk",2003,5.3,"Female",-545,245360480
+"Pirates of the Caribbean: The Curse of the Black Pearl",2003,7.5,"Male",8550,655011224
+"Pirates of the Caribbean: The Curse of the Black Pearl",2003,7.5,"Female",-1273,655011224
+"Curly Sue",1991,5.5,"Male",4934,0
+"Curly Sue",1991,5.5,"Female",-5214,0
+"Freddy vs. Jason",2003,5.8,"Male",4595,114908830
+"Freddy vs. Jason",2003,5.8,"Female",-3001,114908830
+"American Splendor",2003,7.1,"Male",15694,6003587
+"American Splendor",2003,7.1,"Female",-3472,6003587
+"Tremors",1990,6.6,"Male",13176,48572000
+"Tremors",1990,6.6,"Female",-2874,48572000
+"Matchstick Men",2003,6.9,"Male",9119,65565672
+"Matchstick Men",2003,6.9,"Female",-2881,65565672
+"Lost in Translation",2003,7.3,"Male",1865,119723856
+"Lost in Translation",2003,7.3,"Female",-2220,119723856
+"Memoirs of an Invisible Man",1992,5.7,"Male",7524,14358033
+"Memoirs of an Invisible Man",1992,5.7,"Female",-1360,14358033
+"Duplex",2003,5.9,"Male",3564,19322135
+"Duplex",2003,5.9,"Female",-4034,19322135
+"Boyz n the Hood",1991,7.4,"Male",6970,57504069
+"Boyz n the Hood",1991,7.4,"Female",-2113,57504069
+"City Heat",1984,5.1,"Male",4743,38348988
+"City Heat",1984,5.1,"Female",-635,38348988
+"Into the Night",1985,6.4,"Male",2535,6700000
+"Into the Night",1985,6.4,"Female",-1362,6700000
+"School of Rock",2003,6.8,"Male",2958,131282949
+"School of Rock",2003,6.8,"Female",-1114,131282949
+"Wonderland",2003,6.2,"Male",5693,2466444
+"Wonderland",2003,6.2,"Female",-1241,2466444
+"Mystic River",2003,7.6,"Male",9709,156822020
+"Mystic River",2003,7.6,"Female",-1051,156822020
+"Intolerable Cruelty",2003,5.8,"Male",5092,119940815
+"Intolerable Cruelty",2003,5.8,"Female",-3668,119940815
+"The Texas Chainsaw Massacre",2003,6.1,"Male",4431,107071655
+"The Texas Chainsaw Massacre",2003,6.1,"Female",-1754,107071655
+"The Human Stain",2003,6.1,"Male",5872,0
+"The Human Stain",2003,6.1,"Female",-3443,0
+"Elf",2003,6.4,"Male",9051,173398518
+"Elf",2003,6.4,"Female",-1152,173398518
+"Father of the Bride",1991,6.2,"Male",6507,89325780
+"Father of the Bride",1991,6.2,"Female",-3322,89325780
+"Looney Tunes: Back in Action",2003,5.6,"Male",5416,68514844
+"Looney Tunes: Back in Action",2003,5.6,"Female",-1852,68514844
+"Master and Commander: The Far Side of the World",2003,6.9,"Male",8524,212011111
+"Master and Commander: The Far Side of the World",2003,6.9,"Female",0,212011111
+"Gothika",2003,5.8,"Male",5568,141591324
+"Gothika",2003,5.8,"Female",-8680,141591324
+"Bad Santa",2003,6.4,"Male",5404,76488889
+"Bad Santa",2003,6.4,"Female",-702,76488889
+"Hannah and Her Sisters",1986,7.6,"Male",18834,40084041
+"Hannah and Her Sisters",1986,7.6,"Female",-13660,40084041
+"Hudson Hawk",1991,5.4,"Male",8880,17218080
+"Hudson Hawk",1991,5.4,"Female",-1903,17218080
+"Kafka",1991,6.6,"Male",6150,0
+"Kafka",1991,6.6,"Female",-1597,0
+"Knight Moves",1992,5.7,"Male",6936,0
+"Knight Moves",1992,5.7,"Female",-2702,0
+"The Last Boy Scout",1991,6.5,"Male",13516,59509925
+"The Last Boy Scout",1991,6.5,"Female",-1103,59509925
+"Nowhere to Run",1993,5.5,"Male",1629,0
+"Nowhere to Run",1993,5.5,"Female",-334,0
+"Silverado",1985,7.1,"Male",6835,0
+"Silverado",1985,7.1,"Female",-1116,0
+"Revenge",1990,6,"Male",8534,15645616
+"Revenge",1990,6,"Female",-1808,15645616
+"Thunderheart",1992,6,"Male",8139,0
+"Thunderheart",1992,6,"Female",-612,0
+"Wild at Heart",1990,7,"Male",16946,14560247
+"Wild at Heart",1990,7,"Female",-14014,14560247
+"The Witches of Eastwick",1987,6.2,"Male",3718,63766510
+"The Witches of Eastwick",1987,6.2,"Female",-5226,63766510
+"Naked Lunch",1991,7,"Male",7178,0
+"Naked Lunch",1991,7,"Female",-1288,0
+"The Cooler",2003,6.7,"Male",14068,0
+"The Cooler",2003,6.7,"Female",-3662,0
+"The Last Samurai",2003,7.3,"Male",16556,456758981
+"The Last Samurai",2003,7.3,"Female",-240,456758981
+"Big Fish",2003,7.6,"Male",6953,122919055
+"Big Fish",2003,7.6,"Female",-2173,122919055
+"Something's Gotta Give",2003,6.3,"Male",7806,266728738
+"Something's Gotta Give",2003,6.3,"Female",-8159,266728738
+"Girl with a Pearl Earring",2003,6.4,"Male",3916,31466789
+"Girl with a Pearl Earring",2003,6.4,"Female",-4362,31466789
+"The Lord of the Rings: The Return of the King",2003,8.1,"Male",3888,1118888979
+"The Lord of the Rings: The Return of the King",2003,8.1,"Female",-145,1118888979
+"Cold Mountain",2003,6.7,"Male",11568,173013509
+"Cold Mountain",2003,6.7,"Female",-12274,173013509
+"The Adventures of Ford Fairlane",1990,6.2,"Male",7092,20423389
+"The Adventures of Ford Fairlane",1990,6.2,"Female",-2075,20423389
+"Spartan",2004,6.3,"Male",5904,8112712
+"Spartan",2004,6.3,"Female",-257,8112712
+"Eternal Sunshine of the Spotless Mind",2004,7.9,"Male",10952,72258126
+"Eternal Sunshine of the Spotless Mind",2004,7.9,"Female",-12312,72258126
+"Taking Lives",2004,6,"Male",3368,65470529
+"Taking Lives",2004,6,"Female",-6515,65470529
+"The Ladykillers",2004,6,"Male",10738,0
+"The Ladykillers",2004,6,"Female",-2320,0
+"Hellboy",2004,6.5,"Male",5472,99318987
+"Hellboy",2004,6.5,"Female",-806,99318987
+"Walking Tall",2004,6,"Male",2861,57223890
+"Walking Tall",2004,6,"Female",-291,57223890
+"Kill Bill: Vol. 2",2004,7.7,"Male",5283,152159461
+"Kill Bill: Vol. 2",2004,7.7,"Female",-2530,152159461
+"The Punisher",2004,6.1,"Male",1881,54700105
+"The Punisher",2004,6.1,"Female",-101,54700105
+"Man on Fire",2004,7.3,"Male",5133,130293714
+"Man on Fire",2004,7.3,"Female",-2015,130293714
+"Mean Girls",2004,6.9,"Male",1415,129042871
+"Mean Girls",2004,6.9,"Female",-6490,129042871
+"New York Minute",2004,5.6,"Male",2050,0
+"New York Minute",2004,5.6,"Female",-4557,0
+"Troy",2004,6.9,"Male",29712,497409852
+"Troy",2004,6.9,"Female",-4116,497409852
+"Under Fire",1983,6.9,"Male",9894,0
+"Under Fire",1983,6.9,"Female",-4700,0
+"Octopussy",1983,6.2,"Male",3147,187500000
+"Octopussy",1983,6.2,"Female",-168,187500000
+"Chaplin",1992,7.5,"Male",6435,0
+"Chaplin",1992,7.5,"Female",-591,0
+"The Power of One",1992,7.6,"Male",11563,0
+"The Power of One",1992,7.6,"Female",-649,0
+"The Getaway",1972,7,"Male",4064,58831997
+"The Getaway",1972,7,"Female",-1677,58831997
+"Point of No Return",1993,6,"Male",2410,0
+"Point of No Return",1993,6,"Female",-1873,0
+"Escape from Alcatraz",1979,7.3,"Male",6768,4.3e+07
+"Escape from Alcatraz",1979,7.3,"Female",0,4.3e+07
+"Shrek 2",2004,6.7,"Male",2574,919838758
+"Shrek 2",2004,6.7,"Female",-890,919838758
+"Harry Potter and the Prisoner of Azkaban",2004,7.7,"Male",12268,789804554
+"Harry Potter and the Prisoner of Azkaban",2004,7.7,"Female",-3213,789804554
+"City of Joy",1992,6.3,"Male",8602,14683921
+"City of Joy",1992,6.3,"Female",-5278,14683921
+"Memphis Belle",1990,6.4,"Male",8005,0
+"Memphis Belle",1990,6.4,"Female",-103,0
+"Deep Cover",1992,6.8,"Male",7058,0
+"Deep Cover",1992,6.8,"Female",-809,0
+"Hard Times",1975,6.7,"Male",5164,5e+06
+"Hard Times",1975,6.7,"Female",-427,5e+06
+"Spider-Man 2",2004,6.7,"Male",6488,783766341
+"Spider-Man 2",2004,6.7,"Female",-2110,783766341
+"Before Sunset",2004,7.6,"Male",3993,15992615
+"Before Sunset",2004,7.6,"Female",-5030,15992615
+"Anchorman: The Legend of Ron Burgundy",2004,6.7,"Male",7864,90574188
+"Anchorman: The Legend of Ron Burgundy",2004,6.7,"Female",-2206,90574188
+"I, Robot",2004,6.7,"Male",6207,347234916
+"I, Robot",2004,6.7,"Female",-2086,347234916
+"Maria Full of Grace",2004,6.9,"Male",2635,0
+"Maria Full of Grace",2004,6.9,"Female",-5364,0
+"The Bourne Supremacy",2004,7.2,"Male",6284,288500217
+"The Bourne Supremacy",2004,7.2,"Female",-4048,288500217
+"Catwoman",2004,4.2,"Male",3100,82102379
+"Catwoman",2004,4.2,"Female",-6675,82102379
+"The Manchurian Candidate",2004,6.2,"Male",11065,96105964
+"The Manchurian Candidate",2004,6.2,"Female",-1463,96105964
+"Thunderbirds",2004,4.2,"Male",6811,28283637
+"Thunderbirds",2004,4.2,"Female",-1466,28283637
+"The Village",2004,6.2,"Male",1447,256697520
+"The Village",2004,6.2,"Female",-2219,256697520
+"Garden State",2004,7.1,"Male",13390,26781723
+"Garden State",2004,7.1,"Female",-4784,26781723
+"Collateral",2004,7,"Male",9768,217764291
+"Collateral",2004,7,"Female",-1616,217764291
+"Harold & Kumar Go to White Castle",2004,6.6,"Male",10055,23936908
+"Harold & Kumar Go to White Castle",2004,6.6,"Female",-868,23936908
+"Exorcist: The Beginning",2004,4.7,"Male",6269,78000586
+"Exorcist: The Beginning",2004,4.7,"Female",-843,78000586
+"Suspect Zero",2004,5.5,"Male",9236,1.3e+07
+"Suspect Zero",2004,5.5,"Female",-1806,1.3e+07
+"Cellular",2004,6.1,"Male",7578,56422687
+"Cellular",2004,6.1,"Female",-2063,56422687
+"Shaun of the Dead",2004,7.5,"Male",6908,30039392
+"Shaun of the Dead",2004,7.5,"Female",-2717,30039392
+"1492: Conquest of Paradise",1992,6.1,"Male",7656,7191399
+"1492: Conquest of Paradise",1992,6.1,"Female",-487,7191399
+"Team America: World Police",2004,6.6,"Male",1073,50907422
+"Team America: World Police",2004,6.6,"Female",-575,50907422
+"The Grudge",2004,5.8,"Male",2878,183474602
+"The Grudge",2004,5.8,"Female",-3532,183474602
+"Alfie",2004,5.5,"Male",6245,13395939
+"Alfie",2004,5.5,"Female",-937,13395939
+"Sideways",2004,6.9,"Male",22344,109502303
+"Sideways",2004,6.9,"Female",-4958,109502303
+"Saw",2004,7.2,"Male",20780,103911669
+"Saw",2004,7.2,"Female",-2916,103911669
+"The Incredibles",2004,7.4,"Male",3110,631442092
+"The Incredibles",2004,7.4,"Female",-2749,631442092
+"National Treasure",2004,6.4,"Male",6661,347451894
+"National Treasure",2004,6.4,"Female",-1013,347451894
+"Ocean's Twelve",2004,6.4,"Male",15566,362744280
+"Ocean's Twelve",2004,6.4,"Female",-4136,362744280
+"Blade: Trinity",2004,5.7,"Male",4704,128905366
+"Blade: Trinity",2004,5.7,"Female",-1942,128905366
+"The Battle of Algiers",1966,7.8,"Male",6862,921548
+"The Battle of Algiers",1966,7.8,"Female",0,921548
+"Prince of Darkness",1987,6.6,"Male",4807,14182492
+"Prince of Darkness",1987,6.6,"Female",-1436,14182492
+"Hard to Kill",1990,5.6,"Male",3256,47410000
+"Hard to Kill",1990,5.6,"Female",-1302,47410000
+"Narrow Margin",1990,5.6,"Male",3765,0
+"Narrow Margin",1990,5.6,"Female",-905,0
+"Light Sleeper",1992,5.7,"Male",9836,0
+"Light Sleeper",1992,5.7,"Female",-4652,0
+"The Jacket",2005,6.8,"Male",7408,21126225
+"The Jacket",2005,6.8,"Female",-3013,21126225
+"Spanglish",2004,5.8,"Male",4585,55041367
+"Spanglish",2004,5.8,"Female",-10720,55041367
+"A Scanner Darkly",2006,6.8,"Male",9556,7659918
+"A Scanner Darkly",2006,6.8,"Female",-2171,7659918
+"Million Dollar Baby",2004,7.7,"Male",8517,216763646
+"Million Dollar Baby",2004,7.7,"Female",-2035,216763646
+"Hotel Rwanda",2004,7.5,"Male",6113,3.8e+07
+"Hotel Rwanda",2004,7.5,"Female",-1008,3.8e+07
+"The Life Aquatic with Steve Zissou",2004,7.1,"Male",11486,34808403
+"The Life Aquatic with Steve Zissou",2004,7.1,"Female",-1821,34808403
+"The Aviator",2004,7,"Male",12159,1.02e+08
+"The Aviator",2004,7,"Female",-2608,1.02e+08
+"In Good Company",2004,5.9,"Male",7656,0
+"In Good Company",2004,5.9,"Female",-1765,0
+"Man Trouble",1992,4.7,"Male",6493,4
+"Man Trouble",1992,4.7,"Female",-4239,4
+"Alone in the Dark",2005,3.1,"Male",5296,10442808
+"Alone in the Dark",2005,3.1,"Female",-1800,10442808
+"The Wedding Date",2005,6.2,"Male",4219,47175038
+"The Wedding Date",2005,6.2,"Female",-5664,47175038
+"Hitch",2005,6.3,"Male",6483,368100420
+"Hitch",2005,6.3,"Female",-3631,368100420
+"Constantine",2005,6.6,"Male",6784,230884728
+"Constantine",2005,6.6,"Female",-2930,230884728
+"Cursed",2005,5.1,"Male",3967,19294901
+"Cursed",2005,5.1,"Female",-2615,19294901
+"The Pacifier",2005,5.8,"Male",4341,113006880
+"The Pacifier",2005,5.8,"Female",-1858,113006880
+"Hostage",2005,6.2,"Male",6075,77944725
+"Hostage",2005,6.2,"Female",-669,77944725
+"The Hitchhiker's Guide to the Galaxy",2005,6.6,"Male",19252,104478416
+"The Hitchhiker's Guide to the Galaxy",2005,6.6,"Female",-2768,104478416
+"Kingdom of Heaven",2005,6.6,"Male",6518,211643158
+"Kingdom of Heaven",2005,6.6,"Female",-864,211643158
+"House of Wax",2005,5.5,"Male",1514,68766121
+"House of Wax",2005,5.5,"Female",-1153,68766121
+"Crash",2004,7.2,"Male",8110,98410061
+"Crash",2004,7.2,"Female",-2552,98410061
+"Star Wars: Episode III - Revenge of the Sith",2005,7.1,"Male",12209,8.5e+08
+"Star Wars: Episode III - Revenge of the Sith",2005,7.1,"Female",-1688,8.5e+08
+"Mr. & Mrs. Smith",2005,6.5,"Male",2734,478207520
+"Mr. & Mrs. Smith",2005,6.5,"Female",-2104,478207520
+"Batman Begins",2005,7.5,"Male",6853,374218673
+"Batman Begins",2005,7.5,"Female",-922,374218673
+"Land of the Dead",2005,6,"Male",3686,46770602
+"Land of the Dead",2005,6,"Female",-486,46770602
+"Deceived",1991,5.4,"Male",2413,0
+"Deceived",1991,5.4,"Female",-3618,0
+"War of the Worlds",2005,6.2,"Male",1446,591739379
+"War of the Worlds",2005,6.2,"Female",-589,591739379
+"Fantastic Four",2005,5.5,"Male",14088,330579719
+"Fantastic Four",2005,5.5,"Female",-3600,330579719
+"Wedding Crashers",2005,6.4,"Male",16459,285176741
+"Wedding Crashers",2005,6.4,"Female",-3322,285176741
+"Hardware",1990,5.6,"Male",2983,5728953
+"Hardware",1990,5.6,"Female",-661,5728953
+"The Island",2005,6.5,"Male",6953,162949164
+"The Island",2005,6.5,"Female",-1982,162949164
+"The Devil's Rejects",2005,6.6,"Male",14289,0
+"The Devil's Rejects",2005,6.6,"Female",-3513,0
+"Serenity",2005,7.4,"Male",20962,38869464
+"Serenity",2005,7.4,"Female",-8102,38869464
+"Lord of War",2005,7,"Male",18110,24127895
+"Lord of War",2005,7,"Female",-1530,24127895
+"Doom",2005,5,"Male",4906,55987321
+"Doom",2005,5,"Female",-1824,55987321
+"Domino",2005,6,"Male",4437,22944502
+"Domino",2005,6,"Female",-5945,22944502
+"Flightplan",2005,6.1,"Male",2526,223387299
+"Flightplan",2005,6.1,"Female",-2691,223387299
+"A History of Violence",2005,6.9,"Male",7891,60740827
+"A History of Violence",2005,6.9,"Female",-2818,60740827
+"Capote",2005,6.9,"Male",19022,49084830
+"Capote",2005,6.9,"Female",-3472,49084830
+"In Her Shoes",2005,6,"Male",1622,83073883
+"In Her Shoes",2005,6,"Female",-8498,83073883
+"The Squid and the Whale",2005,6.9,"Male",4021,11098131
+"The Squid and the Whale",2005,6.9,"Female",-1675,11098131
+"Two for the Money",2005,5.9,"Male",12116,30526509
+"Two for the Money",2005,5.9,"Female",-2682,30526509
+"Brokeback Mountain",2005,7.5,"Male",3011,178043761
+"Brokeback Mountain",2005,7.5,"Female",-411,178043761
+"Elizabethtown",2005,6.1,"Male",3466,52034889
+"Elizabethtown",2005,6.1,"Female",-2111,52034889
+"Good Night, and Good Luck.",2005,6.8,"Male",7213,54600000
+"Good Night, and Good Luck.",2005,6.8,"Female",-1438,54600000
+"The Fog",2005,3.8,"Male",2482,46201432
+"The Fog",2005,3.8,"Female",-3016,46201432
+"Shopgirl",2005,5.7,"Male",3087,11588205
+"Shopgirl",2005,5.7,"Female",-3308,11588205
+"Stay",2005,6.5,"Male",5469,8342132
+"Stay",2005,6.5,"Female",-1817,8342132
+"The Weather Man",2005,6,"Male",8367,12482775
+"The Weather Man",2005,6,"Female",-1050,12482775
+"Syriana",2005,6.3,"Male",16111,9.4e+07
+"Syriana",2005,6.3,"Female",-1189,9.4e+07
+"Pride & Prejudice",2005,7.8,"Male",5669,121147947
+"Pride & Prejudice",2005,7.8,"Female",-13437,121147947
+"The Descent",2005,6.9,"Male",0,0
+"The Descent",2005,6.9,"Female",-4076,0
+"Harry Potter and the Goblet of Fire",2005,7.5,"Male",16212,895921036
+"Harry Potter and the Goblet of Fire",2005,7.5,"Female",-3472,895921036
+"Rent",2005,6.7,"Male",5602,31670620
+"Rent",2005,6.7,"Female",-3014,31670620
+"Match Point",2005,7.2,"Male",11630,85306374
+"Match Point",2005,7.2,"Female",-8158,85306374
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,6.7,"Male",2805,748806957
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,6.7,"Female",-1842,748806957
+"King Kong",2005,6.6,"Male",9752,5.5e+08
+"King Kong",2005,6.6,"Female",-1394,5.5e+08
+"Memoirs of a Geisha",2005,7.3,"Male",1686,162242962
+"Memoirs of a Geisha",2005,7.3,"Female",-4204,162242962
+"Munich",2005,7,"Male",9890,130358911
+"Munich",2005,7,"Female",-875,130358911
+"The Producers",2005,6.1,"Male",16158,38058335
+"The Producers",2005,6.1,"Female",-956,38058335
+"Fun with Dick and Jane",2005,5.9,"Male",1082,202026112
+"Fun with Dick and Jane",2005,5.9,"Female",-832,202026112
+"The Ringer",2005,5.6,"Male",3920,40442437
+"The Ringer",2005,5.6,"Female",-1074,40442437
+"Glory Road",2006,7.2,"Male",11071,42647449
+"Glory Road",2006,7.2,"Female",-341,42647449
+"Final Destination 3",2006,5.8,"Male",3947,117719158
+"Final Destination 3",2006,5.8,"Female",-4209,117719158
+"V for Vendetta",2005,7.7,"Male",5081,132511035
+"V for Vendetta",2005,7.7,"Female",-3717,132511035
+"Inside Man",2006,7.3,"Male",10690,184376254
+"Inside Man",2006,7.3,"Female",-1916,184376254
+"The Hills Have Eyes",2006,6.1,"Male",5837,69623713
+"The Hills Have Eyes",2006,6.1,"Female",-3058,69623713
+"Lucky Number Slevin",2006,7.4,"Male",10302,56308881
+"Lucky Number Slevin",2006,7.4,"Female",-1764,56308881
+"Brick",2005,6.8,"Male",16510,3919254
+"Brick",2005,6.8,"Female",-3234,3919254
+"Slither",2006,6.3,"Male",4592,0
+"Slither",2006,6.3,"Female",-4488,0
+"Silent Hill",2006,6.3,"Male",652,97607453
+"Silent Hill",2006,6.3,"Female",-3109,97607453
+"Art School Confidential",2006,6.1,"Male",5638,0
+"Art School Confidential",2006,6.1,"Female",-1604,0
+"Click",2006,6,"Male",7856,237681299
+"Click",2006,6,"Female",-1575,237681299
+"The Devil Wears Prada",2006,7,"Male",2741,326551094
+"The Devil Wears Prada",2006,7,"Female",-8729,326551094
+"Pirates of the Caribbean: Dead Man's Chest",2006,7,"Male",7827,1065659812
+"Pirates of the Caribbean: Dead Man's Chest",2006,7,"Female",-1253,1065659812
+"Career Opportunities",1991,5.9,"Male",7968,0
+"Career Opportunities",1991,5.9,"Female",-2759,0
+"Little Miss Sunshine",2006,7.5,"Male",5594,100523181
+"Little Miss Sunshine",2006,7.5,"Female",-2852,100523181
+"Babel",2006,6.9,"Male",11836,135330182
+"Babel",2006,6.9,"Female",-4118,135330182
+"Monster House",2006,6.3,"Male",4218,140175006
+"Monster House",2006,6.3,"Female",-2086,140175006
+"Talladega Nights: The Ballad of Ricky Bobby",2006,6.2,"Male",6451,162966177
+"Talladega Nights: The Ballad of Ricky Bobby",2006,6.2,"Female",-1229,162966177
+"World Trade Center",2006,5.9,"Male",4888,162945894
+"World Trade Center",2006,5.9,"Female",-721,162945894
+"Stranger Than Fiction",2006,7.1,"Male",5758,53653224
+"Stranger Than Fiction",2006,7.1,"Female",-4471,53653224
+"Miami Vice",2006,5.7,"Male",6098,163794509
+"Miami Vice",2006,5.7,"Female",-2047,163794509
+"Crank",2006,6.6,"Male",4578,42931041
+"Crank",2006,6.6,"Female",-613,42931041
+"The Illusionist",2006,7.1,"Male",6624,86915017
+"The Illusionist",2006,7.1,"Female",-718,86915017
+"The Queen",2006,6.8,"Male",3096,123384128
+"The Queen",2006,6.8,"Female",-2461,123384128
+"Idiocracy",2006,6.3,"Male",6829,495303
+"Idiocracy",2006,6.3,"Female",-1668,495303
+"The Black Dahlia",2006,5.7,"Male",8247,49111202
+"The Black Dahlia",2006,5.7,"Female",-3167,49111202
+"Pan's Labyrinth",2006,7.6,"Male",2262,83258226
+"Pan's Labyrinth",2006,7.6,"Female",-1753,83258226
+"The Departed",2006,7.9,"Male",24518,289847354
+"The Departed",2006,7.9,"Female",-2030,289847354
+"Little Children",2006,6.9,"Male",2962,14821658
+"Little Children",2006,6.9,"Female",-2891,14821658
+"Children of Men",2006,7.4,"Male",5282,69959751
+"Children of Men",2006,7.4,"Female",-2339,69959751
+"The Prestige",2006,8,"Male",8090,109676311
+"The Prestige",2006,8,"Female",-1292,109676311
+"Flags of Our Fathers",2006,6.7,"Male",6856,65900249
+"Flags of Our Fathers",2006,6.7,"Female",-149,65900249
+"A Good Year",2006,6.5,"Male",6423,42064105
+"A Good Year",2006,6.5,"Female",-3374,42064105
+"Happy Feet",2006,5.9,"Male",2677,384335608
+"Happy Feet",2006,5.9,"Female",-222,384335608
+"Blood Diamond",2006,7.4,"Male",5075,170877916
+"Blood Diamond",2006,7.4,"Female",-1206,170877916
+"Rocky Balboa",2006,6.5,"Male",9315,155721132
+"Rocky Balboa",2006,6.5,"Female",-307,155721132
+"The Good Shepherd",2006,6.3,"Male",9212,59908565
+"The Good Shepherd",2006,6.3,"Female",-780,59908565
+"Letters from Iwo Jima",2006,7.2,"Male",8042,68673228
+"Letters from Iwo Jima",2006,7.2,"Female",0,68673228
+"Black Christmas",2006,4.8,"Male",534,21510851
+"Black Christmas",2006,4.8,"Female",-3824,21510851
+"The Hitcher",2007,5.6,"Male",5275,25399945
+"The Hitcher",2007,5.6,"Female",-559,25399945
+"Smokin' Aces",2006,6.4,"Male",8038,57103895
+"Smokin' Aces",2006,6.4,"Female",-2051,57103895
+"Hannibal Rising",2007,6,"Male",4024,82169884
+"Hannibal Rising",2007,6,"Female",-737,82169884
+"Ratatouille",2007,7.5,"Male",7243,623722818
+"Ratatouille",2007,7.5,"Female",-1054,623722818
+"The Number 23",2007,6.3,"Male",5039,77566815
+"The Number 23",2007,6.3,"Female",-1687,77566815
+"Black Snake Moan",2006,6.6,"Male",15054,10903846
+"Black Snake Moan",2006,6.6,"Female",-6536,10903846
+"Hot Fuzz",2007,7.4,"Male",8845,80573774
+"Hot Fuzz",2007,7.4,"Female",-627,80573774
+"Next",2007,5.9,"Male",2931,76066841
+"Next",2007,5.9,"Female",-2425,76066841
+"Zodiac",2007,7.3,"Male",13235,84785914
+"Zodiac",2007,7.3,"Female",-1421,84785914
+"Wild Hogs",2007,5.7,"Male",18397,253625427
+"Wild Hogs",2007,5.7,"Female",-1510,253625427
+"300",2006,7,"Male",9348,422610419
+"300",2006,7,"Female",-1071,422610419
+"I Think I Love My Wife",2007,5,"Male",5773,13196245
+"I Think I Love My Wife",2007,5,"Female",-4041,13196245
+"TMNT",2007,6,"Male",8248,95608995
+"TMNT",2007,6,"Female",-1226,95608995
+"The Lookout",2007,6.6,"Male",10552,5367030
+"The Lookout",2007,6.6,"Female",-1193,5367030
+"Blades of Glory",2007,5.9,"Male",8559,0
+"Blades of Glory",2007,5.9,"Female",-1139,0
+"Disturbia",2007,6.6,"Male",4410,117760134
+"Disturbia",2007,6.6,"Female",-1937,117760134
+"Fracture",2007,7.1,"Male",20676,91354215
+"Fracture",2007,7.1,"Female",-3612,91354215
+"Vacancy",2007,6,"Male",3537,35300645
+"Vacancy",2007,6,"Female",-1337,35300645
+"Away from Her",2006,6.9,"Male",2834,0
+"Away from Her",2006,6.9,"Female",-6909,0
+"Knocked Up",2007,6.2,"Male",15607,219076518
+"Knocked Up",2007,6.2,"Female",-9169,219076518
+"28 Weeks Later",2007,6.5,"Male",2091,64238440
+"28 Weeks Later",2007,6.5,"Female",-1019,64238440
+"Shrek the Third",2007,6,"Male",7511,798958165
+"Shrek the Third",2007,6,"Female",-1141,798958165
+"Pirates of the Caribbean: At World's End",2007,6.9,"Male",6353,9.61e+08
+"Pirates of the Caribbean: At World's End",2007,6.9,"Female",-1679,9.61e+08
+"Mr. Brooks",2007,6.8,"Male",8649,41637263
+"Mr. Brooks",2007,6.8,"Female",-1479,41637263
+"1408",2007,6.5,"Male",3039,94679598
+"1408",2007,6.5,"Female",-284,94679598
+"Hot Rod",2007,6.3,"Male",10634,14334401
+"Hot Rod",2007,6.3,"Female",-1793,14334401
+"Charlie Bartlett",2007,6.5,"Male",5730,0
+"Charlie Bartlett",2007,6.5,"Female",-1426,0
+"El cantante",2006,6,"Male",3912,0
+"El cantante",2006,6,"Female",-3175,0
+"The Bourne Ultimatum",2007,7.3,"Male",8494,442824138
+"The Bourne Ultimatum",2007,7.3,"Female",-1996,442824138
+"Superbad",2007,7,"Male",11502,121463226
+"Superbad",2007,7,"Female",-882,121463226
+"The Kingdom",2007,6.5,"Male",6071,86658558
+"The Kingdom",2007,6.5,"Female",-744,86658558
+"3:10 to Yuma",2007,6.9,"Male",5699,70016220
+"3:10 to Yuma",2007,6.9,"Female",-145,70016220
+"Atonement",2007,7.4,"Male",2740,129266061
+"Atonement",2007,7.4,"Female",-3379,129266061
+"The Brave One",2007,6.4,"Male",2557,69766619
+"The Brave One",2007,6.4,"Female",-2603,69766619
+"In the Valley of Elah",2007,6.6,"Male",5426,29541790
+"In the Valley of Elah",2007,6.6,"Female",-2655,29541790
+"Eastern Promises",2007,7.2,"Male",4033,55112356
+"Eastern Promises",2007,7.2,"Female",-1812,55112356
+"Good Luck Chuck",2007,5.6,"Male",6023,59192128
+"Good Luck Chuck",2007,5.6,"Female",-449,59192128
+"Into the Wild",2007,7.8,"Male",12204,56255142
+"Into the Wild",2007,7.8,"Female",-6718,56255142
+"The Darjeeling Limited",2007,7.1,"Male",6798,24377151
+"The Darjeeling Limited",2007,7.1,"Female",-1093,24377151
+"We Own the Night",2007,6.5,"Male",7284,54926886
+"We Own the Night",2007,6.5,"Female",-623,54926886
+"Elizabeth: The Golden Age",2007,6.6,"Male",3468,74237563
+"Elizabeth: The Golden Age",2007,6.6,"Female",-3848,74237563
+"Michael Clayton",2007,6.6,"Male",6538,92991835
+"Michael Clayton",2007,6.6,"Female",-1158,92991835
+"30 Days of Night",2007,6.2,"Male",4161,75505973
+"30 Days of Night",2007,6.2,"Female",-1713,75505973
+"The Assassination of Jesse James by the Coward Robert Ford",2007,7,"Male",7728,14711793
+"The Assassination of Jesse James by the Coward Robert Ford",2007,7,"Female",-2113,14711793
+"Saw IV",2007,5.9,"Male",4275,139352633
+"Saw IV",2007,5.9,"Female",-825,139352633
+"American Gangster",2007,7.4,"Male",8100,266465037
+"American Gangster",2007,7.4,"Female",-939,266465037
+"Bee Movie",2007,5.7,"Male",7303,287594577
+"Bee Movie",2007,5.7,"Female",-1819,287594577
+"The Diving Bell and the Butterfly",2007,7.5,"Male",4911,19777647
+"The Diving Bell and the Butterfly",2007,7.5,"Female",-2541,19777647
+"No Country for Old Men",2007,7.7,"Male",7105,171600000
+"No Country for Old Men",2007,7.7,"Female",-1215,171600000
+"Lions for Lambs",2007,6,"Male",6611,63215872
+"Lions for Lambs",2007,6,"Female",-1282,63215872
+"Beowulf",2007,5.5,"Male",4940,195735876
+"Beowulf",2007,5.5,"Female",-1433,195735876
+"The Mist",2007,6.7,"Male",9211,57096190
+"The Mist",2007,6.7,"Female",-3560,57096190
+"P2",2007,5.7,"Male",4326,7766240
+"P2",2007,5.7,"Female",-2221,7766240
+"I Am Legend",2007,6.9,"Male",5654,585349010
+"I Am Legend",2007,6.9,"Female",-1383,585349010
+"Margot at the Wedding",2007,5.9,"Male",5120,0
+"Margot at the Wedding",2007,5.9,"Female",-10594,0
+"Juno",2007,7,"Male",5138,231411584
+"Juno",2007,7,"Female",-17534,231411584
+"The Bucket List",2007,7,"Male",10115,175372502
+"The Bucket List",2007,7,"Female",-965,175372502
+"Sweeney Todd: The Demon Barber of Fleet Street",2007,7,"Male",5275,1.52e+08
+"Sweeney Todd: The Demon Barber of Fleet Street",2007,7,"Female",-3375,1.52e+08
+"National Treasure: Book of Secrets",2007,6.1,"Male",10021,457363168
+"National Treasure: Book of Secrets",2007,6.1,"Female",-1515,457363168
+"There Will Be Blood",2007,7.9,"Male",8052,77208711
+"There Will Be Blood",2007,7.9,"Female",0,77208711
+"Ricochet",1991,5.9,"Male",5494,0
+"Ricochet",1991,5.9,"Female",-1132,0
+"Cloverfield",2008,6.4,"Male",4740,170764026
+"Cloverfield",2008,6.4,"Female",-2205,170764026
+"One Missed Call",2008,4.7,"Male",1999,0
+"One Missed Call",2008,4.7,"Female",-2233,0
+"Untraceable",2008,5.9,"Male",3573,32483410
+"Untraceable",2008,5.9,"Female",-4250,32483410
+"Hellboy II: The Golden Army",2008,6.5,"Male",8230,160388063
+"Hellboy II: The Golden Army",2008,6.5,"Female",-1999,160388063
+"In Bruges",2008,7.4,"Male",9542,34533783
+"In Bruges",2008,7.4,"Female",-820,34533783
+"Jumper",2008,5.9,"Male",7489,222231186
+"Jumper",2008,5.9,"Female",-1356,222231186
+"Vantage Point",2008,6.3,"Male",2599,151161491
+"Vantage Point",2008,6.3,"Female",-1300,151161491
+"The Other Boleyn Girl",2008,6.4,"Male",3538,0
+"The Other Boleyn Girl",2008,6.4,"Female",-3541,0
+"Semi-Pro",2008,5.4,"Male",8392,33472850
+"Semi-Pro",2008,5.4,"Female",-959,33472850
+"Doomsday",2008,5.8,"Male",7546,22211426
+"Doomsday",2008,5.8,"Female",-3610,22211426
+"Snow Angels",2007,6.3,"Male",4701,414404
+"Snow Angels",2007,6.3,"Female",-4526,414404
+"The Dark Knight",2008,8.3,"Male",30290,1004558444
+"The Dark Knight",2008,8.3,"Female",-3246,1004558444
+"21",2008,6.5,"Male",9088,69823199
+"21",2008,6.5,"Female",-732,69823199
+"The Ruins",2008,5.6,"Male",14216,0
+"The Ruins",2008,5.6,"Female",-10438,0
+"Forgetting Sarah Marshall",2008,6.4,"Male",5746,105173115
+"Forgetting Sarah Marshall",2008,6.4,"Female",-3254,105173115
+"Street Kings",2008,6.3,"Male",8659,65569869
+"Street Kings",2008,6.3,"Female",-985,65569869
+"The Visitor",2007,6.9,"Male",11442,9234510
+"The Visitor",2007,6.9,"Female",-5084,9234510
+"Speed Racer",2008,5.7,"Male",13103,93945766
+"Speed Racer",2008,5.7,"Female",-1720,93945766
+"Deception",2008,5.7,"Male",7565,17741298
+"Deception",2008,5.7,"Female",-972,17741298
+"Redbelt",2008,6.4,"Male",5012,0
+"Redbelt",2008,6.4,"Female",-1388,0
+"Taken",2008,7.2,"Male",5337,226830568
+"Taken",2008,7.2,"Female",-1812,226830568
+"Indiana Jones and the Kingdom of the Crystal Skull",2008,5.7,"Male",8723,786636033
+"Indiana Jones and the Kingdom of the Crystal Skull",2008,5.7,"Female",-1977,786636033
+"Sex and the City",2008,6,"Male",5142,415252786
+"Sex and the City",2008,6,"Female",-25184,415252786
+"Kung Fu Panda",2008,6.9,"Male",10262,631744560
+"Kung Fu Panda",2008,6.9,"Female",-1058,631744560
+"The Promotion",2008,5.4,"Male",5720,0
+"The Promotion",2008,5.4,"Female",-382,0
+"The Incredible Hulk",2008,6.1,"Male",3730,163712074
+"The Incredible Hulk",2008,6.1,"Female",-1752,163712074
+"Wanted",2008,6.4,"Male",6353,258270008
+"Wanted",2008,6.4,"Female",-4100,258270008
+"Watchmen",2009,7,"Male",8747,185258983
+"Watchmen",2009,7,"Female",-3055,185258983
+"The Mummy: Tomb of the Dragon Emperor",2008,5.2,"Male",4660,401128639
+"The Mummy: Tomb of the Dragon Emperor",2008,5.2,"Female",-3499,401128639
+"Frozen River",2008,6.7,"Male",4134,0
+"Frozen River",2008,6.7,"Female",-9884,0
+"Vicky Cristina Barcelona",2008,6.7,"Male",7090,96408652
+"Vicky Cristina Barcelona",2008,6.7,"Female",-6533,96408652
+"Pineapple Express",2008,6.6,"Male",13152,101624843
+"Pineapple Express",2008,6.6,"Female",-1602,101624843
+"Tropic Thunder",2008,6.5,"Male",10296,188072649
+"Tropic Thunder",2008,6.5,"Female",-295,188072649
+"Henry Poole Is Here",2008,5.8,"Male",2886,1829917
+"Henry Poole Is Here",2008,5.8,"Female",-2758,1829917
+"Mirrors",2008,6,"Male",10022,72436439
+"Mirrors",2008,6,"Female",-4418,72436439
+"Burn After Reading",2008,6.5,"Male",5827,163720069
+"Burn After Reading",2008,6.5,"Female",-2471,163720069
+"Ghost Town",2008,6.4,"Male",9996,0
+"Ghost Town",2008,6.4,"Female",-2258,0
+"Eagle Eye",2008,6.3,"Male",4972,178066569
+"Eagle Eye",2008,6.3,"Female",-4113,178066569
+"How to Lose Friends & Alienate People",2008,6.2,"Male",11350,17286299
+"How to Lose Friends & Alienate People",2008,6.2,"Female",-5181,17286299
+"Nick and Norah's Infinite Playlist",2008,6.4,"Male",4129,32973937
+"Nick and Norah's Infinite Playlist",2008,6.4,"Female",-1526,32973937
+"The Duchess",2008,6.7,"Male",2982,0
+"The Duchess",2008,6.7,"Female",-4727,0
+"Rachel Getting Married",2008,6.1,"Male",5774,0
+"Rachel Getting Married",2008,6.1,"Female",-10084,0
+"Body of Lies",2008,6.5,"Male",10488,113280098
+"Body of Lies",2008,6.5,"Female",-693,113280098
+"Max Payne",2008,5.2,"Male",3007,85416905
+"Max Payne",2008,5.2,"Female",-319,85416905
+"W.",2008,6,"Male",7304,29506464
+"W.",2008,6,"Female",-633,29506464
+"Synecdoche, New York",2008,7.4,"Male",5324,0
+"Synecdoche, New York",2008,7.4,"Female",-6089,0
+"Changeling",2008,7.3,"Male",8895,113020255
+"Changeling",2008,7.3,"Female",-4177,113020255
+"Slumdog Millionaire",2008,7.6,"Male",16392,377910544
+"Slumdog Millionaire",2008,7.6,"Female",-1242,377910544
+"Milk",2008,7.1,"Male",10769,54586584
+"Milk",2008,7.1,"Female",-357,54586584
+"Twilight",2008,5.8,"Male",7438,392616625
+"Twilight",2008,5.8,"Female",-6886,392616625
+"Doubt",2008,7,"Male",2812,50907234
+"Doubt",2008,7,"Female",-5119,50907234
+"Gran Torino",2008,7.8,"Male",29092,269958228
+"Gran Torino",2008,7.8,"Female",-4000,269958228
+"Frost/Nixon",2008,7.2,"Male",13136,0
+"Frost/Nixon",2008,7.2,"Female",-492,0
+"The Reader",2008,7.2,"Male",9588,113019290
+"The Reader",2008,7.2,"Female",-4716,113019290
+"The Wrestler",2008,7.3,"Male",7132,44703995
+"The Wrestler",2008,7.3,"Female",-3392,44703995
+"The Curious Case of Benjamin Button",2008,7.3,"Male",6402,333932083
+"The Curious Case of Benjamin Button",2008,7.3,"Female",-6542,333932083
+"Yes Man",2008,6.4,"Male",18164,225990978
+"Yes Man",2008,6.4,"Female",-6128,225990978
+"Valkyrie",2008,6.7,"Male",15696,200276000
+"Valkyrie",2008,6.7,"Female",-200,200276000
+"Revolutionary Road",2008,6.8,"Male",10372,75225693
+"Revolutionary Road",2008,6.8,"Female",-8686,75225693
+"Defiance",2008,6.7,"Male",9428,51155219
+"Defiance",2008,6.7,"Female",-1521,51155219
+"Marley & Me",2008,6.9,"Male",11120,244082376
+"Marley & Me",2008,6.9,"Female",-6367,244082376
+"Last Chance Harvey",2008,6.1,"Male",6880,14879423
+"Last Chance Harvey",2008,6.1,"Female",-4380,14879423
+"My Bloody Valentine",2009,5.3,"Male",3267,100734718
+"My Bloody Valentine",2009,5.3,"Female",-1287,100734718
+"Coraline",2009,7.3,"Male",1648,124596398
+"Coraline",2009,7.3,"Female",-4436,124596398
+"Push",2009,5.9,"Male",2098,45465299
+"Push",2009,5.9,"Female",-2826,45465299
+"He's Just Not That Into You",2009,6.2,"Male",11042,177259441
+"He's Just Not That Into You",2009,6.2,"Female",-15708,177259441
+"Funny People",2009,5.6,"Male",36278,61458982
+"Funny People",2009,5.6,"Female",-7596,61458982
+"Street Fighter: The Legend of Chun-Li",2009,3.9,"Male",4654,12764201
+"Street Fighter: The Legend of Chun-Li",2009,3.9,"Female",-2038,12764201
+"Away We Go",2009,6.7,"Male",6226,14899417
+"Away We Go",2009,6.7,"Female",-5067,14899417
+"Sugar",2008,6.5,"Male",12362,0
+"Sugar",2008,6.5,"Female",-2944,0
+"Sunshine Cleaning",2008,6.5,"Male",6914,16174377
+"Sunshine Cleaning",2008,6.5,"Female",-10014,16174377
+"Observe and Report",2009,5.6,"Male",27534,24007324
+"Observe and Report",2009,5.6,"Female",-6728,24007324
+"Adventureland",2009,6.4,"Male",6619,17164377
+"Adventureland",2009,6.4,"Female",-2414,17164377
+"In the Loop",2009,7,"Male",22050,6149791
+"In the Loop",2009,7,"Female",-7050,6149791
+"17 Again",2009,6.1,"Male",12832,136267476
+"17 Again",2009,6.1,"Female",-3806,136267476
+"Inglourious Basterds",2009,7.9,"Male",12648,319131050
+"Inglourious Basterds",2009,7.9,"Female",-3240,319131050
+"The Damned United",2009,7.2,"Male",17770,0
+"The Damned United",2009,7.2,"Female",-196,0
+"Moon",2009,7.6,"Male",5110,9760104
+"Moon",2009,7.6,"Female",-262,9760104
+"The Young Victoria",2009,7.1,"Male",6054,27409889
+"The Young Victoria",2009,7.1,"Female",-5587,27409889
+"X-Men Origins: Wolverine",2009,6.2,"Male",6798,373062864
+"X-Men Origins: Wolverine",2009,6.2,"Female",-2016,373062864
+"Sin Nombre",2009,7.3,"Male",2553,5101756
+"Sin Nombre",2009,7.3,"Female",-1104,5101756
+"Star Trek",2009,7.4,"Male",6582,385680446
+"Star Trek",2009,7.4,"Female",-682,385680446
+"Angels & Demons",2009,6.5,"Male",15272,356613439
+"Angels & Demons",2009,6.5,"Female",-2848,356613439
+"Terminator Salvation",2009,5.9,"Male",2482,371353001
+"Terminator Salvation",2009,5.9,"Female",-1661,371353001
+"The Brothers Bloom",2008,6.8,"Male",9358,5530764
+"The Brothers Bloom",2008,6.8,"Female",-4408,5530764
+"Drag Me to Hell",2009,6.2,"Male",7852,90810892
+"Drag Me to Hell",2009,6.2,"Female",-17236,90810892
+"Up",2009,7.8,"Male",13334,735099082
+"Up",2009,7.8,"Female",-998,735099082
+"The Hangover",2009,7.2,"Male",26538,459270619
+"The Hangover",2009,7.2,"Female",-3236,459270619
+"The Proposal",2009,6.7,"Male",6460,317375031
+"The Proposal",2009,6.7,"Female",-7377,317375031
+"Year One",2009,4.6,"Male",18484,62357900
+"Year One",2009,4.6,"Female",-2412,62357900
+"The Hurt Locker",2008,7.2,"Male",5392,4.2e+07
+"The Hurt Locker",2008,7.2,"Female",0,4.2e+07
+"Public Enemies",2009,6.5,"Male",6857,214104620
+"Public Enemies",2009,6.5,"Female",-1132,214104620
+"(500) Days of Summer",2009,7.2,"Male",12762,60722734
+"(500) Days of Summer",2009,7.2,"Female",-5738,60722734
+"Harry Potter and the Half-Blood Prince",2009,7.4,"Male",10693,933959197
+"Harry Potter and the Half-Blood Prince",2009,7.4,"Female",-2249,933959197
+"The Imaginarium of Doctor Parnassus",2009,6.3,"Male",12290,64352607
+"The Imaginarium of Doctor Parnassus",2009,6.3,"Female",-2724,64352607
+"Orphan",2009,6.7,"Male",3285,41596251
+"Orphan",2009,6.7,"Female",-7734,41596251
+"The Ugly Truth",2009,6.4,"Male",7968,205298907
+"The Ugly Truth",2009,6.4,"Female",-6033,205298907
+"A Perfect Getaway",2009,6.2,"Male",4685,22852638
+"A Perfect Getaway",2009,6.2,"Female",-1388,22852638
+"Obsessed",2009,5.1,"Male",6134,73830340
+"Obsessed",2009,5.1,"Female",-4508,73830340
+"G.I. Joe: The Rise of Cobra",2009,5.6,"Male",10868,302469017
+"G.I. Joe: The Rise of Cobra",2009,5.6,"Female",-3173,302469017
+"Pandorum",2009,6.5,"Male",16324,20645327
+"Pandorum",2009,6.5,"Female",-2126,20645327
+"The Men Who Stare at Goats",2009,5.9,"Male",9387,68729358
+"The Men Who Stare at Goats",2009,5.9,"Female",0,68729358
+"Jennifer's Body",2009,5.3,"Male",2447,31556061
+"Jennifer's Body",2009,5.3,"Female",-7381,31556061
+"The Informant!",2009,6,"Male",11609,35424826
+"The Informant!",2009,6,"Female",-649,35424826
+"Extract",2009,5.7,"Male",12887,10848783
+"Extract",2009,5.7,"Female",-2162,10848783
+"Gamer",2009,5.6,"Male",1657,40828540
+"Gamer",2009,5.6,"Female",-565,40828540
+"Cloudy with a Chance of Meatballs",2009,6.5,"Male",5253,242988466
+"Cloudy with a Chance of Meatballs",2009,6.5,"Female",-1495,242988466
+"Bright Star",2009,6.8,"Male",4508,4440055
+"Bright Star",2009,6.8,"Female",-4452,4440055
+"A Serious Man",2009,6.6,"Male",8163,31430334
+"A Serious Man",2009,6.6,"Female",-866,31430334
+"City Island",2009,6.9,"Male",3439,6670712
+"City Island",2009,6.9,"Female",-3083,6670712
+"Whip It",2009,6.7,"Male",1896,16633035
+"Whip It",2009,6.7,"Female",-5761,16633035
+"The Invention of Lying",2009,6,"Male",6369,31912793
+"The Invention of Lying",2009,6,"Female",-2038,31912793
+"Surrogates",2009,5.9,"Male",9551,122444772
+"Surrogates",2009,5.9,"Female",-3215,122444772
+"Sorority Row",2009,5.3,"Male",1993,27206120
+"Sorority Row",2009,5.3,"Female",-6583,27206120
+"Whiteout",2009,5.3,"Male",2232,12206028
+"Whiteout",2009,5.3,"Female",-1889,12206028
+"An Education",2009,6.9,"Male",6292,26096852
+"An Education",2009,6.9,"Female",-14330,26096852
+"All About Steve",2009,4.7,"Male",6901,40105542
+"All About Steve",2009,4.7,"Female",-8644,40105542
+"Where the Wild Things Are",2009,6.4,"Male",4332,100086793
+"Where the Wild Things Are",2009,6.4,"Female",-1431,100086793
+"Law Abiding Citizen",2009,7.2,"Male",7994,126690726
+"Law Abiding Citizen",2009,7.2,"Female",-1101,126690726
+"Amelia",2009,5.4,"Male",13622,19258519
+"Amelia",2009,5.4,"Female",-17014,19258519
+"Up in the Air",2009,6.7,"Male",7195,163670000
+"Up in the Air",2009,6.7,"Female",-4787,163670000
+"Cirque du Freak: The Vampire's Assistant",2009,5.5,"Male",8109,28169671
+"Cirque du Freak: The Vampire's Assistant",2009,5.5,"Female",-317,28169671
+"The Boondock Saints II: All Saints Day",2009,5.8,"Male",7359,10629321
+"The Boondock Saints II: All Saints Day",2009,5.8,"Female",-2397,10629321
+"Fantastic Mr. Fox",2009,7.5,"Male",12442,46471023
+"Fantastic Mr. Fox",2009,7.5,"Female",-864,46471023
+"2012",2009,5.6,"Male",11574,769653595
+"2012",2009,5.6,"Female",-2560,769653595
+"The Box",2009,5.4,"Male",8965,33333531
+"The Box",2009,5.4,"Female",-5008,33333531
+"Broken Embraces",2009,7.1,"Male",8804,0
+"Broken Embraces",2009,7.1,"Female",-6200,0
+"The Fourth Kind",2009,5.8,"Male",3986,42333295
+"The Fourth Kind",2009,5.8,"Female",-4269,42333295
+"Precious",2009,6.9,"Male",114,47536959
+"Precious",2009,6.9,"Female",-17536,47536959
+"The Twilight Saga: New Moon",2009,5.6,"Male",9276,709827462
+"The Twilight Saga: New Moon",2009,5.6,"Female",-8778,709827462
+"The Messenger",2009,7,"Male",5523,1521261
+"The Messenger",2009,7,"Female",-966,1521261
+"Ninja Assassin",2009,6.2,"Male",4408,60462347
+"Ninja Assassin",2009,6.2,"Female",-2864,60462347
+"Brothers",2009,6.8,"Male",5589,43318349
+"Brothers",2009,6.8,"Female",-3002,43318349
+"The Blind Side",2009,7.2,"Male",7144,309208309
+"The Blind Side",2009,7.2,"Female",-7890,309208309
+"A Single Man",2009,7.3,"Male",4874,0
+"A Single Man",2009,7.3,"Female",-1047,0
+"Invictus",2009,7,"Male",6534,122233971
+"Invictus",2009,7,"Female",-713,122233971
+"Armored",2009,5.5,"Male",4500,22942221
+"Armored",2009,5.5,"Female",0,22942221
+"Avatar",2009,7.2,"Male",11470,2787965087
+"Avatar",2009,7.2,"Female",-5962,2787965087
+"Nine",2009,5.1,"Male",4795,53825515
+"Nine",2009,5.1,"Female",-2563,53825515
+"It's Complicated",2009,6.2,"Male",5203,219103655
+"It's Complicated",2009,6.2,"Female",-5765,219103655
+"Sherlock Holmes",2009,7,"Male",8622,524028679
+"Sherlock Holmes",2009,7,"Female",-1200,524028679
+"Crazy Heart",2009,6.8,"Male",9029,39462438
+"Crazy Heart",2009,6.8,"Female",-1537,39462438
+"The Last Station",2009,6.7,"Male",11926,0
+"The Last Station",2009,6.7,"Female",-7144,0
+"Youth in Revolt",2009,5.9,"Male",23054,0
+"Youth in Revolt",2009,5.9,"Female",-10756,0
+"Daybreakers",2009,6,"Male",3898,51416464
+"Daybreakers",2009,6,"Female",-891,51416464
+"The Book of Eli",2010,6.6,"Male",14518,157107755
+"The Book of Eli",2010,6.6,"Female",-4598,157107755
+"Nowhere Boy",2009,7.2,"Male",2575,0
+"Nowhere Boy",2009,7.2,"Female",-2042,0
+"Legion",2010,5.2,"Male",7482,67918658
+"Legion",2010,5.2,"Female",-3302,67918658
+"Edge of Darkness",2010,6.2,"Male",11243,74901339
+"Edge of Darkness",2010,6.2,"Female",-701,74901339
+"I Love You Phillip Morris",2009,6.4,"Male",8417,10652035
+"I Love You Phillip Morris",2009,6.4,"Female",-881,10652035
+"Valentine's Day",2010,5.7,"Male",5145,216485654
+"Valentine's Day",2010,5.7,"Female",-3110,216485654
+"The Wolfman",2010,5.5,"Male",7630,0
+"The Wolfman",2010,5.5,"Female",-1356,0
+"Cop Out",2010,5.3,"Male",9939,55583804
+"Cop Out",2010,5.3,"Female",-307,55583804
+"The Crazies",2010,6.2,"Male",2781,54956140
+"The Crazies",2010,6.2,"Female",-898,54956140
+"Alice in Wonderland",2010,6.4,"Male",1883,1025491110
+"Alice in Wonderland",2010,6.4,"Female",-3515,1025491110
+"Green Zone",2010,6.4,"Male",6862,94882889
+"Green Zone",2010,6.4,"Female",-750,94882889
+"Greenberg",2010,6,"Male",7323,6153967
+"Greenberg",2010,6,"Female",-3554,6153967
+"Brooklyn's Finest",2009,6.2,"Male",6233,29536299
+"Brooklyn's Finest",2009,6.2,"Female",-1041,29536299
+"She's Out of My League",2010,5.9,"Male",6742,49779728
+"She's Out of My League",2010,5.9,"Female",-2996,49779728
+"Remember Me",2010,6.9,"Male",5458,56032889
+"Remember Me",2010,6.9,"Female",-3750,56032889
+"The Bounty Hunter",2010,5.6,"Male",4567,1.36e+08
+"The Bounty Hunter",2010,5.6,"Female",-2468,1.36e+08
+"Case 39",2009,6.1,"Male",2926,2.9e+07
+"Case 39",2009,6.1,"Female",-5244,2.9e+07
+"Hot Tub Time Machine",2010,5.9,"Male",12196,64572262
+"Hot Tub Time Machine",2010,5.9,"Female",-1169,64572262
+"How to Train Your Dragon",2010,7.5,"Male",14848,494878759
+"How to Train Your Dragon",2010,7.5,"Female",-1947,494878759
+"Clash of the Titans",2010,5.6,"Male",9864,232713139
+"Clash of the Titans",2010,5.6,"Female",-5206,232713139
+"Kick-Ass",2010,7.1,"Male",8195,96188903
+"Kick-Ass",2010,7.1,"Female",-1625,96188903
+"Date Night",2010,5.9,"Male",9940,152263880
+"Date Night",2010,5.9,"Female",-5690,152263880
+"The Runaways",2010,6.3,"Male",1686,2995811
+"The Runaways",2010,6.3,"Female",-4086,2995811
+"Death at a Funeral",2010,5.5,"Male",14995,49050886
+"Death at a Funeral",2010,5.5,"Female",-3745,49050886
+"The Losers",2010,6.2,"Male",7537,23580000
+"The Losers",2010,6.2,"Female",-914,23580000
+"Cyrus",2010,6.1,"Male",4186,0
+"Cyrus",2010,6.1,"Female",-2547,0
+"Blue Valentine",2010,6.9,"Male",5025,16566240
+"Blue Valentine",2010,6.9,"Female",-2694,16566240
+"Buried",2010,6.6,"Male",13700,19152480
+"Buried",2010,6.6,"Female",-869,19152480
+"Prince of Persia: The Sands of Time",2010,6.2,"Male",6119,335154643
+"Prince of Persia: The Sands of Time",2010,6.2,"Female",-1558,335154643
+"Please Give",2010,6,"Male",1278,0
+"Please Give",2010,6,"Female",-6214,0
+"Get Him to the Greek",2010,5.9,"Male",11164,90029656
+"Get Him to the Greek",2010,5.9,"Female",-1154,90029656
+"Letters to Juliet",2010,6.6,"Male",4128,0
+"Letters to Juliet",2010,6.6,"Female",-5078,0
+"Jonah Hex",2010,4.5,"Male",5503,10539000
+"Jonah Hex",2010,4.5,"Female",-283,10539000
+"The A-Team",2010,6.2,"Male",7190,177238796
+"The A-Team",2010,6.2,"Female",-529,177238796
+"Toy Story 3",2010,7.6,"Male",7697,1066969703
+"Toy Story 3",2010,7.6,"Female",-2429,1066969703
+"Winter's Bone",2010,6.8,"Male",2240,13831503
+"Winter's Bone",2010,6.8,"Female",-3347,13831503
+"The Twilight Saga: Eclipse",2010,5.9,"Male",1411,698491347
+"The Twilight Saga: Eclipse",2010,5.9,"Female",-957,698491347
+"Predators",2010,6,"Male",1971,126248813
+"Predators",2010,6,"Female",-561,126248813
+"Despicable Me",2010,7.1,"Male",3576,543513985
+"Despicable Me",2010,7.1,"Female",-1368,543513985
+"Inception",2010,8.1,"Male",12406,825532764
+"Inception",2010,8.1,"Female",-2678,825532764
+"The Sorcerer's Apprentice",2010,5.9,"Male",6849,215283742
+"The Sorcerer's Apprentice",2010,5.9,"Female",-1072,215283742
+"Knight and Day",2010,5.9,"Male",5426,261930431
+"Knight and Day",2010,5.9,"Female",-4048,261930431
+"Salt",2010,6.2,"Male",3929,293329073
+"Salt",2010,6.2,"Female",-1802,293329073
+"Dinner for Schmucks",2010,5.5,"Male",7341,86387857
+"Dinner for Schmucks",2010,5.5,"Female",-1386,86387857
+"The Other Guys",2010,6.1,"Male",9845,170432927
+"The Other Guys",2010,6.1,"Female",-767,170432927
+"The Expendables",2010,6,"Male",6963,274470394
+"The Expendables",2010,6,"Female",-727,274470394
+"Scott Pilgrim vs. the World",2010,7.2,"Male",13478,47664559
+"Scott Pilgrim vs. the World",2010,7.2,"Female",-6935,47664559
+"Animal Kingdom",2010,6.7,"Male",6649,1e+06
+"Animal Kingdom",2010,6.7,"Female",-2051,1e+06
+"Get Low",2009,6.5,"Male",11588,0
+"Get Low",2009,6.5,"Female",-2008,0
+"The American",2010,5.8,"Male",3193,65464324
+"The American",2010,5.8,"Female",-1419,65464324
+"Machete",2010,6.3,"Male",3965,31327899
+"Machete",2010,6.3,"Female",-1939,31327899
+"The Social Network",2010,7.1,"Male",18854,224920315
+"The Social Network",2010,7.1,"Female",-1990,224920315
+"The Town",2010,7,"Male",9466,154026136
+"The Town",2010,7,"Female",-2716,154026136
+"Easy A",2010,6.7,"Male",1296,74952305
+"Easy A",2010,6.7,"Female",-10289,74952305
+"It's Kind of a Funny Story",2010,6.9,"Male",7321,6491240
+"It's Kind of a Funny Story",2010,6.9,"Female",-1613,6491240
+"Tamara Drewe",2010,5.8,"Male",9021,0
+"Tamara Drewe",2010,5.8,"Female",-9568,0
+"Let Me In",2010,6.7,"Male",2434,24145613
+"Let Me In",2010,6.7,"Female",-919,24145613
+"Secretariat",2010,6.8,"Male",4781,60251371
+"Secretariat",2010,6.8,"Female",-4534,60251371
+"Stone",2010,5.2,"Male",6562,9479718
+"Stone",2010,5.2,"Female",-3236,9479718
+"Conviction",2010,7,"Male",2166,6732980
+"Conviction",2010,7,"Female",-5231,6732980
+"Never Let Me Go",2010,6.8,"Male",1432,9455232
+"Never Let Me Go",2010,6.8,"Female",-5047,9455232
+"Hereafter",2010,5.8,"Male",4478,105197635
+"Hereafter",2010,5.8,"Female",-2583,105197635
+"127 Hours",2010,7,"Male",4336,35692920
+"127 Hours",2010,7,"Female",-809,35692920
+"Black Swan",2010,7.3,"Male",1947,327803731
+"Black Swan",2010,7.3,"Female",-2444,327803731
+"Jack Goes Boating",2010,6.1,"Male",5167,538000
+"Jack Goes Boating",2010,6.1,"Female",-2881,538000
+"Unstoppable",2010,6.3,"Male",5382,167805466
+"Unstoppable",2010,6.3,"Female",-2839,167805466
+"The Next Three Days",2010,6.9,"Male",5079,51148651
+"The Next Three Days",2010,6.9,"Female",-1921,51148651
+"The King's Speech",2010,7.6,"Male",13746,414211549
+"The King's Speech",2010,7.6,"Female",-1574,414211549
+"The Fighter",2010,7.2,"Male",10261,93617009
+"The Fighter",2010,7.2,"Female",-3744,93617009
+"Love & Other Drugs",2010,6.6,"Male",5063,102820008
+"Love & Other Drugs",2010,6.6,"Female",-3202,102820008
+"The Tourist",2010,6,"Male",3174,278731369
+"The Tourist",2010,6,"Female",-999,278731369
+"True Grit",2010,7.2,"Male",4602,252276927
+"True Grit",2010,7.2,"Female",-3200,252276927
+"Another Year",2010,7,"Male",5715,18124262
+"Another Year",2010,7,"Female",-8280,18124262
+"How Do You Know",2010,4.9,"Male",7217,48668907
+"How Do You Know",2010,4.9,"Female",-5179,48668907
+"Barney's Version",2010,7.2,"Male",7539,8454301
+"Barney's Version",2010,7.2,"Female",-3448,8454301
+"The Company Men",2010,6.4,"Male",5367,4882577
+"The Company Men",2010,6.4,"Female",-1120,4882577
+"Mother and Child",2009,6.7,"Male",1556,0
+"Mother and Child",2009,6.7,"Female",-8093,0
+"Rabbit Hole",2010,6.8,"Male",2120,5129058
+"Rabbit Hole",2010,6.8,"Female",-4028,5129058
+"Burlesque",2010,6.9,"Male",7068,89519773
+"Burlesque",2010,6.9,"Female",-10788,89519773
+"Made in Dagenham",2010,6.6,"Male",3492,0
+"Made in Dagenham",2010,6.6,"Female",-6394,0
+"The Way Back",2010,6.8,"Male",12223,20348249
+"The Way Back",2010,6.8,"Female",-696,20348249
+"Season of the Witch",2011,5.2,"Male",6084,88100000
+"Season of the Witch",2011,5.2,"Female",-997,88100000
+"Cowboys & Aliens",2011,5.4,"Male",11660,174822325
+"Cowboys & Aliens",2011,5.4,"Female",-2763,174822325
+"Limitless",2011,7.1,"Male",9012,161849455
+"Limitless",2011,7.1,"Female",-1858,161849455
+"No Strings Attached",2011,6.1,"Male",8525,147780440
+"No Strings Attached",2011,6.1,"Female",-6259,147780440
+"The Lincoln Lawyer",2011,7,"Male",16138,85412898
+"The Lincoln Lawyer",2011,7,"Female",-3303,85412898
+"For Colored Girls",2010,7,"Male",1580,3.7e+07
+"For Colored Girls",2010,7,"Female",-10597,3.7e+07
+"Cedar Rapids",2011,5.9,"Male",11418,6861102
+"Cedar Rapids",2011,5.9,"Female",-1819,6861102
+"Paul",2011,6.5,"Male",15081,97552050
+"Paul",2011,6.5,"Female",-1884,97552050
+"Drive Angry",2011,5.3,"Male",2692,28931401
+"Drive Angry",2011,5.3,"Female",-1472,28931401
+"The Adjustment Bureau",2011,6.5,"Male",12258,127869379
+"The Adjustment Bureau",2011,6.5,"Female",-3222,127869379
+"The Mechanic",2011,6.3,"Male",7430,51070807
+"The Mechanic",2011,6.3,"Female",-1164,51070807
+"Hall Pass",2011,5.4,"Male",15848,83160734
+"Hall Pass",2011,5.4,"Female",-6302,83160734
+"I Am Number Four",2011,5.9,"Male",10237,144492830
+"I Am Number Four",2011,5.9,"Female",-2926,144492830
+"Red Riding Hood",2011,5.7,"Male",8890,89162162
+"Red Riding Hood",2011,5.7,"Female",-9922,89162162
+"Source Code",2011,7.1,"Male",10735,147332697
+"Source Code",2011,7.1,"Female",-6179,147332697
+"Jane Eyre",2011,7,"Male",7696,34710627
+"Jane Eyre",2011,7,"Female",-8849,34710627
+"Insidious",2010,6.8,"Male",3879,97009150
+"Insidious",2010,6.8,"Female",-4351,97009150
+"Win Win",2011,6.7,"Male",9834,10654385
+"Win Win",2011,6.7,"Female",-3421,10654385
+"Hanna",2011,6.5,"Male",4759,63782078
+"Hanna",2011,6.5,"Female",-5722,63782078
+"Thor",2011,6.6,"Male",15996,449326618
+"Thor",2011,6.6,"Female",-5413,449326618
+"Water for Elephants",2011,6.7,"Male",14429,114156230
+"Water for Elephants",2011,6.7,"Female",-3196,114156230
+"Bridesmaids",2011,6.5,"Male",2014,288383523
+"Bridesmaids",2011,6.5,"Female",-9010,288383523
+"Priest",2011,5.4,"Male",10642,78309131
+"Priest",2011,5.4,"Female",-1814,78309131
+"The Beaver",2011,6.2,"Male",8738,970816
+"The Beaver",2011,6.2,"Female",-4034,970816
+"Midnight in Paris",2011,7.4,"Male",6761,151119219
+"Midnight in Paris",2011,7.4,"Female",-4415,151119219
+"The Tree of Life",2011,6.5,"Male",6315,54674226
+"The Tree of Life",2011,6.5,"Female",-2325,54674226
+"The Roommate",2011,5.3,"Male",1839,40492759
+"The Roommate",2011,5.3,"Female",-12294,40492759
+"Everything Must Go",2010,6,"Male",6222,2614773
+"Everything Must Go",2010,6,"Female",-316,2614773
+"Beginners",2010,6.8,"Male",8861,5332926
+"Beginners",2010,6.8,"Female",-2502,5332926
+"Super 8",2011,6.6,"Male",7773,260095987
+"Super 8",2011,6.6,"Female",-728,260095987
+"Green Lantern",2011,5.1,"Male",7545,219851172
+"Green Lantern",2011,5.1,"Female",-1582,219851172
+"Bad Teacher",2011,5.4,"Male",4489,216197492
+"Bad Teacher",2011,5.4,"Female",-10782,216197492
+"Larry Crowne",2011,5.7,"Male",6963,36160375
+"Larry Crowne",2011,5.7,"Female",-6289,36160375
+"Horrible Bosses",2011,6.4,"Male",11150,1.17e+08
+"Horrible Bosses",2011,6.4,"Female",-1125,1.17e+08
+"Cars 2",2011,5.8,"Male",11135,559852396
+"Cars 2",2011,5.8,"Female",-1511,559852396
+"To Sleep with Anger",1990,5.6,"Male",14302,0
+"To Sleep with Anger",1990,5.6,"Female",-5472,0
+"Monte Carlo",2011,6,"Male",3772,17425000
+"Monte Carlo",2011,6,"Female",-13256,17425000
+"Drive",2011,7.4,"Male",4443,78054825
+"Drive",2011,7.4,"Female",-832,78054825
+"Captain America: The First Avenger",2011,6.6,"Male",5808,370569774
+"Captain America: The First Avenger",2011,6.6,"Female",-747,370569774
+"Crazy, Stupid, Love.",2011,7,"Male",8177,142851197
+"Crazy, Stupid, Love.",2011,7,"Female",-4260,142851197
+"The Guard",2011,6.8,"Male",9025,19560274
+"The Guard",2011,6.8,"Female",-698,19560274
+"The Smurfs",2011,5.5,"Male",6491,563749323
+"The Smurfs",2011,5.5,"Female",-2019,563749323
+"Friends with Benefits",2011,6.5,"Male",3703,150483765
+"Friends with Benefits",2011,6.5,"Female",-4084,150483765
+"Rise of the Planet of the Apes",2011,7,"Male",7447,482860185
+"Rise of the Planet of the Apes",2011,7,"Female",-1537,482860185
+"The Change-Up",2011,5.9,"Male",16287,75450437
+"The Change-Up",2011,5.9,"Female",-2761,75450437
+"The Help",2011,7.9,"Male",1951,124272124
+"The Help",2011,7.9,"Female",-21540,124272124
+"30 Minutes or Less",2011,5.6,"Male",14278,40547440
+"30 Minutes or Less",2011,5.6,"Female",-704,40547440
+"Fright Night",2011,6,"Male",13916,24922237
+"Fright Night",2011,6,"Female",-3092,24922237
+"The Debt",2010,6.2,"Male",3934,45636368
+"The Debt",2010,6.2,"Female",-2072,45636368
+"Colombiana",2011,6.5,"Male",6248,60965854
+"Colombiana",2011,6.5,"Female",-1417,60965854
+"Conan the Barbarian",2011,5.2,"Male",6568,48795021
+"Conan the Barbarian",2011,5.2,"Female",-2009,48795021
+"Straw Dogs",2011,5.5,"Male",5928,10324441
+"Straw Dogs",2011,5.5,"Female",-1704,10324441
+"Moneyball",2011,7,"Male",13269,110206216
+"Moneyball",2011,7,"Female",-511,110206216
+"The Avengers",2012,7.4,"Male",11207,1519557910
+"The Avengers",2012,7.4,"Female",-1723,1519557910
+"Tinker Tailor Soldier Spy",2011,6.6,"Male",8829,0
+"Tinker Tailor Soldier Spy",2011,6.6,"Female",-565,0
+"Warrior",2011,7.7,"Male",9875,23057115
+"Warrior",2011,7.7,"Female",-677,23057115
+"The Ides of March",2011,6.5,"Male",9172,75993061
+"The Ides of March",2011,6.5,"Female",-1441,75993061
+"50/50",2011,7,"Male",5617,39187783
+"50/50",2011,7,"Female",-2209,39187783
+"Take Shelter",2011,7.1,"Male",7877,3099314
+"Take Shelter",2011,7.1,"Female",-4046,3099314
+"Martha Marcy May Marlene",2011,6.7,"Male",2073,3538446
+"Martha Marcy May Marlene",2011,6.7,"Female",-4657,3538446
+"We Need to Talk About Kevin",2011,7.4,"Male",3518,6038942
+"We Need to Talk About Kevin",2011,7.4,"Female",-3516,6038942
+"In Time",2011,6.7,"Male",4560,173930596
+"In Time",2011,6.7,"Female",-1216,173930596
+"Margin Call",2011,6.7,"Male",11181,19504039
+"Margin Call",2011,6.7,"Female",-1107,19504039
+"Shame",2011,7,"Male",4311,17693675
+"Shame",2011,7,"Female",-1937,17693675
+"Machine Gun Preacher",2011,6.4,"Male",7062,2527904
+"Machine Gun Preacher",2011,6.4,"Female",-1844,2527904
+"Anonymous",2011,6.3,"Male",9738,15395087
+"Anonymous",2011,6.3,"Female",-1434,15395087
+"Tower Heist",2011,5.8,"Male",6317,152930623
+"Tower Heist",2011,5.8,"Female",-753,152930623
+"The Adventures of Tintin",2011,6.7,"Male",5631,371940071
+"The Adventures of Tintin",2011,6.7,"Female",0,371940071
+"The Descendants",2011,6.7,"Male",10291,177243185
+"The Descendants",2011,6.7,"Female",-4601,177243185
+"War Horse",2011,7,"Male",6950,177584879
+"War Horse",2011,7,"Female",-1331,177584879
+"My Week with Marilyn",2011,6.6,"Male",14201,35057696
+"My Week with Marilyn",2011,6.6,"Female",-9047,35057696
+"Rampart",2011,5.3,"Male",6483,972512
+"Rampart",2011,5.3,"Female",-2365,972512
+"Arthur Christmas",2011,6.7,"Male",3530,0
+"Arthur Christmas",2011,6.7,"Female",-250,0
+"The Expendables 2",2012,6.1,"Male",5082,312573423
+"The Expendables 2",2012,6.1,"Female",-538,312573423
+"The Hunger Games",2012,6.9,"Male",4600,691210692
+"The Hunger Games",2012,6.9,"Female",-3799,691210692
+"The Dark Knight Rises",2012,7.6,"Male",8682,1084939099
+"The Dark Knight Rises",2012,7.6,"Female",-1537,1084939099
+"Coriolanus",2011,5.9,"Male",9192,1072602
+"Coriolanus",2011,5.9,"Female",-2623,1072602
+"Young Adult",2011,5.6,"Male",3492,22939027
+"Young Adult",2011,5.6,"Female",-5549,22939027
+"The Girl with the Dragon Tattoo",2011,7.2,"Male",8965,232617430
+"The Girl with the Dragon Tattoo",2011,7.2,"Female",-3713,232617430
+"Pariah",2011,7,"Male",1793,0
+"Pariah",2011,7,"Female",-7381,0
+"The Iron Lady",2011,6.2,"Male",2075,114956699
+"The Iron Lady",2011,6.2,"Female",-4895,114956699
+"The Grey",2011,6.4,"Male",6838,77278331
+"The Grey",2011,6.4,"Female",0,77278331
+"The Whistleblower",2010,6.6,"Male",3166,0
+"The Whistleblower",2010,6.6,"Female",-5586,0
+"Apollo 18",2011,5,"Male",2578,25562924
+"Apollo 18",2011,5,"Female",0,25562924
+"Chronicle",2012,6.6,"Male",6943,1.45e+08
+"Chronicle",2012,6.6,"Female",-542,1.45e+08
+"Safe House",2012,6.3,"Male",5146,208076205
+"Safe House",2012,6.3,"Female",-445,208076205
+"The Lorax",2012,6.3,"Male",4266,348840316
+"The Lorax",2012,6.3,"Female",-901,348840316
+"Jeff, Who Lives at Home",2011,6.1,"Male",4315,4417580
+"Jeff, Who Lives at Home",2011,6.1,"Female",-1392,4417580
+"The Cabin in the Woods",2012,6.6,"Male",4339,66486080
+"The Cabin in the Woods",2012,6.6,"Female",-2664,66486080
+"The Three Stooges",2012,4.9,"Male",5085,54819301
+"The Three Stooges",2012,4.9,"Female",-1383,54819301
+"The Best Exotic Marigold Hotel",2011,6.9,"Male",9259,136836156
+"The Best Exotic Marigold Hotel",2011,6.9,"Female",-7094,136836156
+"Men in Black 3",2012,6.3,"Male",14351,624026776
+"Men in Black 3",2012,6.3,"Female",-113,624026776
+"Snow White and the Huntsman",2012,5.8,"Male",9546,396600000
+"Snow White and the Huntsman",2012,5.8,"Female",-6169,396600000
+"Prometheus",2012,6.3,"Male",3490,403170142
+"Prometheus",2012,6.3,"Female",-1746,403170142
+"Take This Waltz",2011,6.3,"Male",4061,0
+"Take This Waltz",2011,6.3,"Female",-4404,0
+"Wanderlust",2012,5.3,"Male",8991,24159934
+"Wanderlust",2012,5.3,"Female",-3992,24159934
+"Moonrise Kingdom",2012,7.6,"Male",5970,68263166
+"Moonrise Kingdom",2012,7.6,"Female",-2347,68263166
+"Cosmopolis",2012,5.1,"Male",6498,6063556
+"Cosmopolis",2012,5.1,"Female",-2278,6063556
+"Safety Not Guaranteed",2012,6.8,"Male",5061,4007792
+"Safety Not Guaranteed",2012,6.8,"Female",-2704,4007792
+"Rock of Ages",2012,6,"Male",3054,59418613
+"Rock of Ages",2012,6,"Female",-778,59418613
+"Seeking a Friend for the End of the World",2012,6.3,"Male",4154,9636289
+"Seeking a Friend for the End of the World",2012,6.3,"Female",-2790,9636289
+"Ted",2012,6.3,"Male",10277,549368315
+"Ted",2012,6.3,"Female",-2415,549368315
+"Beasts of the Southern Wild",2012,6.8,"Male",1706,21107746
+"Beasts of the Southern Wild",2012,6.8,"Female",-2325,21107746
+"People Like Us",2012,6.6,"Male",5351,12434778
+"People Like Us",2012,6.6,"Female",-4515,12434778
+"Killer Joe",2011,6.4,"Male",6661,3665069
+"Killer Joe",2011,6.4,"Female",-2392,3665069
+"ParaNorman",2012,6.7,"Male",10749,107139399
+"ParaNorman",2012,6.7,"Female",-3929,107139399
+"Celeste & Jesse Forever",2012,6.4,"Male",5056,3094813
+"Celeste & Jesse Forever",2012,6.4,"Female",-8350,3094813
+"Lawless",2012,6.8,"Male",9920,53676580
+"Lawless",2012,6.8,"Female",-1097,53676580
+"Pitch Perfect",2012,7.3,"Male",3591,115350426
+"Pitch Perfect",2012,7.3,"Female",-5170,115350426
+"Looper",2012,6.6,"Male",11397,47042000
+"Looper",2012,6.6,"Female",-2879,47042000
+"Resident Evil: Retribution",2012,5.6,"Male",2206,240159255
+"Resident Evil: Retribution",2012,5.6,"Female",-2622,240159255
+"The Master",2012,7,"Male",13654,28258060
+"The Master",2012,7,"Female",-1028,28258060
+"Dredd",2012,6.6,"Male",3298,41037742
+"Dredd",2012,6.6,"Female",-1838,41037742
+"Arbitrage",2012,6.1,"Male",9737,35485056
+"Arbitrage",2012,6.1,"Female",-2198,35485056
+"End of Watch",2012,7.2,"Male",7372,48126384
+"End of Watch",2012,7.2,"Female",-1156,48126384
+"The Perks of Being a Wallflower",2012,7.7,"Male",7188,33400000
+"The Perks of Being a Wallflower",2012,7.7,"Female",-2767,33400000
+"Sparkle",2012,5.8,"Male",4048,24637469
+"Sparkle",2012,5.8,"Female",-5326,24637469
+"Taken 2",2012,6.1,"Male",4134,376141306
+"Taken 2",2012,6.1,"Female",-1908,376141306
+"Rust and Bone",2012,7.1,"Male",7407,25762027
+"Rust and Bone",2012,7.1,"Female",-6135,25762027
+"Frankenweenie",2012,6.6,"Male",2952,35287788
+"Frankenweenie",2012,6.6,"Female",-1219,35287788
+"Sinister",2012,6.8,"Male",5325,77712439
+"Sinister",2012,6.8,"Female",-2246,77712439
+"Argo",2012,7.1,"Male",8919,232324128
+"Argo",2012,7.1,"Female",-345,232324128
+"Seven Psychopaths",2012,6.7,"Male",10714,19422261
+"Seven Psychopaths",2012,6.7,"Female",-634,19422261
+"Cloud Atlas",2012,6.6,"Male",8228,130482868
+"Cloud Atlas",2012,6.6,"Female",-3326,130482868
+"Killing Them Softly",2012,5.8,"Male",16153,37930465
+"Killing Them Softly",2012,5.8,"Female",0,37930465
+"The Sessions",2012,6.6,"Male",6424,9138338
+"The Sessions",2012,6.6,"Female",-4680,9138338
+"Wreck-It Ralph",2012,7.1,"Male",5333,471222889
+"Wreck-It Ralph",2012,7.1,"Female",-2358,471222889
+"Flight",2012,6.5,"Male",10519,161772375
+"Flight",2012,6.5,"Female",-2935,161772375
+"Anna Karenina",2012,6.5,"Male",6147,68929150
+"Anna Karenina",2012,6.5,"Female",-4819,68929150
+"Life of Pi",2012,7.2,"Male",6914,609016565
+"Life of Pi",2012,7.2,"Female",-289,609016565
+"Lincoln",2012,6.7,"Male",12134,275293450
+"Lincoln",2012,6.7,"Female",-1716,275293450
+"Rise of the Guardians",2012,7.1,"Male",7742,306941670
+"Rise of the Guardians",2012,7.1,"Female",-931,306941670
+"Hitchcock",2012,6.3,"Male",5300,23570541
+"Hitchcock",2012,6.3,"Female",-2378,23570541
+"Hyde Park on Hudson",2012,5.3,"Male",3329,8887603
+"Hyde Park on Hudson",2012,5.3,"Female",-3558,8887603
+"Zero Dark Thirty",2012,6.7,"Male",8152,132820716
+"Zero Dark Thirty",2012,6.7,"Female",-5064,132820716
+"Jack Reacher",2012,6.3,"Male",3057,218340595
+"Jack Reacher",2012,6.3,"Female",-2908,218340595
+"This Is 40",2012,5.6,"Male",10556,88058786
+"This Is 40",2012,5.6,"Female",-9260,88058786
+"Willard",1971,6,"Male",7592,0
+"Willard",1971,6,"Female",-1614,0
+"The Collection",2012,5.9,"Male",3998,6842058
+"The Collection",2012,5.9,"Female",-1172,6842058
+"Promised Land",2012,6,"Male",9364,8138788
+"Promised Land",2012,6,"Female",-2338,8138788
+"Gangster Squad",2013,6.2,"Male",8474,105200903
+"Gangster Squad",2013,6.2,"Female",-991,105200903
+"Identity Thief",2013,5.6,"Male",5598,173965010
+"Identity Thief",2013,5.6,"Female",-2833,173965010
+"Before Midnight",2013,7.3,"Male",7977,11176469
+"Before Midnight",2013,7.3,"Female",-7529,11176469
+"Wadjda",2012,7.2,"Male",1011,1347747
+"Wadjda",2012,7.2,"Female",-6800,1347747
+"The Croods",2013,6.8,"Male",5019,585178928
+"The Croods",2013,6.8,"Female",-2125,585178928
+"Spring Breakers",2012,5,"Male",734,31724284
+"Spring Breakers",2012,5,"Female",-1185,31724284
+"The Place Beyond the Pines",2012,6.8,"Male",9051,35485608
+"The Place Beyond the Pines",2012,6.8,"Female",-1860,35485608
+"Oblivion",2013,6.4,"Male",8066,286168572
+"Oblivion",2013,6.4,"Female",-5007,286168572
+"42",2013,6.8,"Male",14974,95020213
+"42",2013,6.8,"Female",-1793,95020213
+"Pain & Gain",2013,6.1,"Male",6621,86175291
+"Pain & Gain",2013,6.1,"Female",-575,86175291
+"Mud",2012,7,"Male",18069,21587700
+"Mud",2012,7,"Female",-2578,21587700
+"The Great Gatsby",2013,7.3,"Male",8662,351040419
+"The Great Gatsby",2013,7.3,"Female",-1840,351040419
+"Only God Forgives",2013,5.6,"Male",9313,10337387
+"Only God Forgives",2013,5.6,"Female",-3228,10337387
+"The Past",2013,7.1,"Male",4856,10631747
+"The Past",2013,7.1,"Female",-3928,10631747
+"Now You See Me",2013,7.3,"Male",7339,117698894
+"Now You See Me",2013,7.3,"Female",-1764,117698894
+"The Bling Ring",2013,5.3,"Male",1582,19145732
+"The Bling Ring",2013,5.3,"Female",-4193,19145732
+"Monsters University",2013,7,"Male",5733,743559607
+"Monsters University",2013,7,"Female",-877,743559607
+"Pacific Rim",2013,6.7,"Male",7084,407602906
+"Pacific Rim",2013,6.7,"Female",-2625,407602906
+"World War Z",2013,6.7,"Male",4569,531865000
+"World War Z",2013,6.7,"Female",-412,531865000
+"Elysium",2013,6.4,"Male",5888,286140700
+"Elysium",2013,6.4,"Female",-2686,286140700
+"Despicable Me 2",2013,7,"Male",3907,970761885
+"Despicable Me 2",2013,7,"Female",-2271,970761885
+"White House Down",2013,6.3,"Male",7807,205366737
+"White House Down",2013,6.3,"Female",-1748,205366737
+"The Spectacular Now",2013,6.8,"Male",7396,6854611
+"The Spectacular Now",2013,6.8,"Female",-3338,6854611
+"Fruitvale Station",2013,7.3,"Male",4226,17385830
+"Fruitvale Station",2013,7.3,"Female",-2955,17385830
+"The Wolverine",2013,6.3,"Male",7204,415440673
+"The Wolverine",2013,6.3,"Female",-1237,415440673
+"2 Guns",2013,6.6,"Male",9206,131940411
+"2 Guns",2013,6.6,"Female",-583,131940411
+"Blue Jasmine",2013,7,"Male",884,99206215
+"Blue Jasmine",2013,7,"Female",-2747,99206215
+"The Smurfs 2",2013,5.5,"Male",5441,347434178
+"The Smurfs 2",2013,5.5,"Female",-1858,347434178
+"Riddick",2013,6.2,"Male",4431,98337295
+"Riddick",2013,6.2,"Female",-523,98337295
+"You're Next",2011,6.6,"Male",3416,14347000
+"You're Next",2011,6.6,"Female",-2369,14347000
+"Gravity",2013,7.3,"Male",3089,716392705
+"Gravity",2013,7.3,"Female",-2580,716392705
+"Prisoners",2013,7.9,"Male",5415,122126687
+"Prisoners",2013,7.9,"Female",-1770,122126687
+"Insidious: Chapter 2",2013,6.5,"Male",3585,0
+"Insidious: Chapter 2",2013,6.5,"Female",-2624,0
+"Rush",2013,7.7,"Male",8378,90247624
+"Rush",2013,7.7,"Female",-999,90247624
+"The Family",2013,6.1,"Male",8161,36894225
+"The Family",2013,6.1,"Female",-2329,36894225
+"Short Term 12",2013,7.9,"Male",3904,1600000
+"Short Term 12",2013,7.9,"Female",-3458,1600000
+"Battle of the Year",2013,5.9,"Male",10485,16549477
+"Battle of the Year",2013,5.9,"Female",-305,16549477
+"Nebraska",2013,7.4,"Male",6135,17654912
+"Nebraska",2013,7.4,"Female",-2369,17654912
+"Enough Said",2013,6.6,"Male",2121,25288872
+"Enough Said",2013,6.6,"Female",-5673,25288872
+"Runner Runner",2013,5.5,"Male",9999,62616646
+"Runner Runner",2013,5.5,"Female",0,62616646
+"Cloudy with a Chance of Meatballs 2",2013,6.4,"Male",7132,248384621
+"Cloudy with a Chance of Meatballs 2",2013,6.4,"Female",-1460,248384621
+"Captain Phillips",2013,7.6,"Male",6618,9.5e+07
+"Captain Phillips",2013,7.6,"Female",-487,9.5e+07
+"Romeo & Juliet",2013,6.6,"Male",4269,1162635
+"Romeo & Juliet",2013,6.6,"Female",-2245,1162635
+"Carrie",2013,5.8,"Male",2766,82394288
+"Carrie",2013,5.8,"Female",-5541,82394288
+"The Fifth Estate",2013,5.7,"Male",8702,8555008
+"The Fifth Estate",2013,5.7,"Female",-1487,8555008
+"The Counselor",2013,5,"Male",2596,71009334
+"The Counselor",2013,5,"Female",-656,71009334
+"12 Years a Slave",2013,7.9,"Male",16176,1.87e+08
+"12 Years a Slave",2013,7.9,"Female",-3452,1.87e+08
+"Kill Your Darlings",2013,7.1,"Male",5574,0
+"Kill Your Darlings",2013,7.1,"Female",-476,0
+"Dallas Buyers Club",2013,7.9,"Male",6225,55198285
+"Dallas Buyers Club",2013,7.9,"Female",-1138,55198285
+"Philomena",2013,7.4,"Male",3617,100129872
+"Philomena",2013,7.4,"Female",-5052,100129872
+"Delivery Man",2013,6.2,"Male",6323,51164106
+"Delivery Man",2013,6.2,"Female",-778,51164106
+"Frozen",2013,7.3,"Male",3875,1274219009
+"Frozen",2013,7.3,"Female",-2922,1274219009
+"The Wolf of Wall Street",2013,7.9,"Male",15721,392000694
+"The Wolf of Wall Street",2013,7.9,"Female",-1431,392000694
+"August: Osage County",2013,6.9,"Male",3380,74188937
+"August: Osage County",2013,6.9,"Female",-11625,74188937
+"American Hustle",2013,6.8,"Male",16441,251171807
+"American Hustle",2013,6.8,"Female",-5507,251171807
+"The Secret Life of Walter Mitty",2013,7,"Male",6720,188133322
+"The Secret Life of Walter Mitty",2013,7,"Female",-1114,188133322
+"Her",2013,7.9,"Male",5009,47351251
+"Her",2013,7.9,"Female",-5216,47351251
+"Lone Survivor",2013,7.4,"Male",5146,149295601
+"Lone Survivor",2013,7.4,"Female",0,149295601
+"Saving Mr. Banks",2013,7.3,"Male",6893,112544580
+"Saving Mr. Banks",2013,7.3,"Female",-10476,112544580
+"Snowpiercer",2013,6.7,"Male",4921,86758912
+"Snowpiercer",2013,6.7,"Female",-1438,86758912
+"The Lunchbox",2013,7.3,"Male",3311,4235151
+"The Lunchbox",2013,7.3,"Female",-1951,4235151
+"The Invisible Woman",2013,6.2,"Male",1581,1234254
+"The Invisible Woman",2013,6.2,"Female",-2873,1234254
+"Labor Day",2013,6.7,"Male",6227,20275812
+"Labor Day",2013,6.7,"Female",-3286,20275812
+"The Lego Movie",2014,7.5,"Male",8573,469160692
+"The Lego Movie",2014,7.5,"Female",-1631,469160692
+"Sabotage",2014,5.5,"Male",4623,17508518
+"Sabotage",2014,5.5,"Female",-3136,17508518
+"About Last Night",2014,6,"Male",6833,49002684
+"About Last Night",2014,6,"Female",-4864,49002684
+"The Grand Budapest Hotel",2014,8,"Male",8252,174600318
+"The Grand Budapest Hotel",2014,8,"Female",-105,174600318
+"Interstellar",2014,8.1,"Male",7187,675120017
+"Interstellar",2014,8.1,"Female",-2276,675120017
+"3 Days to Kill",2014,6,"Male",5575,52597999
+"3 Days to Kill",2014,6,"Female",-4573,52597999
+"Noah",2014,5.5,"Male",4737,362637473
+"Noah",2014,5.5,"Female",-1341,362637473
+"Calvary",2014,7.1,"Male",4385,0
+"Calvary",2014,7.1,"Female",-4003,0
+"Oculus",2013,6.3,"Male",2608,44030246
+"Oculus",2013,6.3,"Female",-3962,44030246
+"Transcendence",2014,5.9,"Male",5333,103039258
+"Transcendence",2014,5.9,"Female",-3040,103039258
+"Brick Mansions",2014,5.7,"Male",7842,68896829
+"Brick Mansions",2014,5.7,"Female",-728,68896829
+"Locke",2013,6.9,"Male",8226,4635300
+"Locke",2013,6.9,"Female",-827,4635300
+"Pompeii",2014,5.2,"Male",5045,117831631
+"Pompeii",2014,5.2,"Female",-1537,117831631
+"Belle",2013,7.2,"Male",4228,16505460
+"Belle",2013,7.2,"Female",-4586,16505460
+"Lucy",2014,6.3,"Male",2827,126546825
+"Lucy",2014,6.3,"Female",-3143,126546825
+"Chef",2014,7.2,"Male",7631,45967935
+"Chef",2014,7.2,"Female",-1978,45967935
+"Begin Again",2013,7.3,"Male",8318,63464861
+"Begin Again",2013,7.3,"Female",-5070,63464861
+"Maleficent",2014,7,"Male",4766,758539785
+"Maleficent",2014,7,"Female",-10063,758539785
+"The Fault in Our Stars",2014,7.6,"Male",8434,307166834
+"The Fault in Our Stars",2014,7.6,"Female",-10031,307166834
+"22 Jump Street",2014,7,"Male",8355,188441614
+"22 Jump Street",2014,7,"Female",-1591,188441614
+"The Equalizer",2014,7.1,"Male",3555,192330738
+"The Equalizer",2014,7.1,"Female",-772,192330738
+"How to Train Your Dragon 2",2014,7.6,"Male",6638,609123048
+"How to Train Your Dragon 2",2014,7.6,"Female",-1887,609123048
+"Boyhood",2014,7.5,"Male",10675,44349000
+"Boyhood",2014,7.5,"Female",-5926,44349000
+"The Babadook",2014,6.5,"Male",1798,6676471
+"The Babadook",2014,6.5,"Female",-4675,6676471
+"Whiplash",2014,8.3,"Male",8395,13092000
+"Whiplash",2014,8.3,"Female",-497,13092000
+"Gone Girl",2014,7.9,"Male",4805,369330363
+"Gone Girl",2014,7.9,"Female",-6451,369330363
+"Deliver Us from Evil",2014,5.9,"Male",5986,0
+"Deliver Us from Evil",2014,5.9,"Female",-749,0
+"A Most Wanted Man",2014,6.5,"Male",6029,31554855
+"A Most Wanted Man",2014,6.5,"Female",-2938,31554855
+"Wish I Was Here",2014,6.4,"Male",10779,5483299
+"Wish I Was Here",2014,6.4,"Female",-3160,5483299
+"The Rover",2014,6.1,"Male",4603,2295423
+"The Rover",2014,6.1,"Female",-1053,2295423
+"Get on Up",2014,6.4,"Male",7328,31911598
+"Get on Up",2014,6.4,"Female",-264,31911598
+"The Hundred-Foot Journey",2014,7.3,"Male",3113,88880821
+"The Hundred-Foot Journey",2014,7.3,"Female",-2791,88880821
+"The Drop",2014,6.7,"Male",6086,19054534
+"The Drop",2014,6.7,"Female",-1497,19054534
+"The Maze Runner",2014,7,"Male",8169,348319861
+"The Maze Runner",2014,7,"Female",-1155,348319861
+"The November Man",2014,6,"Male",5404,32556119
+"The November Man",2014,6,"Female",-1581,32556119
+"The Boxtrolls",2014,6.6,"Male",4147,108255770
+"The Boxtrolls",2014,6.6,"Female",-1084,108255770
+"American Sniper",2014,7.4,"Male",2859,542307423
+"American Sniper",2014,7.4,"Female",-1183,542307423
+"Tusk",2014,5.1,"Male",7577,1826705
+"Tusk",2014,5.1,"Female",-219,1826705
+"Dracula Untold",2014,6.2,"Male",5389,215529201
+"Dracula Untold",2014,6.2,"Female",-676,215529201
+"The Judge",2014,7.2,"Male",9648,83719388
+"The Judge",2014,7.2,"Female",-1261,83719388
+"Love Is Strange",2014,6.4,"Male",7766,2262223
+"Love Is Strange",2014,6.4,"Female",-2296,2262223
+"Fury",2014,7.4,"Male",6838,211817906
+"Fury",2014,7.4,"Female",0,211817906
+"St. Vincent",2014,7.1,"Male",5672,54837234
+"St. Vincent",2014,7.1,"Female",-1924,54837234
+"Ouija",2014,4.9,"Male",1878,103590271
+"Ouija",2014,4.9,"Female",-5783,103590271
+"Nightcrawler",2014,7.6,"Male",8684,38697217
+"Nightcrawler",2014,7.6,"Female",-2094,38697217
+"Ex Machina",2015,7.6,"Male",6455,36869414
+"Ex Machina",2015,7.6,"Female",-1143,36869414
+"Mr. Turner",2014,6.3,"Male",6134,5405500
+"Mr. Turner",2014,6.3,"Female",-3117,5405500
+"Foxcatcher",2014,6.5,"Male",8057,12096300
+"Foxcatcher",2014,6.5,"Female",0,12096300
+"The Imitation Game",2014,8,"Male",8798,233555708
+"The Imitation Game",2014,8,"Female",-1836,233555708
+"Inherent Vice",2014,6.5,"Male",10564,11110975
+"Inherent Vice",2014,6.5,"Female",-4888,11110975
+"Exodus: Gods and Kings",2014,5.6,"Male",5467,268031828
+"Exodus: Gods and Kings",2014,5.6,"Female",-114,268031828
+"Wild Tales",2014,7.7,"Male",3479,27007072
+"Wild Tales",2014,7.7,"Female",-2074,27007072
+"Dumb and Dumber To",2014,5.4,"Male",9061,169837010
+"Dumb and Dumber To",2014,5.4,"Female",-2783,169837010
+"Dear White People",2014,6.2,"Male",7000,0
+"Dear White People",2014,6.2,"Female",-4131,0
+"The Theory of Everything",2014,7.8,"Male",4099,123726688
+"The Theory of Everything",2014,7.8,"Female",-1806,123726688
+"Horrible Bosses 2",2014,6.1,"Male",9988,107670357
+"Horrible Bosses 2",2014,6.1,"Female",-377,107670357
+"Still Alice",2014,7.5,"Male",3514,43884652
+"Still Alice",2014,7.5,"Female",-5537,43884652
+"Selma",2014,7.4,"Male",12101,66787908
+"Selma",2014,7.4,"Female",-1363,66787908
+"A Most Violent Year",2014,6.5,"Male",10130,12007070
+"A Most Violent Year",2014,6.5,"Female",-1644,12007070
+"Wild",2014,7,"Male",2736,52501541
+"Wild",2014,7,"Female",-7105,52501541
+"Top Five",2014,6.3,"Male",7035,25434291
+"Top Five",2014,6.3,"Female",-3586,25434291
+"Big Eyes",2014,6.8,"Male",5218,28883511
+"Big Eyes",2014,6.8,"Female",-3125,28883511
+"Into the Woods",2014,5.6,"Male",3535,212902372
+"Into the Woods",2014,5.6,"Female",-3652,212902372
+"Kingsman: The Secret Service",2014,7.6,"Male",11513,414351546
+"Kingsman: The Secret Service",2014,7.6,"Female",-799,414351546
+"Terminator Genisys",2015,5.8,"Male",6386,440603537
+"Terminator Genisys",2015,5.8,"Female",-2204,440603537
+"It Follows",2014,6.6,"Male",1239,14674076
+"It Follows",2014,6.6,"Female",-2465,14674076
+"Cake",2014,6.2,"Male",946,2360281
+"Cake",2014,6.2,"Female",-5276,2360281
+"The Gambler",2014,5.7,"Male",11995,39171130
+"The Gambler",2014,5.7,"Female",-1165,39171130
+"Mortdecai",2015,5.4,"Male",7576,30418560
+"Mortdecai",2015,5.4,"Female",-1583,30418560
+"Brooklyn",2015,7.2,"Male",3285,62076141
+"Brooklyn",2015,7.2,"Female",-6848,62076141
+"The End of the Tour",2015,7.3,"Male",3117,3002884
+"The End of the Tour",2015,7.3,"Female",-304,3002884
+"I'll See You in My Dreams",2015,6.3,"Male",2446,7449681
+"I'll See You in My Dreams",2015,6.3,"Female",-7170,7449681
+"Mistress America",2015,6.4,"Male",1740,2500431
+"Mistress America",2015,6.4,"Female",-9729,2500431
+"The Diary of a Teenage Girl",2015,6.8,"Male",2625,1477002
+"The Diary of a Teenage Girl",2015,6.8,"Female",-6739,1477002
+"Dope",2015,7.2,"Male",6844,17986781
+"Dope",2015,7.2,"Female",-1347,17986781
+"Me and Earl and the Dying Girl",2015,7.7,"Male",7326,0
+"Me and Earl and the Dying Girl",2015,7.7,"Female",-2585,0
+"Paper Towns",2015,6.1,"Male",7367,85512300
+"Paper Towns",2015,6.1,"Female",-3316,85512300
+"The Boy Next Door",2015,4.1,"Male",5256,52425855
+"The Boy Next Door",2015,4.1,"Female",-5210,52425855
+"The Lazarus Effect",2015,5.1,"Male",3608,64110728
+"The Lazarus Effect",2015,5.1,"Female",-2000,64110728
+"Run All Night",2015,6.3,"Male",6676,71561644
+"Run All Night",2015,6.3,"Female",-787,71561644
+"Pan",2015,5.9,"Male",9649,128388320
+"Pan",2015,5.9,"Female",-2281,128388320
+"While We're Young",2014,5.8,"Male",8349,7587485
+"While We're Young",2014,5.8,"Female",-3341,7587485
+"The Gunman",2015,5.5,"Male",4523,13644292
+"The Gunman",2015,5.5,"Female",-1078,13644292
+"Get Hard",2015,5.9,"Male",9330,111811453
+"Get Hard",2015,5.9,"Female",-1064,111811453
+"Infinitely Polar Bear",2014,6.9,"Male",4361,1430655
+"Infinitely Polar Bear",2014,6.9,"Female",-4583,1430655
+"Woman in Gold",2015,7.3,"Male",6685,61619773
+"Woman in Gold",2015,7.3,"Female",-5047,61619773
+"Danny Collins",2015,6.6,"Male",6695,10835752
+"Danny Collins",2015,6.6,"Female",-1952,10835752
+"Grandma",2015,6.1,"Male",818,7087452
+"Grandma",2015,6.1,"Female",-6909,7087452
+"San Andreas",2015,6,"Male",4322,470490832
+"San Andreas",2015,6,"Female",-1036,470490832
+"Testament of Youth",2014,7.2,"Male",3058,1822250
+"Testament of Youth",2014,7.2,"Female",-5190,1822250
+"Far from the Madding Crowd",2015,6.8,"Male",3473,30229977
+"Far from the Madding Crowd",2015,6.8,"Female",-3067,30229977
+"Macbeth",2006,3.9,"Male",4575,0
+"Macbeth",2006,3.9,"Female",-1274,0
+"The Green Inferno",2013,5,"Male",4021,6833445
+"The Green Inferno",2013,5,"Female",-2747,6833445
+"The Martian",2015,7.6,"Male",7353,630161890
+"The Martian",2015,7.6,"Female",-2864,630161890
+"Youth",2015,6.7,"Male",7058,2e+06
+"Youth",2015,6.7,"Female",-1895,2e+06
+"Inside Out",2015,7.9,"Male",2696,857611174
+"Inside Out",2015,7.9,"Female",-4836,857611174
+"Pixels",2015,5.6,"Male",1055,243637091
+"Pixels",2015,5.6,"Female",-406,243637091
+"Self/less",2015,6.3,"Male",3734,30523226
+"Self/less",2015,6.3,"Female",-1164,30523226
+"Minions",2015,6.4,"Male",1800,1156730962
+"Minions",2015,6.4,"Female",-1828,1156730962
+"Steve Jobs",2015,6.8,"Male",15636,34441873
+"Steve Jobs",2015,6.8,"Female",-4925,34441873
+"The Revenant",2015,7.3,"Male",5396,532950503
+"The Revenant",2015,7.3,"Female",0,532950503
+"Learning to Drive",2014,6.1,"Male",3208,3447633
+"Learning to Drive",2014,6.1,"Female",-3064,3447633
+"Southpaw",2015,7.3,"Male",9235,91709827
+"Southpaw",2015,7.3,"Female",-2051,91709827
+"Sicario",2015,7.2,"Male",5456,84025816
+"Sicario",2015,7.2,"Female",-1438,84025816
+"Room",2015,8.1,"Male",3154,35401758
+"Room",2015,8.1,"Female",-4958,35401758
+"American Ultra",2015,6,"Male",5227,27139524
+"American Ultra",2015,6,"Female",-2966,27139524
+"No Escape",2015,6.7,"Male",4472,54418872
+"No Escape",2015,6.7,"Female",-1539,54418872
+"Straight Outta Compton",2015,7.7,"Male",9855,201634991
+"Straight Outta Compton",2015,7.7,"Female",-675,201634991
+"Joy",2015,6.4,"Male",6543,101134059
+"Joy",2015,6.4,"Female",-7772,101134059
+"Suffragette",2015,7.1,"Male",2447,16002420
+"Suffragette",2015,7.1,"Female",-3791,16002420
+"The Lady in the Van",2015,6,"Male",4834,41387687
+"The Lady in the Van",2015,6,"Female",-4051,41387687
+"Spotlight",2015,7.8,"Male",13163,88346473
+"Spotlight",2015,7.8,"Female",-902,88346473
+"Son of Saul",2015,7.1,"Male",1387,1777043
+"Son of Saul",2015,7.1,"Female",0,1777043
+"Pawn Sacrifice",2014,6.7,"Male",6724,5578519
+"Pawn Sacrifice",2014,6.7,"Female",-752,5578519
+"Bridge of Spies",2015,7.2,"Male",8959,165478348
+"Bridge of Spies",2015,7.2,"Female",-272,165478348
+"Truth",2015,6.5,"Male",7608,2541554
+"Truth",2015,6.5,"Female",-4541,2541554
+"The Big Short",2015,7.3,"Male",8064,133346506
+"The Big Short",2015,7.3,"Female",-1449,133346506
+"Daddy's Home",2015,5.8,"Male",7413,242786137
+"Daddy's Home",2015,5.8,"Female",-1790,242786137

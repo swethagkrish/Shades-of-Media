@@ -1,6 +1,7 @@
 library(dplyr)
 library(ggplot2)
 library(lubridate)
+library(plotly)
 
 main_data <- read.csv("../mainData.csv", stringsAsFactors = FALSE)
 one_lead <- main_data %>% 
@@ -22,12 +23,23 @@ male_lead <- one_lead %>%
 male_lead$release_date <- as.Date(male_lead$release_date)
 male_lead <- male_lead[order(as.Date(male_lead$release_date)), ]
 
+start_date_male <- as.Date(min(male_lead$release_date))
+end_date_male <- as.Date(max(male_lead$release_date))
+start_date_male_words <- format(start_date_male, format = "%B %d, %Y")
+end_date_male_words <- format(end_date_male, format = "%B %d, %Y")
+num_movies_male <- nrow(male_lead)
 
 # female
 female_lead <- one_lead %>%
   filter(gender == "f") %>%
   select(release_date, vote_average)
 female_lead$release_date <- as.Date(female_lead$release_date)
+
+start_date_female <- as.Date(min(female_lead$release_date))
+end_date_female <- as.Date(max(female_lead$release_date))
+start_date_female_words <- format(start_date_female, format = "%B %d, %Y")
+end_date_female_words <- format(end_date_female, format = "%B %d, %Y")
+num_movies_female <- nrow(female_lead)
 
 # plot using line
 ggplot() + 

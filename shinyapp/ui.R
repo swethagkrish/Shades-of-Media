@@ -15,10 +15,25 @@ shinyUI(fluidPage(
       dateRangeInput("date", "Date Range:", start = start_date, end = end_date)
     ), 
     
-    mainPanel("Graph",
-              p(em("This graph contains", num_movies, "movies from", "different years.  It ranges from
-                   ", start_date_words, "to ", end_date_words, ".  If you hover over a point, it will tell you the rating.")),
-              plotOutput("mygraph"))
+    mainPanel(
+      tabsetPanel(
+        tabPanel("Comparison",
+                 p(em("This graph contains", num_movies, "movies from", "different years.  It ranges from
+                      ", start_date_words, "to ", end_date_words, ".  It compares the ratings for both
+                      movies with male and female leads on the same graph.")),
+                 plotOutput("mygraph")),
+        
+        tabPanel("Male",
+                 p(em("This graph contains", num_movies_male, "movies from", "different years.  It ranges from
+                      ", start_date_male_words, "to ", end_date_male_words, ".")),
+                 plotOutput("mygraphmale")),
+        
+        tabPanel("Female",
+                 p(em("This graph contains", num_movies_female, "movies from", "different years.  It ranges from
+                      ", start_date_female_words, "to ", end_date_female_words, ".")),
+                 plotOutput("mygraphfemale"))
+      )
   )
   
 ))
+)

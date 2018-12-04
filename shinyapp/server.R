@@ -1,5 +1,6 @@
 library(shiny)
 library(ggplot2)
+library(plotly)
 
 shinyServer(function(input, output) {
    date_range_male <- reactive({
@@ -25,6 +26,24 @@ shinyServer(function(input, output) {
             subtitle = "Male versus Female Leads", 
             caption = "Source", x = "Release Date",
             y = "IMDB Rating") + theme(panel.grid.minor = element_blank())
+   })
+   
+   output$mygraphmale = renderPlot({
+     ggplot() + 
+       geom_line(data = date_range_male(), aes(x = release_date, y = vote_average), color = "lightblue", size = 2) +
+       labs(title = "IMDB Movie Ratings", 
+            subtitle = "Movies with Male Leads", 
+            caption = "Source", x = "Release Date",
+            y = "IMDB Rating") + theme(panel.grid.minor = element_blank()) + ylim(0, 10)
+   })
+   
+   output$mygraphfemale = renderPlot({
+     ggplot() + 
+       geom_line(data = date_range_female(), aes(x = release_date, y = vote_average), color = "lightpink", size = 2) +
+       labs(title = "IMDB Movie Ratings", 
+            subtitle = "Movies with Female Leads", 
+            caption = "Source", x = "Release Date",
+            y = "IMDB Rating") + theme(panel.grid.minor = element_blank()) + ylim(0, 10)
    })
   
 })

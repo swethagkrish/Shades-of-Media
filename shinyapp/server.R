@@ -5,6 +5,8 @@ library(plotly)
 library(shiny)
 library(stringr)
 
+source("../ratings_data.R")
+
 charData <- read.csv("charData.csv") #For the app need to switch data set and put ../
 fillColors <- c("f" = "lightpink", "m" = "lightblue1")
 
@@ -36,6 +38,7 @@ for (i in levels(dataF$imdb_id)) {
 }
 
 my_server <- function(input, output) {
+  #updateSelectizeInput(session, 'movie', choices = charData$title, server = TRUE)
   data <- read.csv("yearly.csv", stringsAsFactors = FALSE)
   output$plot <- renderPlotly({
     if (is.null(input$Year)) {
@@ -105,7 +108,6 @@ my_server <- function(input, output) {
       big_diff, " words between male and female characters"
     ))
   })
-   updateSelectizeInput(session, 'movie', choices = charData$title, server = TRUE)
   
    output$charwords <- renderPlotly({
      charData %>%

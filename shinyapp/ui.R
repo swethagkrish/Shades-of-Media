@@ -3,15 +3,19 @@ library(ggplot2)
 library(dplyr)
 library(plotly)
 library(shiny)
+library(shinythemes)
 
-my_ui <- fluidPage(theme = shinytheme("cyborg"), 
+source("../ratings_data.R")
+
+my_ui <- fluidPage(theme = shinytheme("superhero"), 
                   titlePanel("Gender Representation in Movies"), 
                   h4("INFORMATION ABOUT DATA AND OUR PROJECT"), 
+                  mainPanel(plotlyOutput("plot", height = "100%"), textOutput("summary")),
                   br(), 
                   sidebarPanel(
                         sliderInput("Year", h2("Select a Year"),
       min = 1971, max = 2015, value = 1971, sep = "",
-      step = 1, animate = animationOptions(interval = 5000, loop = FALSE)
+      step = 1, animate = animationOptions(interval = 1000, loop = FALSE)
     ),
     radioButtons(
       "Rankings", h2("Select to Rank by IMDB Rating or Revenue"),
@@ -22,14 +26,15 @@ my_ui <- fluidPage(theme = shinytheme("cyborg"),
           button to see a time lapse of gender representation through the years."),
           h3("Note: Visualization starts at 1971 instead of 1931, due to lack of data between 1931-1971")), 
           br(), 
-          sidebarLayout(
-    sidebarPanel(
-      selectizeInput('movie', "Search for a movie:", choices = NULL, multiple = FALSE, uiOutput("movieSearch"))
-    ),
-    mainPanel(
-      plotlyOutput("charwords")
-    )
-  ), br(),   titlePanel(h1(strong("IMDB Movie Ratings Over Time")), 
+          #sidebarLayout(
+  #   sidebarPanel(
+  #     selectizeInput('movie', "Search for a movie:", choices = NULL, multiple = FALSE, uiOutput("movieSearch"))
+  #   ),
+  #   mainPanel(tabset
+  #     plotlyOutput("charwords")
+  #   )
+  # ), br(),  
+            titlePanel(h1(strong("IMDB Movie Ratings Over Time")), 
              h2(strong("comparing ratings of movies with a male lead 
                        versus the ratings of movies with a female lead"))),
   

@@ -3,7 +3,7 @@ library(ggplot2)
 library(lubridate)
 library(plotly)
 
-main_data <- read.csv("mainData.csv", stringsAsFactors = FALSE)
+main_data <- read.csv("../mainData.csv", stringsAsFactors = FALSE)
 one_lead <- main_data %>% 
   group_by(title) %>%
   filter(words == max(words)) %>%

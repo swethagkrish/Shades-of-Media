@@ -63,7 +63,7 @@ my_server <- function(input, output, session) {
         subset(year_data, year_data$Gender == "Female"),
         stat = "identity"
       ) +
-      scale_y_continuous(breaks = seq(-60000, 60000, 10000), labels = abs(seq(-60000, 60000, 10000))) +
+      scale_y_continuous(breaks = seq(-60000, 60000, 10000), labels = abs(seq(-60000, 60000, 10000)), limits = c(-60000, 60000)) +
       labs(aes(x = "Movies", y = "Words")) + theme_bw() + theme(
         panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),

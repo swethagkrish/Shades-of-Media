@@ -5,7 +5,7 @@ library(plotly)
 library(shiny)
 library(shinythemes)
 
-source("../ratings_data.R")
+source("ratings_data.R")
 
 my_ui <- fluidPage(theme = shinytheme("superhero"), 
 tabsetPanel(

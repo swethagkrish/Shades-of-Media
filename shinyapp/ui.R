@@ -24,7 +24,7 @@ tabsetPanel(
            ), br()
       ),
     tabPanel("Chart2",
-             mainPanel(plotlyOutput("plot", height  = 500, width = 750), textOutput("summary")),
+             mainPanel(plotlyOutput("plot", height  = 600, width = 850), textOutput("summary")),
              br(), 
              sidebarPanel(
                sliderInput("Year", h2("Select a Year"),

@@ -37,8 +37,8 @@ for (i in levels(dataF$imdb_id)) {
   }
 }
 
-my_server <- function(input, output) {
- # updateSelectizeInput(session, 'movie', choices = charData$title, server = TRUE)
+my_server <- function(input, output, session) {
+  updateSelectizeInput(session, 'movie', choices = charData$title, server = TRUE)
   data <- read.csv("yearly.csv", stringsAsFactors = FALSE)
   output$plot <- renderPlotly({
     if (is.null(input$Year)) {
@@ -113,7 +113,7 @@ my_server <- function(input, output) {
      charData %>%
        mutate(Character_Name = str_to_title(imdb_character_name))%>%
        filter(title == input$movie)%>%
-       ggplot(aes(x=Character_Name, y=words, fill=gender)) +
+       ggplot(aes(x= reorder(Character_Name, -words), y=words, fill=gender)) +
        geom_bar(stat = "identity", color="black")+
        scale_fill_manual(values = fillColors)+
        labs(x = "Characters", y = "Number of Words Spoken", title = paste0("Characters in ", input$movie))+

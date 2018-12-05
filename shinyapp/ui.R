@@ -26,14 +26,14 @@ my_ui <- fluidPage(theme = shinytheme("superhero"),
           button to see a time lapse of gender representation through the years."),
           h3("Note: Visualization starts at 1971 instead of 1931, due to lack of data between 1931-1971")), 
           br(), 
-          #sidebarLayout(
-  #   sidebarPanel(
-  #     selectizeInput('movie', "Search for a movie:", choices = NULL, multiple = FALSE, uiOutput("movieSearch"))
-  #   ),
-  #   mainPanel(tabset
-  #     plotlyOutput("charwords")
-  #   )
-  # ), br(),  
+          sidebarLayout(
+     sidebarPanel(
+       selectizeInput('movie', "Search for a movie:", choices = NULL, multiple = FALSE, uiOutput("movieSearch"))
+     ),
+     mainPanel(
+       plotlyOutput("charwords")
+     )
+   ), br(),  
             titlePanel(h1(strong("IMDB Movie Ratings Over Time")), 
              h2(strong("comparing ratings of movies with a male lead 
                        versus the ratings of movies with a female lead"))),

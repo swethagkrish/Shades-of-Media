@@ -39,7 +39,13 @@ shinyServer(function(input, output) {
     startYear <- strtoi(substring(dateRange()[1], 1, 4))
     endYear <- strtoi(substring(dateRange()[2], 1, 4))
     #plot made, male data first
-    plot(predomMYear, predomMRev / 100000000, xlim = c(startYear, endYear), pch = 16, col = "lightblue1", xlab = ("Year"), ylab = ("Revenue (100M USD)"))
+    plot(predomMYear, predomMRev / 100000000,
+         xlim = c(startYear, endYear),
+         pch = 16,
+         col = "lightblue1",
+         xlab = ("Year"),
+         ylab = ("Revenue (100M USD)"))
+        
     #adding female data points
     points(predomFYear, predomFRev / 100000000, xlim = c(startYear, endYear), pch = 16, col = "lightpink")
     

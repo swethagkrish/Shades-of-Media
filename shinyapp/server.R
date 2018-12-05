@@ -37,8 +37,8 @@ for (i in levels(dataF$imdb_id)) {
   }
 }
 
-my_server <- function(input, output) {
-  #updateSelectizeInput(session, 'movie', choices = charData$title, server = TRUE)
+my_server <- function(input, output, session) {
+  updateSelectizeInput(session, 'movie', choices = charData$title, server = TRUE)
   data <- read.csv("yearly.csv", stringsAsFactors = FALSE)
   output$plot <- renderPlotly({
     if (is.null(input$Year)) {
@@ -56,14 +56,14 @@ my_server <- function(input, output) {
     }
     ggplot(data = year_data) +
       geom_bar(aes(Movie, Words, fill = Gender),
-        subset(year_data, year_data$Gender == "Male"),
-        stat = "identity"
+               subset(year_data, year_data$Gender == "Male"),
+               stat = "identity"
       ) +
       geom_bar(aes(Movie, Words, fill = Gender),
-        subset(year_data, year_data$Gender == "Female"),
-        stat = "identity"
+               subset(year_data, year_data$Gender == "Female"),
+               stat = "identity"
       ) +
-      scale_y_continuous(breaks = seq(-60000, 60000, 10000), labels = abs(seq(-60000, 60000, 10000))) +
+      scale_y_continuous(breaks = seq(-60000, 60000, 10000), labels = abs(seq(-60000, 60000, 10000)), limits = c(-60000, 60000)) +
       labs(aes(x = "Movies", y = "Words")) + theme_bw() + theme(
         panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),
@@ -104,60 +104,60 @@ my_server <- function(input, output) {
       input$Year, " had ", female_led, " female-led movies overall. ",
       imdb_top, " of these movies were in the Top 15 (by IMDB) and ", rev_top,
       " movies were in the Top 15 (by revenue).", "The movie with the 
-                  biggest gender disparity was ", big_movie, " with a difference of ",
+      biggest gender disparity was ", big_movie, " with a difference of ",
       big_diff, " words between male and female characters"
     ))
   })
   
-   output$charwords <- renderPlotly({
-     charData %>%
-       mutate(Character_Name = str_to_title(imdb_character_name))%>%
-       filter(title == input$movie)%>%
-       ggplot(aes(x=Character_Name, y=words, fill=gender)) +
-       geom_bar(stat = "identity", color="black")+
-       scale_fill_manual(values = fillColors)+
-       labs(x = "Characters", y = "Number of Words Spoken", title = paste0("Characters in ", input$movie))+
-       theme_bw() + theme(
-         panel.border = element_blank(), panel.grid.major = element_blank(),
-         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
-       theme(axis.text.x = element_text(angle = 90, hjust = 1)) #changes angle of x axis labels
-   })
+  output$charwords <- renderPlotly({
+    charData %>%
+      mutate(Character_Name = str_to_title(imdb_character_name))%>%
+      filter(title == input$movie)%>%
+      ggplot(aes(x= reorder(Character_Name, -words), y=words, fill=gender)) +
+      geom_bar(stat = "identity", color="black")+
+      scale_fill_manual(values = fillColors)+
+      labs(x = "Characters", y = "Number of Words Spoken", title = paste0("Characters in ", input$movie))+
+      theme_bw() + theme(
+        panel.border = element_blank(), panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
+      theme(axis.text.x = element_text(angle = 90, hjust = 1)) #changes angle of x axis labels
+  })
   
   output$sumStatement <- renderText({
-     charData %>%
-       mutate(Character_Name = str_to_title(imdb_character_name))%>%
-       filter(title == input$movie)
-     totalChar <- count(charData, "Character_Name")
-     maleChar <- charData %>%
-       filter(gender == "m")%>%
-       nrow()
-     mWordsTotal <- charData %>%
-       filter(gender == "m")%>%
-       sum(words)
-     mMaxWord <- charData %>%
-       filter(gender == "m")%>%
-       max(words)
-     mMaxChar <- charData %>%
-       filter(gender == "m")%>%
-       filter(words== max(words))%>%
-       charName
-     femaleChar <- charData %>%
-       filter(gender == "f")%>%
-       nrow()
-     fWordsTotal <- charData %>%
-       filter(gender == "f")%>%
-       sum(words)
-     fMaxWord <- charData %>%
-       filter(gender == "f")%>%
-       max(words)
-     fMaxChar <- charData %>%
-       filter(gender == "f")%>%
-       filter(words== max(words))%>%
-       charName
-     totalWords <- sum(charData$words)
-     paste0("In ", input$movie, "there are ", totalChar, "characters and ", totalWords, " spoken. There are ",
-            femaleChar, "female characters that say a total of ", fWordsTotal, " words. ")
-   })
+    charData %>%
+      mutate(Character_Name = str_to_title(imdb_character_name))%>%
+      filter(title == input$movie)
+    totalChar <- count(charData, "Character_Name")
+    maleChar <- charData %>%
+      filter(gender == "m")%>%
+      nrow()
+    mWordsTotal <- charData %>%
+      filter(gender == "m")%>%
+      sum(words)
+    mMaxWord <- charData %>%
+      filter(gender == "m")%>%
+      max(words)
+    mMaxChar <- charData %>%
+      filter(gender == "m")%>%
+      filter(words== max(words))%>%
+      charName
+    femaleChar <- charData %>%
+      filter(gender == "f")%>%
+      nrow()
+    fWordsTotal <- charData %>%
+      filter(gender == "f")%>%
+      sum(words)
+    fMaxWord <- charData %>%
+      filter(gender == "f")%>%
+      max(words)
+    fMaxChar <- charData %>%
+      filter(gender == "f")%>%
+      filter(words== max(words))%>%
+      charName
+    totalWords <- sum(charData$words)
+    paste0("In ", input$movie, "there are ", totalChar, "characters and ", totalWords, " spoken. There are ",
+           femaleChar, "female characters that say a total of ", fWordsTotal, " words. ")
+  })
   
   output$distPlot <- renderPlot({
     dateRange <- reactive({return(input$daterange)})
@@ -173,46 +173,46 @@ my_server <- function(input, output) {
   })
   
   date_range_male <- reactive({
-     male_dates <- male_lead %>%
-       filter(release_date >= input$date[1]) %>%
-       filter(release_date <= input$date[2])
-   })
-   
-   date_range_female <- reactive({
-     female_dates <- female_lead %>%
-       filter(release_date >= input$date[1]) %>%
-       filter(release_date <= input$date[2])
-   })
+    male_dates <- male_lead %>%
+      filter(release_date >= input$date[1]) %>%
+      filter(release_date <= input$date[2])
+  })
   
-   output$mygraph = renderPlot({
-     ggplot() +
-       geom_area(data = date_range_male(), aes(x = release_date, y = vote_average), 
-                 color = "lightblue", size = 2, fill = "lightblue") +
-       geom_area(data = date_range_female(), aes(x = release_date, y = vote_average), 
-                 color = "lightpink", size = 2, fill = "lightpink") +
-       ylim(0, 10) + 
-       labs(title = "A Comparison of Movie Ratings", 
-            subtitle = "Male versus Female Leads", 
-            caption = "Source", x = "Release Date",
-            y = "IMDB Rating") + theme(panel.grid.minor = element_blank())
-   })
-   
-   output$mygraphmale = renderPlot({
-     ggplot() + 
-       geom_line(data = date_range_male(), aes(x = release_date, y = vote_average), color = "lightblue", size = 2) +
-       labs(title = "IMDB Movie Ratings", 
-            subtitle = "Movies with Male Leads", 
-            caption = "Source", x = "Release Date",
-            y = "IMDB Rating") + theme(panel.grid.minor = element_blank()) + ylim(0, 10)
-   })
-   
-   # output$mygraphfemale = renderPlot({
-   #   ggplot() + 
-   #     geom_line(data = date_range_female(), aes(x = release_date, y = vote_average), color = "lightpink", size = 2) +
-   #     labs(title = "IMDB Movie Ratings", 
-   #          subtitle = "Movies with Female Leads", 
-   #          caption = "Source", x = "Release Date",
-   #          y = "IMDB Rating") + theme(panel.grid.minor = element_blank()) + ylim(0, 10)
-   # })
+  date_range_female <- reactive({
+    female_dates <- female_lead %>%
+      filter(release_date >= input$date[1]) %>%
+      filter(release_date <= input$date[2])
+  })
+  
+  output$mygraph = renderPlot({
+    ggplot() +
+      geom_area(data = date_range_male(), aes(x = release_date, y = vote_average), 
+                color = "lightblue", size = 2, fill = "lightblue") +
+      geom_area(data = date_range_female(), aes(x = release_date, y = vote_average), 
+                color = "lightpink", size = 2, fill = "lightpink") +
+      ylim(0, 10) + 
+      labs(title = "A Comparison of Movie Ratings", 
+           subtitle = "Male versus Female Leads", 
+           caption = "Source", x = "Release Date",
+           y = "IMDB Rating") + theme(panel.grid.minor = element_blank())
+  })
+  
+  output$mygraphmale = renderPlot({
+    ggplot() + 
+      geom_line(data = date_range_male(), aes(x = release_date, y = vote_average), color = "lightblue", size = 2) +
+      labs(title = "IMDB Movie Ratings", 
+           subtitle = "Movies with Male Leads", 
+           caption = "Source", x = "Release Date",
+           y = "IMDB Rating") + theme(panel.grid.minor = element_blank()) + ylim(0, 10)
+  })
+  
+  # output$mygraphfemale = renderPlot({
+  #   ggplot() + 
+  #     geom_line(data = date_range_female(), aes(x = release_date, y = vote_average), color = "lightpink", size = 2) +
+  #     labs(title = "IMDB Movie Ratings", 
+  #          subtitle = "Movies with Female Leads", 
+  #          caption = "Source", x = "Release Date",
+  #          y = "IMDB Rating") + theme(panel.grid.minor = element_blank()) + ylim(0, 10)
+  # })
 }
 shinyServer(my_server)

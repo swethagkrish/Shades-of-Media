@@ -1,6 +1,6 @@
 data <- read.csv("mainData.csv", stringsAsFactors = FALSE)
-gender_list <- data.frame(matrix(ncol = 6, nrow = 0))
-x <- c("Movie","Year","IMDB", "Gender", "Words", "Revenue")
+gender_list <- data.frame(matrix(ncol = 4, nrow = 0))
+x <- c("Movie","Year", "Gender", "Revenue")
 colnames(gender_list) <- x
 movies_list <- unique(as.matrix(data$title))
 for(movie in movies_list){
@@ -8,15 +8,16 @@ for(movie in movies_list){
   males<- filter(movie_Data, movie_Data$gender == "m")
   male_sum <- sum(males$words)
   females <- filter(movie_Data, movie_Data$gender == "f")
-  female_sum <- -1 *sum(females$word)
+  female_sum <- sum(females$word)
+  gender <- "Male"
   year <- unique(movie_Data$year)
-  imdb <- unique(movie_Data$vote_average)
+  if (male_sum < female_sum) { 
+      gender <- "Female"
+    }  
   revenue <- unique(movie_Data$revenue)
-  gender_list <- rbind(gender_list, data.frame(Movie = movie, Year = year, IMDB = imdb,
-                                               Gender = "Male", Words = male_sum, 
-                                               Revenue = revenue))
-  gender_list <- rbind(gender_list, data.frame(Movie = movie, Year = year, IMDB = imdb,
-                                               Gender= "Female", Words = female_sum, 
+  revenue <- revenue / 1000000000
+  gender_list <- rbind(gender_list, data.frame(Movie = movie, Year = year,
+                                               Gender = gender, 
                                                Revenue = revenue))
 }
-write.csv(gender_list, file = "yearly.csv", row.names = FALSE)
+write.csv(gender_list, file = "rev.csv", row.names = FALSE)

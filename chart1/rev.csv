@@ -1,0 +1,1616 @@
+"Movie","Year","Gender","Revenue"
+"Toy Story",1995,"Male",0.373554033
+"Heat",1995,"Male",0.187436818
+"GoldenEye",1995,"Male",0.352194034
+"The American President",1995,"Male",0.107879496
+"Nixon",1995,"Male",0.013681765
+"Casino",1995,"Male",0.116112375
+"Sense and Sensibility",1995,"Female",0.135
+"Four Rooms",1995,"Male",0.0043
+"Get Shorty",1995,"Male",0.115101622
+"Copycat",1995,"Female",0
+"Assassins",1995,"Male",0.030303072
+"Leaving Las Vegas",1995,"Male",0.0498
+"Now and Then",1995,"Female",0.0274
+"Twelve Monkeys",1995,"Male",0.16884
+"Clueless",1995,"Female",0
+"Se7en",1995,"Male",0.327311859
+"Pocahontas",1995,"Male",0.346079773
+"The Usual Suspects",1995,"Male",0.023341568
+"From Dusk Till Dawn",1996,"Male",0.025836616
+"Kicking and Screaming",1995,"Male",0.00071849
+"Bed of Roses",1996,"Female",0.019030691
+"White Squall",1996,"Male",0.0103
+"Nick of Time",1995,"Male",0.008175346
+"Broken Arrow",1996,"Male",0.150270147
+"City Hall",1996,"Male",0
+"Bottle Rocket",1996,"Male",0.000560069
+"The Bridges of Madison County",1995,"Female",0.182016617
+"Braveheart",1995,"Male",0.21
+"Up Close & Personal",1996,"Female",0
+"Bad Boys",1995,"Male",0.141407024
+"Batman Forever",1995,"Male",0.336529144
+"Crimson Tide",1995,"Male",0.157387195
+"Devil in a Blue Dress",1995,"Male",0.016140822
+"Die Hard: With a Vengeance",1995,"Male",0.366101666
+"Hackers",1995,"Male",0.007563728
+"Judge Dredd",1995,"Male",0.113493481
+"Kids",1995,"Male",0.007412216
+"Living in Oblivion",1995,"Male",0.001148752
+"Lord of Illusions",1995,"Male",0
+"Mallrats",1995,"Male",0.002122561
+"Mighty Morphin Power Rangers: The Movie",1995,"Male",0.066
+"Mute Witness",1995,"Male",1e-09
+"The Prophecy",1995,"Male",1.6e-08
+"Showgirls",1995,"Female",0.020350754
+"Smoke",1995,"Male",0.00834943
+"Strange Days",1995,"Male",0.007959291
+"Waterworld",1995,"Male",0.26421822
+"Wild Bill",1995,"Male",0
+"Before Sunrise",1995,"Female",0.005535405
+"Boys on the Side",1995,"Female",0.02345
+"Clerks",1994,"Male",0.00315113
+"Dolores Claiborne",1995,"Female",0
+"Ed Wood",1994,"Male",0.005887457
+"Heavenly Creatures",1994,"Female",0.003049135
+"Kiss of Death",1995,"Male",0
+"Mary Shelley's Frankenstein",1994,"Male",0.112006296
+"Natural Born Killers",1994,"Male",0.050282766
+"Only You",1994,"Female",0
+"Outbreak",1995,"Male",0.18985956
+"Pulp Fiction",1994,"Male",0.213928762
+"Panther",1995,"Male",0.006834525
+"Quiz Show",1994,"Male",0
+"The Shawshank Redemption",1994,"Male",0.028341469
+"Shallow Grave",1994,"Male",0
+"Star Trek: Generations",1994,"Male",0.12
+"Village of the Damned",1995,"Female",0
+"Virtuosity",1995,"Male",0.024048
+"Ace Ventura: Pet Detective",1994,"Male",0.107217396
+"The Adventures of Priscilla, Queen of the Desert",1994,"Male",0.01122067
+"Bullets Over Broadway",1994,"Male",0
+"Clear and Present Danger",1994,"Male",0.215887717
+"The Client",1994,"Female",0.117615211
+"The Crow",1994,"Male",0.094
+"Cobb",1994,"Male",0.001007583
+"The Flintstones",1994,"Male",0.341631208
+"Forrest Gump",1994,"Male",0.677945399
+"The Lion King",1994,"Male",0.788241776
+"New Nightmare",1994,"Female",0.018090181
+"The Mask",1994,"Male",0.351583407
+"Maverick",1994,"Male",0
+"Red Rock West",1993,"Male",0.002
+"True Lies",1994,"Male",0.378882411
+"In the Mouth of Madness",1994,"Male",0.0089466
+"Being Human",1994,"Male",0
+"Boxing Helena",1993,"Male",0.001796389
+"Carlito's Way",1993,"Male",0.036516012
+"Cliffhanger",1993,"Male",0.255000211
+"Color of Night",1994,"Male",0.01972605
+"Dave",1993,"Male",0.063
+"Dazed and Confused",1993,"Male",0.007993039
+"Demolition Man",1993,"Male",0.159055768
+"Even Cowgirls Get the Blues",1993,"Female",0
+"Fatal Instinct",1993,"Male",0
+"The Fugitive",1993,"Male",0.36887576
+"The Hudsucker Proxy",1994,"Male",0
+"I'll Do Anything",1994,"Male",0
+"In the Line of Fire",1993,"Male",0.176997168
+"Jurassic Park",1993,"Male",0.9201
+"Kalifornia",1993,"Male",0.002395231
+"Killing Zoe",1993,"Male",0.000418961
+"Last Action Hero",1993,"Male",0.137298489
+"Malice",1993,"Male",0.046405336
+"Manhattan Murder Mystery",1993,"Male",0.011285588
+"Executive Decision",1996,"Male",0.121969216
+"A Perfect World",1993,"Male",0.135130999
+"Philadelphia",1993,"Male",0.20667844
+"The Piano",1993,"Male",0.1167
+"The Program",1993,"Male",0.0230422
+"The Ref",1994,"Male",0.011439193
+"Schindler's List",1993,"Male",0.321365567
+"Searching for Bobby Fischer",1993,"Male",0.007266383
+"Serial Mom",1994,"Female",0.007820688
+"Six Degrees of Separation",1993,"Male",0
+"Sleepless in Seattle",1993,"Female",0.227799884
+"Blade Runner",1982,"Male",0.033139618
+"So I Married an Axe Murderer",1993,"Male",0.011585483
+"The Nightmare Before Christmas",1993,"Male",0.075634409
+"The Three Musketeers",1993,"Male",0.053898845
+"Tombstone",1993,"Male",0.056505065
+"True Romance",1993,"Male",0.012281551
+"Home Alone",1990,"Male",0.476684675
+"Ghost",1990,"Male",0.505
+"Aladdin",1992,"Male",0.504050219
+"Terminator 2: Judgment Day",1991,"Male",0.52
+"Dances with Wolves",1990,"Male",0.424208848
+"Batman",1989,"Male",0.411348924
+"The Silence of the Lambs",1991,"Male",0.272742922
+"Beauty and the Beast",1991,"Male",0.377350553
+"Pretty Woman",1990,"Male",0.463
+"Fargo",1996,"Male",0.060611975
+"Primal Fear",1996,"Male",0.102616183
+"Diabolique",1996,"Female",0
+"Courage Under Fire",1996,"Male",0.100860818
+"Mission: Impossible",1996,"Male",0.457696359
+"Kids in the Hall: Brain Candy",1996,"Male",0
+"Space Jam",1996,"Male",0.2502
+"Mrs. Winterbourne",1996,"Female",0.01007
+"The Craft",1996,"Female",0.024769466
+"The Rock",1996,"Male",0.335062621
+"Twister",1996,"Female",0.494471524
+"Trainspotting",1996,"Male",0.01649108
+"Independence Day",1996,"Male",0.816969268
+"The Cable Guy",1996,"Male",0.102825796
+"The Frighteners",1996,"Male",0.029359216
+"Lone Star",1996,"Male",0.013269963
+"Ransom",1996,"Male",0.309492681
+"Chain Reaction",1996,"Male",0.060209334
+"Emma",1996,"Female",0.022231658
+"The Crow: City of Angels",1996,"Male",0.017917287
+"Escape from L.A.",1996,"Male",0.042277365
+"Basquiat",1996,"Male",0.003011195
+"Tin Cup",1996,"Male",0.053854588
+"The Godfather",1972,"Male",0.245066411
+"Bound",1996,"Female",0.007011317
+"The Relic",1997,"Male",0.033956608
+"The Island of Dr. Moreau",1996,"Male",0.049627779
+"Halloween: The Curse of Michael Myers",1995,"Male",0.015116634
+"Vertigo",1958,"Male",0.028
+"Rear Window",1954,"Male",0.036764313
+"Some Like It Hot",1959,"Male",0.025
+"The Wizard of Oz",1939,"Male",0.033754967
+"2001: A Space Odyssey",1968,"Male",0.0687
+"Ninotchka",1939,"Male",0.002279
+"Last Man Standing",1996,"Male",0.047267001
+"Robin Hood: Prince of Thieves",1991,"Male",0.390493908
+"Die Hard",1988,"Male",0.140767956
+"The Long Kiss Goodnight",1996,"Male",0.089456761
+"The Ghost and the Darkness",1996,"Male",0.075
+"Romeo + Juliet",1996,"Male",0.147298761
+"Swingers",1996,"Male",0.004505922
+"Reservoir Dogs",1992,"Male",0.014661007
+"Platoon",1986,"Male",0.138530565
+"Basic Instinct",1992,"Male",0.352927224
+"The Doors",1991,"Male",0.034416893
+"The Crying Game",1992,"Male",0.062548947
+"Glengarry Glen Ross",1992,"Male",0.010725228
+"Days of Thunder",1990,"Male",0.157920733
+"Top Gun",1986,"Male",0.356830601
+"On Golden Pond",1981,"Male",0.019255967
+"The Abyss",1989,"Male",0.090000098
+"Escape from New York",1981,"Male",0.0502447
+"The Howling",1981,"Male",0.017985893
+"Private Benjamin",1980,"Female",0
+"The Grifters",1990,"Male",0.013446769
+"The English Patient",1996,"Male",0.231976425
+"Sex, Lies, and Videotape",1989,"Female",0
+"The Princess Bride",1987,"Male",0.030857814
+"Raiders of the Lost Ark",1981,"Male",0.389925971
+"Brazil",1985,"Male",0
+"Aliens",1986,"Male",0.183316455
+"Apocalypse Now",1979,"Male",0.089460381
+"The Third Man",1949,"Male",0.000596349
+"Alien",1979,"Male",0.104931801
+"Army of Darkness",1992,"Male",0
+"Psycho",1960,"Male",0.032
+"The Godfather: Part II",1974,"Male",0.047542841
+"Full Metal Jacket",1987,"Male",0.046357676
+"Once Upon a Time in America",1984,"Male",0
+"Annie Hall",1977,"Male",0.038251425
+"The Sting",1973,"Male",0.159616327
+"The Terminator",1984,"Male",0.0783712
+"Glory",1989,"Male",0.026828365
+"Dead Poets Society",1989,"Male",0.235860116
+"Touch of Evil",1958,"Male",0.002247465
+"Stand by Me",1986,"Male",0.052287414
+"Groundhog Day",1993,"Male",0.070906973
+"Unforgiven",1992,"Male",0.159157447
+"Back to the Future",1985,"Male",0.381109762
+"Fried Green Tomatoes",1991,"Female",0.119418501
+"Highlander",1986,"Male",0.0059
+"Young Frankenstein",1974,"Male",0.086273333
+"Heathers",1988,"Female",0.001108462
+"Indiana Jones and the Last Crusade",1989,"Male",0.474171806
+"A Room with a View",1985,"Female",0.020966644
+"Real Genius",1985,"Male",0.013
+"Field of Dreams",1989,"Male",0.084431625
+"When Harry Met Sally...",1989,"Female",0.092823546
+"Dracula",1992,"Male",0.215862692
+"Candyman",1992,"Female",0.02579231
+"Cape Fear",1991,"Male",0.1823
+"A Nightmare on Elm Street",1984,"Female",0.025504513
+"Blood and Wine",1996,"Male",0
+"The Mirror Has Two Faces",1996,"Female",0
+"Star Trek: First Contact",1996,"Male",0.15
+"Sling Blade",1996,"Male",0.024444121
+"Die Hard 2",1990,"Male",0.240031094
+"Star Trek: The Motion Picture",1979,"Male",0.139
+"Star Trek VI: The Undiscovered Country",1991,"Male",0.0969
+"Star Trek V: The Final Frontier",1989,"Male",0.0702
+"Star Trek II: The Wrath of Khan",1982,"Male",0.0968
+"Star Trek III: The Search for Spock",1984,"Male",0.087
+"Star Trek IV: The Voyage Home",1986,"Male",0.133
+"Batman Returns",1992,"Male",0.28
+"Jaws",1975,"Male",0.470654
+"Jaws 2",1978,"Male",0.187884007
+"Jaws 3-D",1983,"Male",0.087987055
+"Mars Attacks!",1996,"Male",0.101371017
+"Jerry Maguire",1996,"Male",0.273552592
+"Raising Arizona",1987,"Male",0.02918028
+"Tin Men",1987,"Male",0
+"Sneakers",1992,"Male",0.105232691
+"Beavis and Butt-Head Do America",1996,"Male",0
+"Scream",1996,"Female",0.173046663
+"The Last of the Mohicans",1992,"Male",0.075505856
+"Metro",1997,"Male",0.031987563
+"Benny & Joon",1993,"Male",0.023202734
+"SubUrbia",1996,"Male",0.000656747
+"Absolute Power",1997,"Male",0.05006831
+"Lost Highway",1997,"Male",0.003675201
+"Donnie Brasco",1997,"Male",0.041954997
+"The Saint",1997,"Male",0.118063304
+"Liar Liar",1997,"Male",0.302710615
+"Inventing the Abbotts",1997,"Male",0.005926128
+"Grosse Pointe Blank",1997,"Male",0.028084357
+"Austin Powers: International Man of Mystery",1997,"Male",0.067683989
+"Breakdown",1997,"Male",0.050159144
+"The Fifth Element",1997,"Male",0.26392018
+"The Lost World: Jurassic Park",1997,"Male",0.229074524
+"Batman & Robin",1997,"Male",0.238207122
+"Hercules",1997,"Male",0.252712101
+"My Best Friend's Wedding",1997,"Female",0.299288605
+"Face/Off",1997,"Male",0.245676146
+"Men in Black",1997,"Male",0.589390539
+"Contact",1997,"Male",0.171120329
+"G.I. Jane",1997,"Female",0.048169156
+"Event Horizon",1997,"Male",0.026673242
+"Spawn",1997,"Male",0.087840042
+"Conspiracy Theory",1997,"Male",0.136982834
+"Mimic",1997,"Male",0.02548049
+"Air Force One",1997,"Male",0.315156409
+"One Eight Seven",1997,"Male",0.00571608
+"The Hunt for Red October",1990,"Male",0.1992
+"My Own Private Idaho",1991,"Male",0
+"The Edge",1997,"Male",0.043312294
+"L.A. Confidential",1997,"Male",0.12621694
+"The Game",1997,"Male",0.109423648
+"U Turn",1997,"Male",0.006682098
+"The Assignment",1997,"Male",0
+"The Ice Storm",1997,"Male",0.008038061
+"Chasing Amy",1997,"Male",0.012021272
+"Mrs Brown",1997,"Male",0
+"I Know What You Did Last Summer",1997,"Female",0.125586134
+"The Devil's Advocate",1997,"Male",0.15294466
+"Gattaca",1997,"Male",0.012532777
+"Gang Related",1997,"Male",0.005790448
+"Bean",1997,"Male",0.25121267
+"Boogie Nights",1997,"Male",0.043101594
+"Witness",1985,"Male",0.068706993
+"Starship Troopers",1997,"Male",0.121214377
+"The Truman Show",1998,"Male",0.264118201
+"Anastasia",1997,"Male",0.139804348
+"Alien: Resurrection",1997,"Male",0.162
+"Deconstructing Harry",1997,"Male",0.010686841
+"Good Will Hunting",1997,"Male",0.225933435
+"Scream 2",1997,"Female",0.172363301
+"The Sweet Hereafter",1997,"Male",0.003263585
+"Titanic",1997,"Male",1.845034188
+"Tomorrow Never Dies",1997,"Male",0.333011068
+"The Postman",1997,"Male",0.017626234
+"The Horse Whisperer",1998,"Female",0.186883563
+"Jackie Brown",1997,"Male",0.039673162
+"Kundun",1997,"Male",0.005684789
+"The Big Lebowski",1998,"Male",0.046189568
+"Wag the Dog",1997,"Male",0.064256513
+"Dark City",1998,"Male",0.027200316
+"Hard Rain",1998,"Male",0.019870567
+"Fallen",1998,"Male",0.025232289
+"Deep Rising",1998,"Male",0.011203026
+"The Wedding Singer",1998,"Male",0.123306987
+"Sphere",1998,"Male",0.0131
+"As Good as It Gets",1997,"Male",0.314178011
+"The Man in the Iron Mask",1998,"Male",0
+"Wild Things",1998,"Male",0.0672
+"Lost in Space",1998,"Male",0.136159423
+"The Odd Couple II",1998,"Male",0
+"Zero Effect",1998,"Male",0.001980338
+"Fear and Loathing in Las Vegas",1998,"Male",0.010680275
+"Henry Fool",1997,"Male",0.001334786
+"Mulan",1998,"Male",0.304320254
+"The X Files",1998,"Male",0.189198313
+"Out of Sight",1998,"Male",0.077745568
+"Armageddon",1998,"Male",0.553799566
+"Lethal Weapon 4",1998,"Male",0.285444603
+"Pi",1998,"Male",0.003221152
+"There's Something About Mary",1998,"Male",0.369884651
+"On the Waterfront",1954,"Male",0.0096
+"Rocky",1976,"Male",0.117235147
+"Kramer vs. Kramer",1979,"Male",0.10626
+"Ordinary People",1980,"Male",0
+"Terms of Endearment",1983,"Female",0
+"The Breakfast Club",1985,"Male",0.051525171
+"A Nightmare on Elm Street 3: Dream Warriors",1987,"Male",0.044793222
+"A Nightmare on Elm Street 4: The Dream Master",1988,"Female",0.0725
+"A Nightmare on Elm Street 5: The Dream Child",1989,"Female",0.022168359
+"Freddy's Dead: The Final Nightmare",1991,"Male",0.034872033
+"Friday the 13th",1980,"Male",0.059754601
+"Friday the 13th",2009,"Male",0.091379051
+"Friday the 13th Part III",1982,"Female",0.036690067
+"Friday the 13th Part VIII: Jason Takes Manhattan",1989,"Male",0.014
+"Halloween",1978,"Female",0.07
+"Halloween",2007,"Female",0.080253908
+"Halloween II",1981,"Female",0.025533818
+"Halloween 4: The Return of Michael Myers",1988,"Male",0.017768757
+"The Exorcist",1973,"Male",0.441306145
+"Lethal Weapon",1987,"Male",0.120207127
+"Gremlins",1984,"Male",0.153083102
+"Gremlins 2: The New Batch",1990,"Male",0.041482207
+"Back to the Future Part II",1989,"Male",0.332
+"Back to the Future Part III",1990,"Male",0.244527583
+"The Poseidon Adventure",1972,"Male",0.084563118
+"Dune",1984,"Male",0.03092569
+"The Last Temptation of Christ",1988,"Male",0.008373585
+"Saving Private Ryan",1998,"Male",0.481840909
+"The Black Cauldron",1985,"Male",0.021288692
+"Blue Velvet",1986,"Male",0.008551228
+"The Jungle Book",1967,"Male",0.205843612
+"The Little Mermaid",1989,"Male",0.2223
+"Newsies",1992,"Male",0
+"The Rescuers Down Under",1990,"Male",0.047431461
+"The Rocketeer",1991,"Male",0.062
+"Sleeping Beauty",1959,"Female",0.051
+"The Outsiders",1983,"Male",0.033697647
+"Indiana Jones and the Temple of Doom",1984,"Male",0.333
+"Maximum Overdrive",1986,"Male",0.007433663
+"Needful Things",1993,"Male",0
+"Cujo",1983,"Male",0.0212
+"Children of the Corn",1984,"Male",0.014
+"The Addams Family",1991,"Female",0.191502426
+"Snake Eyes",1998,"Male",0.103891409
+"Weird Science",1985,"Male",0.038934048
+"Legend",1985,"Male",0.015502112
+"Legend",2015,"Male",0.042972994
+"Sixteen Candles",1984,"Male",0.023686027
+"St. Elmo's Fire",1985,"Male",0.037803872
+"Blade",1998,"Male",0.13118353
+"Beetlejuice",1988,"Female",0.073326666
+"Willow",1988,"Male",0.057269863
+"Rounders",1998,"Male",0.022921898
+"Cube",1997,"Male",0.000501818
+"Broadcast News",1987,"Male",0.051249404
+"Working Girl",1988,"Female",0.103173635
+"Say Anything...",1989,"Male",0.020036737
+"My Blue Heaven",1990,"Male",0
+"Hero",1992,"Male",0
+"We're No Angels",1989,"Male",0
+"A Few Good Men",1992,"Male",0.243240178
+"Rush Hour",1998,"Male",0.244386864
+"Ronin",1998,"Male",0.041610884
+"Urban Legend",1998,"Female",0.072527595
+"Edward Scissorhands",1990,"Female",0.053
+"Antz",1998,"Male",0.171757863
+"A Night at the Roxbury",1998,"Male",0.030331165
+"My Cousin Vinny",1992,"Male",0.064088552
+"Beloved",1998,"Female",0
+"Practical Magic",1998,"Female",0.046683377
+"Apt Pupil",1998,"Male",0
+"Pleasantville",1998,"Male",0
+"Soldier",1998,"Male",0.014567883
+"Life Is Beautiful",1997,"Male",0.2294
+"American History X",1998,"Male",0.023875127
+"Gods and Monsters",1998,"Male",0.006451628
+"The Siege",1998,"Male",0.116672912
+"Elizabeth",1998,"Male",0.082150642
+"I Still Know What You Did Last Summer",1998,"Male",0.040002112
+"Meet Joe Black",1998,"Male",0.1429401
+"Enemy of the State",1998,"Male",0.250649836
+"Fletch",1985,"Male",0.059612888
+"Very Bad Things",1998,"Male",0.009898412
+"A Simple Plan",1998,"Male",0
+"Star Trek: Insurrection",1998,"Male",0.118
+"Rushmore",1998,"Male",0.017096053
+"Shakespeare in Love",1998,"Male",0.289317794
+"Rambo: First Blood Part II",1985,"Male",0.300400432
+"Rocky III",1982,"Male",0.27
+"Rocky V",1990,"Male",0.119946358
+"Clue",1985,"Male",0.014643997
+"The Karate Kid",1984,"Male",0.090815558
+"You've Got Mail",1998,"Female",0.250821495
+"The Thin Red Line",1998,"Male",0.098126565
+"The Faculty",1998,"Female",0.040283321
+"Mighty Joe Young",1998,"Male",0
+"Stepmom",1998,"Female",0
+"A Civil Action",1998,"Male",0.056702901
+"Affliction",1997,"Male",0.006330054
+"At First Sight",1999,"Male",0
+"Running Scared",1986,"Male",0
+"Jumpin' Jack Flash",1986,"Female",0
+"Peggy Sue Got Married",1986,"Female",0.041382841
+"Payback",1999,"Male",0.161626121
+"Blast from the Past",1999,"Male",0.04026302
+"Office Space",1999,"Male",0.012827813
+"8MM",1999,"Male",0.096618699
+"Pet Sematary",1989,"Male",0.057469467
+"Pet Sematary II",1992,"Male",0.017092453
+"Christine",1983,"Male",0.0212
+"Logan's Run",1976,"Male",0.025
+"Planet of the Apes",1968,"Male",0.033395426
+"Analyze This",1999,"Male",0.176885658
+"The Corruptor",1999,"Male",0.0151562
+"Cruel Intentions",1999,"Male",0.075902208
+"Lock, Stock and Two Smoking Barrels",1998,"Male",0.003897569
+"The Deep End of the Ocean",1999,"Female",0.0281211
+"Dead Ringers",1988,"Male",0.008038508
+"Ravenous",1999,"Male",0
+"True Crime",1999,"Male",0
+"Edtv",1999,"Male",0
+"The Matrix",1999,"Male",0.463517383
+"10 Things I Hate About You",1999,"Male",0.053478166
+"Go",1999,"Male",0.028451622
+"Never Been Kissed",1999,"Female",0.08456523
+"Life",1999,"Male",0.073345029
+"Election",1999,"Male",0
+"eXistenZ",1999,"Male",0.002856712
+"Entrapment",1999,"Male",0.212404396
+"The Mummy",1999,"Male",0.415885488
+"Star Wars: Episode I - The Phantom Menace",1999,"Male",0.924317558
+"Superman II",1980,"Male",0.190458706
+"Superman III",1983,"Male",0.075850624
+"Superman IV: The Quest for Peace",1987,"Male",0.0193
+"Frankenstein",1931,"Male",0.012
+"The Rocky Horror Picture Show",1975,"Male",0.112892319
+"Notting Hill",1999,"Male",0.363889678
+"Austin Powers: The Spy Who Shagged Me",1999,"Male",0.310940086
+"Tarzan",1999,"Female",0.448
+"The General's Daughter",1999,"Male",0.149705852
+"Wild Wild West",1999,"Male",0.222104681
+"American Pie",1999,"Male",0.235483004
+"Arlington Road",1999,"Male",0
+"The Blair Witch Project",1999,"Female",0.248
+"Eyes Wide Shut",1999,"Male",0.162091208
+"Lake Placid",1999,"Male",0.056870414
+"Ghostbusters",1984,"Male",0.295212467
+"Ghostbusters II",1989,"Male",0.215394738
+"Drop Dead Gorgeous",1999,"Female",0.010571408
+"The Haunting",1999,"Female",0.091188905
+"Mystery Men",1999,"Male",0.029762011
+"Runaway Bride",1999,"Female",0.309457509
+"The Mosquito Coast",1986,"Male",0.014302779
+"Light of Day",1987,"Male",0
+"Frances",1982,"Female",0.005
+"The Iron Giant",1999,"Male",0.023159305
+"The Sixth Sense",1999,"Male",0.672806292
+"Detroit Rock City",1999,"Male",0.004217115
+"Airplane!",1980,"Male",0.083453539
+"An American Werewolf in Paris",1997,"Male",0.026570463
+"Big",1988,"Male",0.151668774
+"The Pelican Brief",1993,"Male",0.195268056
+"Chill Factor",1999,"Male",0.011263966
+"Stir of Echoes",1999,"Male",0.021133087
+"American Beauty",1999,"Male",0.356296601
+"Mumford",1999,"Male",0
+"Three Kings",1999,"Male",0.108
+"The Dark Half",1993,"Male",0.01061116
+"Psycho II",1983,"Male",0.034725
+"The Limey",1999,"Male",0.003193102
+"Risky Business",1983,"Male",0.063541777
+"Total Recall",1990,"Male",0.261317921
+"Ferris Bueller's Day Off",1986,"Male",0.070136369
+"Someone to Watch Over Me",1987,"Male",0.010278549
+"Fight Club",1999,"Male",0.100853753
+"Bringing Out the Dead",1999,"Male",0
+"Who Framed Roger Rabbit",1988,"Male",0.329803958
+"For Your Eyes Only",1981,"Male",0.195312802
+"Live and Let Die",1973,"Male",0.161777836
+"House on Haunted Hill",1999,"Male",0.040846082
+"Music of the Heart",1999,"Female",0.014859394
+"Being John Malkovich",1999,"Male",0.022863596
+"The Insider",1999,"Male",0.060289912
+"Drugstore Cowboy",1989,"Male",0.004729352
+"Spaceballs",1987,"Male",0.038119483
+"Trading Places",1983,"Male",0.0904
+"Dead Again",1991,"Male",0.03801638
+"Dogma",1999,"Male",0.03065289
+"The Verdict",1982,"Male",0.05397725
+"Moonstruck",1987,"Male",0.080640528
+"Sleepy Hollow",1999,"Male",0.206071502
+"The World Is Not Enough",1999,"Male",0.3618324
+"Awakenings",1990,"Male",0.052096475
+"Come See the Paradise",1990,"Male",0
+"Backdraft",1991,"Male",0.152368585
+"The Fisher King",1991,"Male",0.041895491
+"End of Days",1999,"Male",0.211989043
+"The Distinguished Gentleman",1992,"Male",0.04643457
+"The Bonfire of the Vanities",1990,"Male",0.015691192
+"The Green Mile",1999,"Male",0.2846
+"The Cider House Rules",1999,"Male",0.088545092
+"Stuart Little",1999,"Male",0.300135367
+"Magnolia",1999,"Male",0.048451803
+"Any Given Sunday",1999,"Male",0.100230832
+"Man on the Moon",1999,"Male",0.04743443
+"Galaxy Quest",1999,"Male",0.090683916
+"The Talented Mr. Ripley",1999,"Male",0.128798265
+"Next Friday",2000,"Male",0.059827328
+"Snow Falling on Cedars",1999,"Male",0
+"Malcolm X",1992,"Male",0.048169908
+"Sister Act",1992,"Female",0.23160515
+"The Bodyguard",1992,"Male",0.41100674
+"Death Becomes Her",1992,"Female",0.14902265
+"Twin Peaks: Fire Walk with Me",1992,"Male",0.004160851
+"Buffy the Vampire Slayer",1992,"Male",0.016624456
+"The Cutting Edge",1992,"Male",0.025105517
+"Bad Lieutenant",1992,"Male",0.002019469
+"Scream 3",2000,"Female",0.161834276
+"Single White Female",1992,"Female",0.048017402
+"The Beach",2000,"Male",0.144056873
+"Boiler Room",2000,"Male",0.028780255
+"Pitch Black",2000,"Male",0.053187659
+"Reindeer Games",2000,"Male",0.03216897
+"Wonder Boys",2000,"Male",0
+"Mission to Mars",2000,"Male",0.060874615
+"The Ninth Gate",1999,"Male",0.058401898
+"Defending Your Life",1991,"Male",0
+"Bull Durham",1988,"Male",0.050888
+"American Graffiti",1973,"Male",0.14
+"JFK",1991,"Male",0.205405498
+"Erin Brockovich",2000,"Female",0.256271286
+"Final Destination",2000,"Male",0.053302314
+"Thelma & Louise",1991,"Female",0.045361
+"Do the Right Thing",1989,"Male",0.037295445
+"Jacob's Ladder",1990,"Male",0.025965144
+"La Bamba",1987,"Male",0.054215416
+"High Fidelity",2000,"Male",0.047126295
+"El Dorado",1966,"Male",0.006
+"Hook",1991,"Male",0.300854823
+"Midnight Express",1978,"Male",0.035
+"Misery",1990,"Female",0.061276872
+"Frequency",2000,"Male",0.068106245
+"Return to Me",2000,"Male",0.036609995
+"Arthur",1981,"Male",0.095461682
+"Bachelor Party",1984,"Male",0.038435947
+"Predator",1987,"Male",0.098235548
+"28 Days",2000,"Female",0
+"American Psycho",2000,"Male",0.034266564
+"Diner",1982,"Male",0
+"Cabaret",1972,"Female",0
+"Caddyshack",1980,"Male",0.039846344
+"Love & Basketball",2000,"Female",0.027728118
+"Gladiator",2000,"Male",0.457640427
+"Battlefield Earth",2000,"Male",0.0214
+"Mission: Impossible II",2000,"Male",0.546388105
+"Blazing Saddles",1974,"Male",0.1195
+"The Fabulous Baker Boys",1989,"Male",0
+"Predator 2",1990,"Male",0.057120318
+"Starman",1984,"Male",0.028744356
+"Alien Nation",1988,"Male",0.032155047
+"Bird on a Wire",1990,"Male",0
+"Firestarter",1984,"Male",0.017080167
+"Gone in Sixty Seconds",2000,"Male",0.237202299
+"Near Dark",1987,"Male",0
+"The Patriot",2000,"Male",0.215294342
+"Croupier",1998,"Male",0
+"X-Men",2000,"Male",0.296339527
+"What Lies Beneath",2000,"Female",0.155464351
+"Autumn in New York",2000,"Female",0
+"Hollow Man",2000,"Male",0.190213455
+"Space Cowboys",2000,"Male",0.128884132
+"The Replacements",2000,"Male",0
+"The Cell",2000,"Male",0.104155843
+"Supergirl",1984,"Female",0.014296438
+"Highlander: Endgame",2000,"Male",0.015843608
+"Nurse Betty",2000,"Male",0
+"The Way of the Gun",2000,"Male",0.019125401
+"Almost Famous",2000,"Male",0.047383689
+"Hellraiser",1987,"Male",0.014564027
+"Hellraiser III: Hell on Earth",1992,"Female",0.012534961
+"Bamboozled",2000,"Male",0
+"Get Carter",2000,"Male",0.019412993
+"Requiem for a Dream",2000,"Male",0.007390108
+"Lost Souls",2000,"Male",0
+"Charlie's Angels",2000,"Female",0.264105545
+"Little Nicky",2000,"Male",0
+"Red Planet",2000,"Male",0.033463969
+"You Can Count on Me",2000,"Male",0
+"Quills",2000,"Male",0.007060876
+"Unbreakable",2000,"Male",0.248118121
+"Wall Street",1987,"Male",0.043848069
+"Born on the Fourth of July",1989,"Male",0.161001698
+"Chocolat",2000,"Female",0.152500343
+"Cast Away",2000,"Male",0.429632142
+"The Family Man",2000,"Male",0
+"O Brother, Where Art Thou?",2000,"Male",0.071868327
+"State and Main",2000,"Male",0
+"Dracula 2000",2000,"Male",0.033000337
+"All the Pretty Horses",2000,"Male",0
+"Thirteen Days",2000,"Male",0.034566746
+"Traffic",2000,"Male",0.207515725
+"Shadow of the Vampire",2000,"Male",0.008279017
+"House of Games",1987,"Male",0.002585639
+"An Officer and a Gentleman",1982,"Male",0.129795554
+"Antitrust",2001,"Male",0.01819561
+"Save the Last Dance",2001,"Male",0.091038276
+"Sugar & Spice",2001,"Female",0.013276953
+"The Big Easy",1986,"Male",0
+"Hope and Glory",1987,"Male",0
+"Innerspace",1987,"Male",0.02589381
+"Jaws: The Revenge",1987,"Male",0.051881013
+"The Lost Boys",1987,"Male",0.032222567
+"Hannibal",2001,"Male",0.351692268
+"Sweet November",2001,"Male",0.065754228
+"Monkeybone",2001,"Male",0.005409517
+"15 Minutes",2001,"Male",0.05635998
+"Manhunter",1986,"Male",0.008620929
+"Memento",2000,"Male",0.039723096
+"Blow",2001,"Male",0.083282296
+"Scarface",1983,"Male",0.065884703
+"True Believer",1989,"Male",0
+"Nine to Five",1980,"Female",0
+"Angel Eyes",2001,"Female",0.0297
+"Shrek",2001,"Male",0.484409218
+"Pearl Harbor",2001,"Male",0.449220945
+"Swordfish",2001,"Male",0.147080413
+"The Anniversary Party",2001,"Female",0
+"Point Break",1991,"Male",0.083531958
+"Unlawful Entry",1992,"Male",0.057138719
+"Tootsie",1982,"Female",0.1772
+"The Fast and the Furious",2001,"Male",0.207283925
+"A.I. Artificial Intelligence",2001,"Male",0.235926552
+"Scary Movie 2",2001,"Male",0.141220678
+"Something Wild",1986,"Male",0.008362969
+"Legally Blonde",2001,"Female",0.141774679
+"Made",2001,"Male",0.00547606
+"Above the Law",1988,"Male",0.018869631
+"Beaches",1988,"Female",0.057041866
+"The Blob",1988,"Male",0.008247943
+"Coming to America",1988,"Male",0.288752301
+"Critters 2",1988,"Male",0.003813293
+"The Great Outdoors",1988,"Male",0.04345523
+"Red Heat",1988,"Male",0.034994648
+"They Live",1988,"Male",0.013008928
+"Twins",1988,"Male",0.216614388
+"Black Rain",1989,"Male",0.045892212
+"Casualties of War",1989,"Male",0.018671317
+"A Dry White Season",1989,"Male",0
+"Erik the Viking",1989,"Male",0
+"Farewell to the King",1989,"Male",0.002420917
+"Gleaming the Cube",1989,"Male",0.00277728
+"Leviathan",1989,"Male",0.015704614
+"Major League",1989,"Male",0.049797148
+"Jurassic Park III",2001,"Male",0.368780809
+"Ghost World",2001,"Female",0
+"Sea of Love",1989,"Male",0.110879513
+"Uncle Buck",1989,"Male",0.079258538
+"The Wizard",1989,"Male",0.0142789
+"Rush Hour 2",2001,"Male",0.347325802
+"The Others",2001,"Female",0
+"American Outlaws",2001,"Male",0.013678913
+"Jay and Silent Bob Strike Back",2001,"Male",0.033788161
+"Training Day",2001,"Male",0.104876233
+"Little Man Tate",1991,"Female",0
+"Hearts in Atlantis",2001,"Male",0.024185781
+"Joy Ride",2001,"Male",0.036642838
+"Serendipity",2001,"Male",0.077516304
+"Coal Miner's Daughter",1980,"Male",0.067182787
+"Mulholland Drive",2001,"Female",0.020117339
+"Bones",2001,"Male",0.007316658
+"The Last Castle",2001,"Male",0.027642707
+"K-PAX",2001,"Male",0.05031514
+"Thir13en Ghosts",2001,"Male",0
+"Donnie Darko",2001,"Male",0.001270522
+"Life as a House",2001,"Male",0
+"Monsters, Inc.",2001,"Male",0.562816256
+"In the Bedroom",2001,"Male",0
+"Ocean's Eleven",2001,"Male",0.45071715
+"Moscow on the Hudson",1984,"Male",0.0251
+"Vanilla Sky",2001,"Male",0.203388341
+"The Royal Tenenbaums",2001,"Male",0.07144125
+"Kate & Leopold",2001,"Male",0
+"The Lord of the Rings: The Fellowship of the Ring",2001,"Male",0.871368364
+"The Majestic",2001,"Male",0.037317558
+"A Beautiful Mind",2001,"Male",0.313542341
+"Ali",2001,"Male",0.087713825
+"Black Hawk Down",2001,"Male",0.172989651
+"Gosford Park",2001,"Female",0.087754044
+"I Am Sam",2001,"Female",0.092542418
+"Monster's Ball",2001,"Male",0.044909486
+"The Shipping News",2001,"Male",0
+"Dragonslayer",1981,"Male",0.014110013
+"48 Hrs.",1982,"Male",0.078868508
+"The Mothman Prophecies",2002,"Male",0.055157539
+"A Walk to Remember",2002,"Male",0.041227069
+"Storytelling",2001,"Male",0
+"Birthday Girl",2001,"Male",0
+"Collateral Damage",2002,"Male",0.078382433
+"The Sandlot",1993,"Male",0.032416586
+"John Q",2002,"Male",0.10224477
+"Queen of the Damned",2002,"Male",0.04547911
+"The Time Machine",2002,"Male",0.123729176
+"Resident Evil",2002,"Male",0.102984862
+"Smokey and the Bandit",1977,"Male",0.126737428
+"Blade II",2002,"Male",0.155010032
+"Death to Smoochy",2002,"Male",0
+"Panic Room",2002,"Male",0.196397415
+"Frailty",2001,"Male",0.013110448
+"Human Nature",2001,"Male",0.000705308
+"My Big Fat Greek Wedding",2002,"Female",0.368744044
+"Jason X",2001,"Male",0.016951798
+"Rambling Rose",1991,"Male",0.006266621
+"Star Wars: Episode II - Attack of the Clones",2002,"Male",0.649398328
+"The Believer",2001,"Male",0.000416925
+"Enough",2002,"Female",0.051801187
+"Insomnia",2002,"Male",0.11371483
+"The Bourne Identity",2002,"Male",0.214034224
+"Scooby-Doo",2002,"Male",0.275650703
+"Minority Report",2002,"Male",0.358372926
+"Halloween: Resurrection",2002,"Male",0.037664855
+"Eight Legged Freaks",2002,"Male",0
+"Stuart Little 2",2002,"Male",0.169956806
+"Signs",2002,"Male",0.408247917
+"The Good Girl",2002,"Female",0.016856124
+"Blood Work",2002,"Female",0.026199517
+"xXx",2002,"Male",0.277448382
+"Possession",2002,"Female",0.010113733
+"S1m0ne",2002,"Male",0.019576023
+"Down and Out in Beverly Hills",1986,"Male",0.062134225
+"The Four Feathers",2002,"Male",0.029882645
+"Jonah: A VeggieTales Movie",2002,"Male",0
+"Red Dragon",2002,"Male",0.209196298
+"Below",2002,"Male",0.000605562
+"The Rules of Attraction",2002,"Male",0
+"Punch-Drunk Love",2002,"Male",0.017
+"The Ring",2002,"Female",0.249348933
+"Jason Goes to Hell: The Final Friday",1993,"Male",0.015938065
+"Ghost Ship",2002,"Male",0.068349884
+"Far from Heaven",2002,"Female",0.029027914
+"Harry Potter and the Chamber of Secrets",2002,"Male",0.876688482
+"Thief",1981,"Male",0.0043
+"Talk to Her",2002,"Male",0.05100155
+"Solaris",2002,"Male",0.030002758
+"Analyze That",2002,"Male",0.055003135
+"Adaptation.",2002,"Male",0.032801173
+"Equilibrium",2002,"Male",0.005359645
+"Star Trek: Nemesis",2002,"Male",0.067312826
+"The Lord of the Rings: The Two Towers",2002,"Male",0.9262874
+"25th Hour",2002,"Male",0.013060843
+"Gangs of New York",2002,"Male",0.193772504
+"Body of Evidence",1993,"Male",0.013273595
+"My Girl 2",1994,"Male",0
+"My Girl",1991,"Female",0
+"Catch Me If You Can",2002,"Male",0.352114312
+"The Pianist",2002,"Male",0.120072577
+"The King of Comedy",1982,"Male",0
+"City of God",2002,"Male",0.03064177
+"Final Destination 2",2003,"Female",0.090426405
+"The Recruit",2003,"Male",0.101191884
+"Evil Under the Sun",1982,"Male",0.00611
+"The Life of David Gale",2003,"Female",0.038955598
+"Old School",2003,"Male",0.087055349
+"Cradle 2 the Grave",2003,"Male",0.056489558
+"Dreamcatcher",2003,"Male",0.075715436
+"Basic",2003,"Male",0.042792561
+"A Man Apart",2003,"Male",0.044350926
+"Phone Booth",2002,"Male",0.097837138
+"House of 1000 Corpses",2003,"Male",0.016829545
+"Holes",2003,"Male",0
+"Malibu's Most Wanted",2003,"Male",0
+"The Marrying Man",1991,"Male",0.012454768
+"Confidence",2003,"Male",0
+"Identity",2003,"Male",0.090259536
+"The Matrix Reloaded",2003,"Male",0.738599701
+"Bruce Almighty",2003,"Male",0.484572835
+"Finding Nemo",2003,"Male",0.940335536
+"The Italian Job",2003,"Male",0.176070171
+"Wrong Turn",2003,"Male",0.028650575
+"Barton Fink",1991,"Male",0.006153939
+"Bodies, Rest & Motion",1993,"Male",0.000764083
+"Hulk",2003,"Male",0.24536048
+"Pirates of the Caribbean: The Curse of the Black Pearl",2003,"Male",0.655011224
+"Curly Sue",1991,"Female",0
+"Freddy vs. Jason",2003,"Male",0.11490883
+"American Splendor",2003,"Male",0.006003587
+"Tremors",1990,"Male",0.048572
+"Matchstick Men",2003,"Male",0.065565672
+"Lost in Translation",2003,"Female",0.119723856
+"Memoirs of an Invisible Man",1992,"Male",0.014358033
+"Duplex",2003,"Female",0.019322135
+"Boyz n the Hood",1991,"Male",0.057504069
+"City Heat",1984,"Male",0.038348988
+"Into the Night",1985,"Male",0.0067
+"School of Rock",2003,"Male",0.131282949
+"Wonderland",2003,"Male",0.002466444
+"Mystic River",2003,"Male",0.15682202
+"Intolerable Cruelty",2003,"Male",0.119940815
+"The Texas Chainsaw Massacre",2003,"Male",0.107071655
+"The Human Stain",2003,"Male",0
+"Elf",2003,"Male",0.173398518
+"Father of the Bride",1991,"Male",0.08932578
+"Looney Tunes: Back in Action",2003,"Male",0.068514844
+"Master and Commander: The Far Side of the World",2003,"Male",0.212011111
+"Gothika",2003,"Female",0.141591324
+"Bad Santa",2003,"Male",0.076488889
+"Hannah and Her Sisters",1986,"Male",0.040084041
+"Hudson Hawk",1991,"Male",0.01721808
+"Kafka",1991,"Male",0
+"Knight Moves",1992,"Male",0
+"The Last Boy Scout",1991,"Male",0.059509925
+"Nowhere to Run",1993,"Male",0
+"Silverado",1985,"Male",0
+"Revenge",1990,"Male",0.015645616
+"Thunderheart",1992,"Male",0
+"Wild at Heart",1990,"Male",0.014560247
+"The Witches of Eastwick",1987,"Female",0.06376651
+"Naked Lunch",1991,"Male",0
+"The Cooler",2003,"Male",0
+"The Last Samurai",2003,"Male",0.456758981
+"Big Fish",2003,"Male",0.122919055
+"Something's Gotta Give",2003,"Female",0.266728738
+"Girl with a Pearl Earring",2003,"Female",0.031466789
+"The Lord of the Rings: The Return of the King",2003,"Male",1.118888979
+"Cold Mountain",2003,"Female",0.173013509
+"The Adventures of Ford Fairlane",1990,"Male",0.020423389
+"Spartan",2004,"Male",0.008112712
+"Eternal Sunshine of the Spotless Mind",2004,"Female",0.072258126
+"Taking Lives",2004,"Female",0.065470529
+"The Ladykillers",2004,"Male",0
+"Hellboy",2004,"Male",0.099318987
+"Walking Tall",2004,"Male",0.05722389
+"Kill Bill: Vol. 2",2004,"Male",0.152159461
+"The Punisher",2004,"Male",0.054700105
+"Man on Fire",2004,"Male",0.130293714
+"Mean Girls",2004,"Female",0.129042871
+"New York Minute",2004,"Female",0
+"Troy",2004,"Male",0.497409852
+"Under Fire",1983,"Male",0
+"Octopussy",1983,"Male",0.1875
+"Chaplin",1992,"Male",0
+"The Power of One",1992,"Male",0
+"The Getaway",1972,"Male",0.058831997
+"Point of No Return",1993,"Male",0
+"Escape from Alcatraz",1979,"Male",0.043
+"Shrek 2",2004,"Male",0.919838758
+"Harry Potter and the Prisoner of Azkaban",2004,"Male",0.789804554
+"City of Joy",1992,"Male",0.014683921
+"Memphis Belle",1990,"Male",0
+"Deep Cover",1992,"Male",0
+"Hard Times",1975,"Male",0.005
+"Spider-Man 2",2004,"Male",0.783766341
+"Before Sunset",2004,"Female",0.015992615
+"Anchorman: The Legend of Ron Burgundy",2004,"Male",0.090574188
+"I, Robot",2004,"Male",0.347234916
+"Maria Full of Grace",2004,"Female",0
+"The Bourne Supremacy",2004,"Male",0.288500217
+"Catwoman",2004,"Female",0.082102379
+"The Manchurian Candidate",2004,"Male",0.096105964
+"Thunderbirds",2004,"Male",0.028283637
+"The Village",2004,"Female",0.25669752
+"Garden State",2004,"Male",0.026781723
+"Collateral",2004,"Male",0.217764291
+"Harold & Kumar Go to White Castle",2004,"Male",0.023936908
+"Exorcist: The Beginning",2004,"Male",0.078000586
+"Suspect Zero",2004,"Male",0.013
+"Cellular",2004,"Male",0.056422687
+"Shaun of the Dead",2004,"Male",0.030039392
+"1492: Conquest of Paradise",1992,"Male",0.007191399
+"Team America: World Police",2004,"Male",0.050907422
+"The Grudge",2004,"Female",0.183474602
+"Alfie",2004,"Male",0.013395939
+"Sideways",2004,"Male",0.109502303
+"Saw",2004,"Male",0.103911669
+"The Incredibles",2004,"Male",0.631442092
+"National Treasure",2004,"Male",0.347451894
+"Ocean's Twelve",2004,"Male",0.36274428
+"Blade: Trinity",2004,"Male",0.128905366
+"The Battle of Algiers",1966,"Male",0.000921548
+"Prince of Darkness",1987,"Male",0.014182492
+"Hard to Kill",1990,"Male",0.04741
+"Narrow Margin",1990,"Male",0
+"Light Sleeper",1992,"Male",0
+"The Jacket",2005,"Male",0.021126225
+"Spanglish",2004,"Female",0.055041367
+"A Scanner Darkly",2006,"Male",0.007659918
+"Million Dollar Baby",2004,"Male",0.216763646
+"Hotel Rwanda",2004,"Male",0.038
+"The Life Aquatic with Steve Zissou",2004,"Male",0.034808403
+"The Aviator",2004,"Male",0.102
+"In Good Company",2004,"Male",0
+"Man Trouble",1992,"Male",4e-09
+"Alone in the Dark",2005,"Male",0.010442808
+"The Wedding Date",2005,"Female",0.047175038
+"Hitch",2005,"Male",0.36810042
+"Constantine",2005,"Male",0.230884728
+"Cursed",2005,"Male",0.019294901
+"The Pacifier",2005,"Male",0.11300688
+"Hostage",2005,"Male",0.077944725
+"The Hitchhiker's Guide to the Galaxy",2005,"Male",0.104478416
+"Kingdom of Heaven",2005,"Male",0.211643158
+"House of Wax",2005,"Male",0.068766121
+"Crash",2004,"Male",0.098410061
+"Star Wars: Episode III - Revenge of the Sith",2005,"Male",0.85
+"Mr. & Mrs. Smith",2005,"Male",0.47820752
+"Batman Begins",2005,"Male",0.374218673
+"Land of the Dead",2005,"Male",0.046770602
+"Deceived",1991,"Female",0
+"War of the Worlds",2005,"Male",0.591739379
+"Fantastic Four",2005,"Male",0.330579719
+"Wedding Crashers",2005,"Male",0.285176741
+"Hardware",1990,"Male",0.005728953
+"The Island",2005,"Male",0.162949164
+"The Devil's Rejects",2005,"Male",0
+"Serenity",2005,"Male",0.038869464
+"Lord of War",2005,"Male",0.024127895
+"Doom",2005,"Male",0.055987321
+"Domino",2005,"Female",0.022944502
+"Flightplan",2005,"Female",0.223387299
+"A History of Violence",2005,"Male",0.060740827
+"Capote",2005,"Male",0.04908483
+"In Her Shoes",2005,"Female",0.083073883
+"The Squid and the Whale",2005,"Male",0.011098131
+"Two for the Money",2005,"Male",0.030526509
+"Brokeback Mountain",2005,"Male",0.178043761
+"Elizabethtown",2005,"Male",0.052034889
+"Good Night, and Good Luck.",2005,"Male",0.0546
+"The Fog",2005,"Female",0.046201432
+"Shopgirl",2005,"Female",0.011588205
+"Stay",2005,"Male",0.008342132
+"The Weather Man",2005,"Male",0.012482775
+"Syriana",2005,"Male",0.094
+"Pride & Prejudice",2005,"Female",0.121147947
+"The Descent",2005,"Female",0
+"Harry Potter and the Goblet of Fire",2005,"Male",0.895921036
+"Rent",2005,"Male",0.03167062
+"Match Point",2005,"Male",0.085306374
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,"Male",0.748806957
+"King Kong",2005,"Male",0.55
+"Memoirs of a Geisha",2005,"Female",0.162242962
+"Munich",2005,"Male",0.130358911
+"The Producers",2005,"Male",0.038058335
+"Fun with Dick and Jane",2005,"Male",0.202026112
+"The Ringer",2005,"Male",0.040442437
+"Glory Road",2006,"Male",0.042647449
+"Final Destination 3",2006,"Female",0.117719158
+"V for Vendetta",2005,"Male",0.132511035
+"Inside Man",2006,"Male",0.184376254
+"The Hills Have Eyes",2006,"Male",0.069623713
+"Lucky Number Slevin",2006,"Male",0.056308881
+"Brick",2005,"Male",0.003919254
+"Slither",2006,"Male",0
+"Silent Hill",2006,"Female",0.097607453
+"Art School Confidential",2006,"Male",0
+"Click",2006,"Male",0.237681299
+"The Devil Wears Prada",2006,"Female",0.326551094
+"Pirates of the Caribbean: Dead Man's Chest",2006,"Male",1.065659812
+"Career Opportunities",1991,"Male",0
+"Little Miss Sunshine",2006,"Male",0.100523181
+"Babel",2006,"Male",0.135330182
+"Monster House",2006,"Male",0.140175006
+"Talladega Nights: The Ballad of Ricky Bobby",2006,"Male",0.162966177
+"World Trade Center",2006,"Male",0.162945894
+"Stranger Than Fiction",2006,"Male",0.053653224
+"Miami Vice",2006,"Male",0.163794509
+"Crank",2006,"Male",0.042931041
+"The Illusionist",2006,"Male",0.086915017
+"The Queen",2006,"Male",0.123384128
+"Idiocracy",2006,"Male",0.000495303
+"The Black Dahlia",2006,"Male",0.049111202
+"Pan's Labyrinth",2006,"Male",0.083258226
+"The Departed",2006,"Male",0.289847354
+"Little Children",2006,"Male",0.014821658
+"Children of Men",2006,"Male",0.069959751
+"The Prestige",2006,"Male",0.109676311
+"Flags of Our Fathers",2006,"Male",0.065900249
+"A Good Year",2006,"Male",0.042064105
+"Happy Feet",2006,"Male",0.384335608
+"Blood Diamond",2006,"Male",0.170877916
+"Rocky Balboa",2006,"Male",0.155721132
+"The Good Shepherd",2006,"Male",0.059908565
+"Letters from Iwo Jima",2006,"Male",0.068673228
+"Black Christmas",2006,"Female",0.021510851
+"The Hitcher",2007,"Male",0.025399945
+"Smokin' Aces",2006,"Male",0.057103895
+"Hannibal Rising",2007,"Male",0.082169884
+"Ratatouille",2007,"Male",0.623722818
+"The Number 23",2007,"Male",0.077566815
+"Black Snake Moan",2006,"Male",0.010903846
+"Hot Fuzz",2007,"Male",0.080573774
+"Next",2007,"Male",0.076066841
+"Zodiac",2007,"Male",0.084785914
+"Wild Hogs",2007,"Male",0.253625427
+"300",2006,"Male",0.422610419
+"I Think I Love My Wife",2007,"Male",0.013196245
+"TMNT",2007,"Male",0.095608995
+"The Lookout",2007,"Male",0.00536703
+"Blades of Glory",2007,"Male",0
+"Disturbia",2007,"Male",0.117760134
+"Fracture",2007,"Male",0.091354215
+"Vacancy",2007,"Male",0.035300645
+"Away from Her",2006,"Female",0
+"Knocked Up",2007,"Male",0.219076518
+"28 Weeks Later",2007,"Male",0.06423844
+"Shrek the Third",2007,"Male",0.798958165
+"Pirates of the Caribbean: At World's End",2007,"Male",0.961
+"Mr. Brooks",2007,"Male",0.041637263
+"1408",2007,"Male",0.094679598
+"Hot Rod",2007,"Male",0.014334401
+"Charlie Bartlett",2007,"Male",0
+"El cantante",2006,"Male",0
+"The Bourne Ultimatum",2007,"Male",0.442824138
+"Superbad",2007,"Male",0.121463226
+"The Kingdom",2007,"Male",0.086658558
+"3:10 to Yuma",2007,"Male",0.07001622
+"Atonement",2007,"Female",0.129266061
+"The Brave One",2007,"Female",0.069766619
+"In the Valley of Elah",2007,"Male",0.02954179
+"Eastern Promises",2007,"Male",0.055112356
+"Good Luck Chuck",2007,"Male",0.059192128
+"Into the Wild",2007,"Male",0.056255142
+"The Darjeeling Limited",2007,"Male",0.024377151
+"We Own the Night",2007,"Male",0.054926886
+"Elizabeth: The Golden Age",2007,"Female",0.074237563
+"Michael Clayton",2007,"Male",0.092991835
+"30 Days of Night",2007,"Male",0.075505973
+"The Assassination of Jesse James by the Coward Robert Ford",2007,"Male",0.014711793
+"Saw IV",2007,"Male",0.139352633
+"American Gangster",2007,"Male",0.266465037
+"Bee Movie",2007,"Male",0.287594577
+"The Diving Bell and the Butterfly",2007,"Male",0.019777647
+"No Country for Old Men",2007,"Male",0.1716
+"Lions for Lambs",2007,"Male",0.063215872
+"Beowulf",2007,"Male",0.195735876
+"The Mist",2007,"Male",0.05709619
+"P2",2007,"Male",0.00776624
+"I Am Legend",2007,"Male",0.58534901
+"Margot at the Wedding",2007,"Female",0
+"Juno",2007,"Female",0.231411584
+"The Bucket List",2007,"Male",0.175372502
+"Sweeney Todd: The Demon Barber of Fleet Street",2007,"Male",0.152
+"National Treasure: Book of Secrets",2007,"Male",0.457363168
+"There Will Be Blood",2007,"Male",0.077208711
+"Ricochet",1991,"Male",0
+"Cloverfield",2008,"Male",0.170764026
+"One Missed Call",2008,"Female",0
+"Untraceable",2008,"Female",0.03248341
+"Hellboy II: The Golden Army",2008,"Male",0.160388063
+"In Bruges",2008,"Male",0.034533783
+"Jumper",2008,"Male",0.222231186
+"Vantage Point",2008,"Male",0.151161491
+"The Other Boleyn Girl",2008,"Female",0
+"Semi-Pro",2008,"Male",0.03347285
+"Doomsday",2008,"Male",0.022211426
+"Snow Angels",2007,"Male",0.000414404
+"The Dark Knight",2008,"Male",1.004558444
+"21",2008,"Male",0.069823199
+"The Ruins",2008,"Male",0
+"Forgetting Sarah Marshall",2008,"Male",0.105173115
+"Street Kings",2008,"Male",0.065569869
+"The Visitor",2007,"Male",0.00923451
+"Speed Racer",2008,"Male",0.093945766
+"Deception",2008,"Male",0.017741298
+"Redbelt",2008,"Male",0
+"Taken",2008,"Male",0.226830568
+"Indiana Jones and the Kingdom of the Crystal Skull",2008,"Male",0.786636033
+"Sex and the City",2008,"Female",0.415252786
+"Kung Fu Panda",2008,"Male",0.63174456
+"The Promotion",2008,"Male",0
+"The Incredible Hulk",2008,"Male",0.163712074
+"Wanted",2008,"Male",0.258270008
+"Watchmen",2009,"Male",0.185258983
+"The Mummy: Tomb of the Dragon Emperor",2008,"Male",0.401128639
+"Frozen River",2008,"Female",0
+"Vicky Cristina Barcelona",2008,"Male",0.096408652
+"Pineapple Express",2008,"Male",0.101624843
+"Tropic Thunder",2008,"Male",0.188072649
+"Henry Poole Is Here",2008,"Male",0.001829917
+"Mirrors",2008,"Male",0.072436439
+"Burn After Reading",2008,"Male",0.163720069
+"Ghost Town",2008,"Male",0
+"Eagle Eye",2008,"Male",0.178066569
+"How to Lose Friends & Alienate People",2008,"Male",0.017286299
+"Nick and Norah's Infinite Playlist",2008,"Male",0.032973937
+"The Duchess",2008,"Female",0
+"Rachel Getting Married",2008,"Female",0
+"Body of Lies",2008,"Male",0.113280098
+"Max Payne",2008,"Male",0.085416905
+"W.",2008,"Male",0.029506464
+"Synecdoche, New York",2008,"Female",0
+"Changeling",2008,"Male",0.113020255
+"Slumdog Millionaire",2008,"Male",0.377910544
+"Milk",2008,"Male",0.054586584
+"Twilight",2008,"Male",0.392616625
+"Doubt",2008,"Female",0.050907234
+"Gran Torino",2008,"Male",0.269958228
+"Frost/Nixon",2008,"Male",0
+"The Reader",2008,"Male",0.11301929
+"The Wrestler",2008,"Male",0.044703995
+"The Curious Case of Benjamin Button",2008,"Female",0.333932083
+"Yes Man",2008,"Male",0.225990978
+"Valkyrie",2008,"Male",0.200276
+"Revolutionary Road",2008,"Male",0.075225693
+"Defiance",2008,"Male",0.051155219
+"Marley & Me",2008,"Male",0.244082376
+"Last Chance Harvey",2008,"Male",0.014879423
+"My Bloody Valentine",2009,"Male",0.100734718
+"Coraline",2009,"Female",0.124596398
+"Push",2009,"Female",0.045465299
+"He's Just Not That Into You",2009,"Female",0.177259441
+"Funny People",2009,"Male",0.061458982
+"Street Fighter: The Legend of Chun-Li",2009,"Male",0.012764201
+"Away We Go",2009,"Male",0.014899417
+"Sugar",2008,"Male",0
+"Sunshine Cleaning",2008,"Female",0.016174377
+"Observe and Report",2009,"Male",0.024007324
+"Adventureland",2009,"Male",0.017164377
+"In the Loop",2009,"Male",0.006149791
+"17 Again",2009,"Male",0.136267476
+"Inglourious Basterds",2009,"Male",0.31913105
+"The Damned United",2009,"Male",0
+"Moon",2009,"Male",0.009760104
+"The Young Victoria",2009,"Male",0.027409889
+"X-Men Origins: Wolverine",2009,"Male",0.373062864
+"Sin Nombre",2009,"Male",0.005101756
+"Star Trek",2009,"Male",0.385680446
+"Angels & Demons",2009,"Male",0.356613439
+"Terminator Salvation",2009,"Male",0.371353001
+"The Brothers Bloom",2008,"Male",0.005530764
+"Drag Me to Hell",2009,"Female",0.090810892
+"Up",2009,"Male",0.735099082
+"The Hangover",2009,"Male",0.459270619
+"The Proposal",2009,"Female",0.317375031
+"Year One",2009,"Male",0.0623579
+"The Hurt Locker",2008,"Male",0.042
+"Public Enemies",2009,"Male",0.21410462
+"(500) Days of Summer",2009,"Male",0.060722734
+"Harry Potter and the Half-Blood Prince",2009,"Male",0.933959197
+"The Imaginarium of Doctor Parnassus",2009,"Male",0.064352607
+"Orphan",2009,"Female",0.041596251
+"The Ugly Truth",2009,"Male",0.205298907
+"A Perfect Getaway",2009,"Male",0.022852638
+"Obsessed",2009,"Male",0.07383034
+"G.I. Joe: The Rise of Cobra",2009,"Male",0.302469017
+"Pandorum",2009,"Male",0.020645327
+"The Men Who Stare at Goats",2009,"Male",0.068729358
+"Jennifer's Body",2009,"Female",0.031556061
+"The Informant!",2009,"Male",0.035424826
+"Extract",2009,"Male",0.010848783
+"Gamer",2009,"Male",0.04082854
+"Cloudy with a Chance of Meatballs",2009,"Male",0.242988466
+"Bright Star",2009,"Male",0.004440055
+"A Serious Man",2009,"Male",0.031430334
+"City Island",2009,"Male",0.006670712
+"Whip It",2009,"Female",0.016633035
+"The Invention of Lying",2009,"Male",0.031912793
+"Surrogates",2009,"Male",0.122444772
+"Sorority Row",2009,"Female",0.02720612
+"Whiteout",2009,"Male",0.012206028
+"An Education",2009,"Female",0.026096852
+"All About Steve",2009,"Female",0.040105542
+"Where the Wild Things Are",2009,"Male",0.100086793
+"Law Abiding Citizen",2009,"Male",0.126690726
+"Amelia",2009,"Female",0.019258519
+"Up in the Air",2009,"Male",0.16367
+"Cirque du Freak: The Vampire's Assistant",2009,"Male",0.028169671
+"The Boondock Saints II: All Saints Day",2009,"Male",0.010629321
+"Fantastic Mr. Fox",2009,"Male",0.046471023
+"2012",2009,"Male",0.769653595
+"The Box",2009,"Male",0.033333531
+"Broken Embraces",2009,"Male",0
+"The Fourth Kind",2009,"Female",0.042333295
+"Precious",2009,"Female",0.047536959
+"The Twilight Saga: New Moon",2009,"Male",0.709827462
+"The Messenger",2009,"Male",0.001521261
+"Ninja Assassin",2009,"Male",0.060462347
+"Brothers",2009,"Male",0.043318349
+"The Blind Side",2009,"Female",0.309208309
+"A Single Man",2009,"Male",0
+"Invictus",2009,"Male",0.122233971
+"Armored",2009,"Male",0.022942221
+"Avatar",2009,"Male",2.787965087
+"Nine",2009,"Male",0.053825515
+"It's Complicated",2009,"Female",0.219103655
+"Sherlock Holmes",2009,"Male",0.524028679
+"Crazy Heart",2009,"Male",0.039462438
+"The Last Station",2009,"Male",0
+"Youth in Revolt",2009,"Male",0
+"Daybreakers",2009,"Male",0.051416464
+"The Book of Eli",2010,"Male",0.157107755
+"Nowhere Boy",2009,"Male",0
+"Legion",2010,"Male",0.067918658
+"Edge of Darkness",2010,"Male",0.074901339
+"I Love You Phillip Morris",2009,"Male",0.010652035
+"Valentine's Day",2010,"Male",0.216485654
+"The Wolfman",2010,"Male",0
+"Cop Out",2010,"Male",0.055583804
+"The Crazies",2010,"Male",0.05495614
+"Alice in Wonderland",2010,"Female",1.02549111
+"Green Zone",2010,"Male",0.094882889
+"Greenberg",2010,"Male",0.006153967
+"Brooklyn's Finest",2009,"Male",0.029536299
+"She's Out of My League",2010,"Male",0.049779728
+"Remember Me",2010,"Male",0.056032889
+"The Bounty Hunter",2010,"Male",0.136
+"Case 39",2009,"Female",0.029
+"Hot Tub Time Machine",2010,"Male",0.064572262
+"How to Train Your Dragon",2010,"Male",0.494878759
+"Clash of the Titans",2010,"Male",0.232713139
+"Kick-Ass",2010,"Male",0.096188903
+"Date Night",2010,"Male",0.15226388
+"The Runaways",2010,"Female",0.002995811
+"Death at a Funeral",2010,"Male",0.049050886
+"The Losers",2010,"Male",0.02358
+"Cyrus",2010,"Male",0
+"Blue Valentine",2010,"Male",0.01656624
+"Buried",2010,"Male",0.01915248
+"Prince of Persia: The Sands of Time",2010,"Male",0.335154643
+"Please Give",2010,"Female",0
+"Get Him to the Greek",2010,"Male",0.090029656
+"Letters to Juliet",2010,"Female",0
+"Jonah Hex",2010,"Male",0.010539
+"The A-Team",2010,"Male",0.177238796
+"Toy Story 3",2010,"Male",1.066969703
+"Winter's Bone",2010,"Female",0.013831503
+"The Twilight Saga: Eclipse",2010,"Male",0.698491347
+"Predators",2010,"Male",0.126248813
+"Despicable Me",2010,"Male",0.543513985
+"Inception",2010,"Male",0.825532764
+"The Sorcerer's Apprentice",2010,"Male",0.215283742
+"Knight and Day",2010,"Male",0.261930431
+"Salt",2010,"Male",0.293329073
+"Dinner for Schmucks",2010,"Male",0.086387857
+"The Other Guys",2010,"Male",0.170432927
+"The Expendables",2010,"Male",0.274470394
+"Scott Pilgrim vs. the World",2010,"Male",0.047664559
+"Animal Kingdom",2010,"Male",0.001
+"Get Low",2009,"Male",0
+"The American",2010,"Male",0.065464324
+"Machete",2010,"Male",0.031327899
+"The Social Network",2010,"Male",0.224920315
+"The Town",2010,"Male",0.154026136
+"Easy A",2010,"Female",0.074952305
+"It's Kind of a Funny Story",2010,"Male",0.00649124
+"Tamara Drewe",2010,"Female",0
+"Let Me In",2010,"Male",0.024145613
+"Secretariat",2010,"Male",0.060251371
+"Stone",2010,"Male",0.009479718
+"Conviction",2010,"Female",0.00673298
+"Never Let Me Go",2010,"Female",0.009455232
+"Hereafter",2010,"Male",0.105197635
+"127 Hours",2010,"Male",0.03569292
+"Black Swan",2010,"Female",0.327803731
+"Jack Goes Boating",2010,"Male",0.000538
+"Unstoppable",2010,"Male",0.167805466
+"The Next Three Days",2010,"Male",0.051148651
+"The King's Speech",2010,"Male",0.414211549
+"The Fighter",2010,"Male",0.093617009
+"Love & Other Drugs",2010,"Male",0.102820008
+"The Tourist",2010,"Male",0.278731369
+"True Grit",2010,"Male",0.252276927
+"Another Year",2010,"Female",0.018124262
+"How Do You Know",2010,"Male",0.048668907
+"Barney's Version",2010,"Male",0.008454301
+"The Company Men",2010,"Male",0.004882577
+"Mother and Child",2009,"Female",0
+"Rabbit Hole",2010,"Female",0.005129058
+"Burlesque",2010,"Female",0.089519773
+"Made in Dagenham",2010,"Female",0
+"The Way Back",2010,"Male",0.020348249
+"Season of the Witch",2011,"Male",0.0881
+"Cowboys & Aliens",2011,"Male",0.174822325
+"Limitless",2011,"Male",0.161849455
+"No Strings Attached",2011,"Male",0.14778044
+"The Lincoln Lawyer",2011,"Male",0.085412898
+"For Colored Girls",2010,"Female",0.037
+"Cedar Rapids",2011,"Male",0.006861102
+"Paul",2011,"Male",0.09755205
+"Drive Angry",2011,"Male",0.028931401
+"The Adjustment Bureau",2011,"Male",0.127869379
+"The Mechanic",2011,"Male",0.051070807
+"Hall Pass",2011,"Male",0.083160734
+"I Am Number Four",2011,"Male",0.14449283
+"Red Riding Hood",2011,"Female",0.089162162
+"Source Code",2011,"Male",0.147332697
+"Jane Eyre",2011,"Female",0.034710627
+"Insidious",2010,"Female",0.09700915
+"Win Win",2011,"Male",0.010654385
+"Hanna",2011,"Female",0.063782078
+"Thor",2011,"Male",0.449326618
+"Water for Elephants",2011,"Male",0.11415623
+"Bridesmaids",2011,"Female",0.288383523
+"Priest",2011,"Male",0.078309131
+"The Beaver",2011,"Male",0.000970816
+"Midnight in Paris",2011,"Male",0.151119219
+"The Tree of Life",2011,"Male",0.054674226
+"The Roommate",2011,"Female",0.040492759
+"Everything Must Go",2010,"Male",0.002614773
+"Beginners",2010,"Male",0.005332926
+"Super 8",2011,"Male",0.260095987
+"Green Lantern",2011,"Male",0.219851172
+"Bad Teacher",2011,"Female",0.216197492
+"Larry Crowne",2011,"Male",0.036160375
+"Horrible Bosses",2011,"Male",0.117
+"Cars 2",2011,"Male",0.559852396
+"To Sleep with Anger",1990,"Male",0
+"Monte Carlo",2011,"Female",0.017425
+"Drive",2011,"Male",0.078054825
+"Captain America: The First Avenger",2011,"Male",0.370569774
+"Crazy, Stupid, Love.",2011,"Male",0.142851197
+"The Guard",2011,"Male",0.019560274
+"The Smurfs",2011,"Male",0.563749323
+"Friends with Benefits",2011,"Female",0.150483765
+"Rise of the Planet of the Apes",2011,"Male",0.482860185
+"The Change-Up",2011,"Male",0.075450437
+"The Help",2011,"Female",0.124272124
+"30 Minutes or Less",2011,"Male",0.04054744
+"Fright Night",2011,"Male",0.024922237
+"The Debt",2010,"Male",0.045636368
+"Colombiana",2011,"Male",0.060965854
+"Conan the Barbarian",2011,"Male",0.048795021
+"Straw Dogs",2011,"Male",0.010324441
+"Moneyball",2011,"Male",0.110206216
+"The Avengers",2012,"Male",1.51955791
+"Tinker Tailor Soldier Spy",2011,"Male",0
+"Warrior",2011,"Male",0.023057115
+"The Ides of March",2011,"Male",0.075993061
+"50/50",2011,"Male",0.039187783
+"Take Shelter",2011,"Male",0.003099314
+"Martha Marcy May Marlene",2011,"Female",0.003538446
+"We Need to Talk About Kevin",2011,"Male",0.006038942
+"In Time",2011,"Male",0.173930596
+"Margin Call",2011,"Male",0.019504039
+"Shame",2011,"Male",0.017693675
+"Machine Gun Preacher",2011,"Male",0.002527904
+"Anonymous",2011,"Male",0.015395087
+"Tower Heist",2011,"Male",0.152930623
+"The Adventures of Tintin",2011,"Male",0.371940071
+"The Descendants",2011,"Male",0.177243185
+"War Horse",2011,"Male",0.177584879
+"My Week with Marilyn",2011,"Male",0.035057696
+"Rampart",2011,"Male",0.000972512
+"Arthur Christmas",2011,"Male",0
+"The Expendables 2",2012,"Male",0.312573423
+"The Hunger Games",2012,"Male",0.691210692
+"The Dark Knight Rises",2012,"Male",1.084939099
+"Coriolanus",2011,"Male",0.001072602
+"Young Adult",2011,"Female",0.022939027
+"The Girl with the Dragon Tattoo",2011,"Male",0.23261743
+"Pariah",2011,"Female",0
+"The Iron Lady",2011,"Female",0.114956699
+"The Grey",2011,"Male",0.077278331
+"The Whistleblower",2010,"Female",0
+"Apollo 18",2011,"Male",0.025562924
+"Chronicle",2012,"Male",0.145
+"Safe House",2012,"Male",0.208076205
+"The Lorax",2012,"Male",0.348840316
+"Jeff, Who Lives at Home",2011,"Male",0.00441758
+"The Cabin in the Woods",2012,"Male",0.06648608
+"The Three Stooges",2012,"Male",0.054819301
+"The Best Exotic Marigold Hotel",2011,"Male",0.136836156
+"Men in Black 3",2012,"Male",0.624026776
+"Snow White and the Huntsman",2012,"Male",0.3966
+"Prometheus",2012,"Male",0.403170142
+"Take This Waltz",2011,"Female",0
+"Wanderlust",2012,"Male",0.024159934
+"Moonrise Kingdom",2012,"Male",0.068263166
+"Cosmopolis",2012,"Male",0.006063556
+"Safety Not Guaranteed",2012,"Male",0.004007792
+"Rock of Ages",2012,"Male",0.059418613
+"Seeking a Friend for the End of the World",2012,"Male",0.009636289
+"Ted",2012,"Male",0.549368315
+"Beasts of the Southern Wild",2012,"Female",0.021107746
+"People Like Us",2012,"Male",0.012434778
+"Killer Joe",2011,"Male",0.003665069
+"ParaNorman",2012,"Male",0.107139399
+"Celeste & Jesse Forever",2012,"Female",0.003094813
+"Lawless",2012,"Male",0.05367658
+"Pitch Perfect",2012,"Female",0.115350426
+"Looper",2012,"Male",0.047042
+"Resident Evil: Retribution",2012,"Female",0.240159255
+"The Master",2012,"Male",0.02825806
+"Dredd",2012,"Male",0.041037742
+"Arbitrage",2012,"Male",0.035485056
+"End of Watch",2012,"Male",0.048126384
+"The Perks of Being a Wallflower",2012,"Male",0.0334
+"Sparkle",2012,"Female",0.024637469
+"Taken 2",2012,"Male",0.376141306
+"Rust and Bone",2012,"Male",0.025762027
+"Frankenweenie",2012,"Male",0.035287788
+"Sinister",2012,"Male",0.077712439
+"Argo",2012,"Male",0.232324128
+"Seven Psychopaths",2012,"Male",0.019422261
+"Cloud Atlas",2012,"Male",0.130482868
+"Killing Them Softly",2012,"Male",0.037930465
+"The Sessions",2012,"Male",0.009138338
+"Wreck-It Ralph",2012,"Male",0.471222889
+"Flight",2012,"Male",0.161772375
+"Anna Karenina",2012,"Male",0.06892915
+"Life of Pi",2012,"Male",0.609016565
+"Lincoln",2012,"Male",0.27529345
+"Rise of the Guardians",2012,"Male",0.30694167
+"Hitchcock",2012,"Male",0.023570541
+"Hyde Park on Hudson",2012,"Female",0.008887603
+"Zero Dark Thirty",2012,"Male",0.132820716
+"Jack Reacher",2012,"Male",0.218340595
+"This Is 40",2012,"Male",0.088058786
+"Willard",1971,"Male",0
+"The Collection",2012,"Male",0.006842058
+"Promised Land",2012,"Male",0.008138788
+"Gangster Squad",2013,"Male",0.105200903
+"Identity Thief",2013,"Male",0.17396501
+"Before Midnight",2013,"Male",0.011176469
+"Wadjda",2012,"Female",0.001347747
+"The Croods",2013,"Male",0.585178928
+"Spring Breakers",2012,"Female",0.031724284
+"The Place Beyond the Pines",2012,"Male",0.035485608
+"Oblivion",2013,"Male",0.286168572
+"42",2013,"Male",0.095020213
+"Pain & Gain",2013,"Male",0.086175291
+"Mud",2012,"Male",0.0215877
+"The Great Gatsby",2013,"Male",0.351040419
+"Only God Forgives",2013,"Male",0.010337387
+"The Past",2013,"Male",0.010631747
+"Now You See Me",2013,"Male",0.117698894
+"The Bling Ring",2013,"Female",0.019145732
+"Monsters University",2013,"Male",0.743559607
+"Pacific Rim",2013,"Male",0.407602906
+"World War Z",2013,"Male",0.531865
+"Elysium",2013,"Male",0.2861407
+"Despicable Me 2",2013,"Male",0.970761885
+"White House Down",2013,"Male",0.205366737
+"The Spectacular Now",2013,"Male",0.006854611
+"Fruitvale Station",2013,"Male",0.01738583
+"The Wolverine",2013,"Male",0.415440673
+"2 Guns",2013,"Male",0.131940411
+"Blue Jasmine",2013,"Female",0.099206215
+"The Smurfs 2",2013,"Male",0.347434178
+"Riddick",2013,"Male",0.098337295
+"You're Next",2011,"Male",0.014347
+"Gravity",2013,"Male",0.716392705
+"Prisoners",2013,"Male",0.122126687
+"Insidious: Chapter 2",2013,"Male",0
+"Rush",2013,"Male",0.090247624
+"The Family",2013,"Male",0.036894225
+"Short Term 12",2013,"Male",0.0016
+"Battle of the Year",2013,"Male",0.016549477
+"Nebraska",2013,"Male",0.017654912
+"Enough Said",2013,"Female",0.025288872
+"Runner Runner",2013,"Male",0.062616646
+"Cloudy with a Chance of Meatballs 2",2013,"Male",0.248384621
+"Captain Phillips",2013,"Male",0.095
+"Romeo & Juliet",2013,"Male",0.001162635
+"Carrie",2013,"Female",0.082394288
+"The Fifth Estate",2013,"Male",0.008555008
+"The Counselor",2013,"Male",0.071009334
+"12 Years a Slave",2013,"Male",0.187
+"Kill Your Darlings",2013,"Male",0
+"Dallas Buyers Club",2013,"Male",0.055198285
+"Philomena",2013,"Female",0.100129872
+"Delivery Man",2013,"Male",0.051164106
+"Frozen",2013,"Male",1.274219009
+"The Wolf of Wall Street",2013,"Male",0.392000694
+"August: Osage County",2013,"Female",0.074188937
+"American Hustle",2013,"Male",0.251171807
+"The Secret Life of Walter Mitty",2013,"Male",0.188133322
+"Her",2013,"Female",0.047351251
+"Lone Survivor",2013,"Male",0.149295601
+"Saving Mr. Banks",2013,"Female",0.11254458
+"Snowpiercer",2013,"Male",0.086758912
+"The Lunchbox",2013,"Male",0.004235151
+"The Invisible Woman",2013,"Female",0.001234254
+"Labor Day",2013,"Male",0.020275812
+"The Lego Movie",2014,"Male",0.469160692
+"Sabotage",2014,"Male",0.017508518
+"About Last Night",2014,"Male",0.049002684
+"The Grand Budapest Hotel",2014,"Male",0.174600318
+"Interstellar",2014,"Male",0.675120017
+"3 Days to Kill",2014,"Male",0.052597999
+"Noah",2014,"Male",0.362637473
+"Calvary",2014,"Male",0
+"Oculus",2013,"Female",0.044030246
+"Transcendence",2014,"Male",0.103039258
+"Brick Mansions",2014,"Male",0.068896829
+"Locke",2013,"Male",0.0046353
+"Pompeii",2014,"Male",0.117831631
+"Belle",2013,"Female",0.01650546
+"Lucy",2014,"Female",0.126546825
+"Chef",2014,"Male",0.045967935
+"Begin Again",2013,"Male",0.063464861
+"Maleficent",2014,"Female",0.758539785
+"The Fault in Our Stars",2014,"Female",0.307166834
+"22 Jump Street",2014,"Male",0.188441614
+"The Equalizer",2014,"Male",0.192330738
+"How to Train Your Dragon 2",2014,"Male",0.609123048
+"Boyhood",2014,"Male",0.044349
+"The Babadook",2014,"Female",0.006676471
+"Whiplash",2014,"Male",0.013092
+"Gone Girl",2014,"Female",0.369330363
+"Deliver Us from Evil",2014,"Male",0
+"A Most Wanted Man",2014,"Male",0.031554855
+"Wish I Was Here",2014,"Male",0.005483299
+"The Rover",2014,"Male",0.002295423
+"Get on Up",2014,"Male",0.031911598
+"The Hundred-Foot Journey",2014,"Male",0.088880821
+"The Drop",2014,"Male",0.019054534
+"The Maze Runner",2014,"Male",0.348319861
+"The November Man",2014,"Male",0.032556119
+"The Boxtrolls",2014,"Male",0.10825577
+"American Sniper",2014,"Male",0.542307423
+"Tusk",2014,"Male",0.001826705
+"Dracula Untold",2014,"Male",0.215529201
+"The Judge",2014,"Male",0.083719388
+"Love Is Strange",2014,"Male",0.002262223
+"Fury",2014,"Male",0.211817906
+"St. Vincent",2014,"Male",0.054837234
+"Ouija",2014,"Female",0.103590271
+"Nightcrawler",2014,"Male",0.038697217
+"Ex Machina",2015,"Male",0.036869414
+"Mr. Turner",2014,"Male",0.0054055
+"Foxcatcher",2014,"Male",0.0120963
+"The Imitation Game",2014,"Male",0.233555708
+"Inherent Vice",2014,"Male",0.011110975
+"Exodus: Gods and Kings",2014,"Male",0.268031828
+"Wild Tales",2014,"Male",0.027007072
+"Dumb and Dumber To",2014,"Male",0.16983701
+"Dear White People",2014,"Male",0
+"The Theory of Everything",2014,"Male",0.123726688
+"Horrible Bosses 2",2014,"Male",0.107670357
+"Still Alice",2014,"Female",0.043884652
+"Selma",2014,"Male",0.066787908
+"A Most Violent Year",2014,"Male",0.01200707
+"Wild",2014,"Female",0.052501541
+"Top Five",2014,"Male",0.025434291
+"Big Eyes",2014,"Male",0.028883511
+"Into the Woods",2014,"Female",0.212902372
+"Kingsman: The Secret Service",2014,"Male",0.414351546
+"Terminator Genisys",2015,"Male",0.440603537
+"It Follows",2014,"Female",0.014674076
+"Cake",2014,"Female",0.002360281
+"The Gambler",2014,"Male",0.03917113
+"Mortdecai",2015,"Male",0.03041856
+"Brooklyn",2015,"Female",0.062076141
+"The End of the Tour",2015,"Male",0.003002884
+"I'll See You in My Dreams",2015,"Female",0.007449681
+"Mistress America",2015,"Female",0.002500431
+"The Diary of a Teenage Girl",2015,"Female",0.001477002
+"Dope",2015,"Male",0.017986781
+"Me and Earl and the Dying Girl",2015,"Male",0
+"Paper Towns",2015,"Male",0.0855123
+"The Boy Next Door",2015,"Male",0.052425855
+"The Lazarus Effect",2015,"Male",0.064110728
+"Run All Night",2015,"Male",0.071561644
+"Pan",2015,"Male",0.12838832
+"While We're Young",2014,"Male",0.007587485
+"The Gunman",2015,"Male",0.013644292
+"Get Hard",2015,"Male",0.111811453
+"Infinitely Polar Bear",2014,"Female",0.001430655
+"Woman in Gold",2015,"Male",0.061619773
+"Danny Collins",2015,"Male",0.010835752
+"Grandma",2015,"Female",0.007087452
+"San Andreas",2015,"Male",0.470490832
+"Testament of Youth",2014,"Female",0.00182225
+"Far from the Madding Crowd",2015,"Male",0.030229977
+"Macbeth",2006,"Male",0
+"The Green Inferno",2013,"Male",0.006833445
+"The Martian",2015,"Male",0.63016189
+"Youth",2015,"Male",0.002
+"Inside Out",2015,"Female",0.857611174
+"Pixels",2015,"Male",0.243637091
+"Self/less",2015,"Male",0.030523226
+"Minions",2015,"Female",1.156730962
+"Steve Jobs",2015,"Male",0.034441873
+"The Revenant",2015,"Male",0.532950503
+"Learning to Drive",2014,"Male",0.003447633
+"Southpaw",2015,"Male",0.091709827
+"Sicario",2015,"Male",0.084025816
+"Room",2015,"Female",0.035401758
+"American Ultra",2015,"Male",0.027139524
+"No Escape",2015,"Male",0.054418872
+"Straight Outta Compton",2015,"Male",0.201634991
+"Joy",2015,"Female",0.101134059
+"Suffragette",2015,"Female",0.01600242
+"The Lady in the Van",2015,"Male",0.041387687
+"Spotlight",2015,"Male",0.088346473
+"Son of Saul",2015,"Male",0.001777043
+"Pawn Sacrifice",2014,"Male",0.005578519
+"Bridge of Spies",2015,"Male",0.165478348
+"Truth",2015,"Male",0.002541554
+"The Big Short",2015,"Male",0.133346506
+"Daddy's Home",2015,"Male",0.242786137

@@ -206,13 +206,13 @@ my_server <- function(input, output) {
             y = "IMDB Rating") + theme(panel.grid.minor = element_blank()) + ylim(0, 10)
    })
    
-   output$mygraphfemale = renderPlot({
-     ggplot() + 
-       geom_line(data = date_range_female(), aes(x = release_date, y = vote_average), color = "lightpink", size = 2) +
-       labs(title = "IMDB Movie Ratings", 
-            subtitle = "Movies with Female Leads", 
-            caption = "Source", x = "Release Date",
-            y = "IMDB Rating") + theme(panel.grid.minor = element_blank()) + ylim(0, 10)
-   })
+   # output$mygraphfemale = renderPlot({
+   #   ggplot() + 
+   #     geom_line(data = date_range_female(), aes(x = release_date, y = vote_average), color = "lightpink", size = 2) +
+   #     labs(title = "IMDB Movie Ratings", 
+   #          subtitle = "Movies with Female Leads", 
+   #          caption = "Source", x = "Release Date",
+   #          y = "IMDB Rating") + theme(panel.grid.minor = element_blank()) + ylim(0, 10)
+   # })
 }
 shinyServer(my_server)

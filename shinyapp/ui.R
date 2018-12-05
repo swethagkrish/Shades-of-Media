@@ -10,7 +10,7 @@ source("../ratings_data.R")
 my_ui <- fluidPage(theme = shinytheme("superhero"), 
                   titlePanel("Gender Representation in Movies"), 
                   h4("INFORMATION ABOUT DATA AND OUR PROJECT"), 
-                  mainPanel(plotlyOutput("plot", height = "100%"), textOutput("summary")),
+                  mainPanel(plotlyOutput("plot", height  = 7, width = 7), textOutput("summary")),
                   br(), 
                   sidebarPanel(
                         sliderInput("Year", h2("Select a Year"),

@@ -70,19 +70,15 @@ tabsetPanel(
 ),
 tabPanel("chart4",
                    
-   titlePanel("Gender Comparison: IMDB Movie Revenue VS. Time"),
-  
-  sidebarLayout(
-   sidebarPanel(
-      dateRangeInput("daterange", "Year Range", format = "yyyy",
-                     min = "1931-01-01", max = "2015-12-31", 
-                     start = "1931-01-01", end = "2015-12-31",
-                     startview = "decade")),
-    
-    mainPanel(
-      plotOutput("distPlot")
-    )
-  )                 
+         titlePanel("Revenue vs. Gender of the Lead"),
+         
+         sidebarLayout(
+           sliderInput("RevYear", h2("Select a Year"),
+                       min = 1931, max = 2015, value = 1971, sep = "",
+                       step = 1, animate = animationOptions(interval = 5000, loop = FALSE)
+           ), 
+           mainPanel(plotlyOutput("boxPlot"))
+         )                 
   ),
 tabPanel("Conclusion",
          p("INSEArT CONCLUSION HERE"))

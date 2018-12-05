@@ -23,7 +23,8 @@ my_ui <- fluidPage(theme = shinytheme("cyborg"),
           h3("Note: Visualization starts at 1971 instead of 1931, due to lack of data between 1931-1971"))
   )
 
-shinyUI(my_ui)
+
                   
   
-))
+
+shinyUI(my_ui)

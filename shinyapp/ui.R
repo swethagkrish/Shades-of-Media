@@ -20,11 +20,16 @@ my_ui <- fluidPage(theme = shinytheme("cyborg"),
           Select the IMDB button to rank films by IMDB ratings or Select Revenue to rank by the movie's 
           gross.Select a year with the slider or click on the play 
           button to see a time lapse of gender representation through the years."),
-          h3("Note: Visualization starts at 1971 instead of 1931, due to lack of data between 1931-1971"))
+          h3("Note: Visualization starts at 1971 instead of 1931, due to lack of data between 1931-1971")), 
+          br(), 
+          sidebarLayout(
+    sidebarPanel(
+      selectizeInput('movie', "Search for a movie:", choices = NULL, multiple = FALSE, uiOutput("movieSearch"))
+    ),
+    mainPanel(
+      plotlyOutput("charwords")
+    )
+  ), 
+                   
   )
-
-
-                  
-  
-
 shinyUI(my_ui)

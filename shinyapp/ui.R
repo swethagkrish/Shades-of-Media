@@ -43,41 +43,30 @@ tabsetPanel(
              
     ),
    tabPanel("Chart3",
-            titlePanel(h1(strong("IMDB Movie Ratings Over Time")), 
-             h2(strong("comparing ratings of movies with a male lead 
-                       versus the ratings of movies with a female lead"))),
-  
-  p(em("IMDB ratings are based upon the general population's vote.  This visualization provides 
-       a comparison of people's ratings of movies with a strong male lead versus those with a female
-       protagonist.")),
-  
-  sidebarLayout(
-    sidebarPanel(
-      dateRangeInput("date", "Date Range:", start = start_date, end = end_date)
-    ), 
-    
-    mainPanel(
-      tabsetPanel(
-        tabPanel("Comparison",
-                 p(em("This graph contains", num_movies, "movies from", "different years.  It ranges from
-                      ", start_date_words, "to ", end_date_words, ".  It compares the ratings for both
-                      movies with male and female leads on the same graph.")),
-                 plotOutput("mygraph")),
-        
-        tabPanel("Male",
-                 p(em("This graph contains", num_movies_male, "movies from", "different years.  It ranges from
-                      ", start_date_male_words, "to ", end_date_male_words, ".")),
-                 plotOutput("mygraphmale")),
-        
-        tabPanel("Female",
-                 p(em("This graph contains", num_movies_female, "movies from", "different years.  It ranges from
-                      ", start_date_female_words, "to ", end_date_female_words, ".")),
-
-                 plotOutput("mygraphfemale"))
-      )
-  )
-  
-), br()
+            titlePanel(h1(strong("IMDB Movie Ratings Over Time"))),
+            
+            p(em("IMDB ratings are based upon the general population's vote.  This visualization compares
+                 the median IMDB movie rating for movies with a female lead versus movies with a male lead
+                 for each decade.  You may select which decade(s) to view and compare.")),
+            
+            sidebarLayout(
+              sidebarPanel(
+                checkboxGroupInput("checked_decade", label = h3("Decades:"), 
+                                   choices = list("1930s" = "1930s", "1940s" = "1940s", "1950s" = "1950s", 
+                                                  "1960s" = "1960s", "1970s" = "1970s", "1980s" = "1980s", 
+                                                  "1990s" = "1990s", "2000s" = "2000s", "2010s" = "2010s"),
+                                   selected = c("1930s", "1940s", "1950s", "1960s", "1970s", "1980s", 
+                                                "1990s", "2000s", "2010s")),
+                hr(),
+                fluidRow(column(3, verbatimTextOutput("checked_decade")))
+              ), 
+              
+              mainPanel(strong("Bar Graph"), 
+                        p(em("There are a total of ", num_movies_female, "movies with a female
+                             lead and ",  num_movies_male, "movies with a male lead. We have movies ranging from ", start_date_words,"to ", end_date_words)),
+                        plotlyOutput("mybargraph")
+                        )
+            )
 ),
 tabPanel("chart4",
                    
@@ -94,5 +83,8 @@ tabPanel("chart4",
       plotOutput("distPlot")
     )
   )                 
-  )))
+  ),
+tabPanel("Conclusion",
+         p("INSEArT CONCLUSION HERE"))
+))
 shinyUI(my_ui) 

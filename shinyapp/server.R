@@ -5,7 +5,7 @@ library(plotly)
 library(shiny)
 library(stringr)
 
-charData <- read.csv("../charData.csv") #For the app need to switch data set and put ../
+charData <- read.csv("charData.csv") #For the app need to switch data set and put ../
 fillColors <- c("f" = "lightpink", "m" = "lightblue1")
 
 my_server <- function(input, output) {

@@ -20,9 +20,9 @@ my_ui <- fluidPage(
     ), h3("Due to the high volume of data for certain years, we have decided to select only 15 films.  
           Select the IMDB button to rank films by IMDB ratings or Select Revenue to rank by the movie's 
           gross.Select a year with the slider or click on the play 
-          button to see a time lapse of gender representation through the years.",
+          button to see a time lapse of gender representation through the years."),
           h3("Note: Visualization starts at 1971 instead of 1931, due to lack of data between 1931-1971"))
   )
-)
+
 
 shinyUI(my_ui)

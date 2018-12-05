@@ -109,6 +109,7 @@ my_server <- function(input, output, session) {
     ))
   })
   
+<<<<<<< HEAD
   output$charwords <- renderPlotly({
     charData %>%
       mutate(Character_Name = str_to_title(imdb_character_name))%>%
@@ -122,6 +123,21 @@ my_server <- function(input, output, session) {
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
       theme(axis.text.x = element_text(angle = 90, hjust = 1)) #changes angle of x axis labels
   })
+=======
+   output$charwords <- renderPlotly({
+     charData %>%
+       mutate(Character_Name = str_to_title(imdb_character_name))%>%
+       filter(title == input$movie)%>%
+       ggplot(aes(x= reorder(Character_Name, -words), y=words, fill=gender)) +
+       geom_bar(stat = "identity", color="black")+
+       scale_fill_manual(values = fillColors)+
+       labs(x = "Characters", y = "Number of Words Spoken", title = paste0("Characters in ", input$movie))+
+       theme_bw() + theme(
+         panel.border = element_blank(), panel.grid.major = element_blank(),
+         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
+       theme(axis.text.x = element_text(angle = 90, hjust = 1)) #changes angle of x axis labels
+   })
+>>>>>>> 578c146f76557d2b7f10607bc48be4095074fda8
   
   output$sumStatement <- renderText({
     charData %>%

@@ -13,7 +13,8 @@ shinyServer(function(input, output, session) {
      charData %>%
        mutate(Character_Name = str_to_title(imdb_character_name))%>%
        filter(title == input$movie)%>%
-       ggplot(aes(x=Character_Name, y=words, fill=gender)) +
+       arrange(desc(words))%>%
+       ggplot(aes(x=reorder(Character_Name, -words), y=words, fill=gender)) +
        geom_bar(stat = "identity", color="black")+
        scale_fill_manual(values = fillColors)+
        labs(x = "Characters", y = "Number of Words Spoken", title = paste0("Characters in ", input$movie))+
@@ -21,6 +22,7 @@ shinyServer(function(input, output, session) {
          panel.border = element_blank(), panel.grid.major = element_blank(),
          panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
        theme(axis.text.x = element_text(angle = 90, hjust = 1)) #changes angle of x axis labels
+     
    })
    
    output$sumStatement <- renderText({

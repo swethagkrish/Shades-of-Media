@@ -37,8 +37,8 @@ for (i in levels(dataF$imdb_id)) {
   }
 }
 
-my_server <- function(input, output) {
-  #updateSelectizeInput(session, 'movie', choices = charData$title, server = TRUE)
+my_server <- function(input, output, session) {
+  updateSelectizeInput(session, 'movie', choices = charData$title, server = TRUE)
   data <- read.csv("yearly.csv", stringsAsFactors = FALSE)
   output$plot <- renderPlotly({
     if (is.null(input$Year)) {

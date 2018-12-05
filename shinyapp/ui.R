@@ -1,11 +1,12 @@
 library(shiny)
 source("../ratings_data.R")
+library(plotly)
 
 shinyUI(fluidPage(
   titlePanel(h1(strong("IMDB Movie Ratings Over Time"))),
   
   p(em("IMDB ratings are based upon the general population's vote.  This visualization compares
-       the average IMDB movie rating for movies with a female lead versus movies with a male lead
+       the median IMDB movie rating for movies with a female lead versus movies with a male lead
        for each decade.  You may select which decade(s) to view and compare.")),
   
   sidebarLayout(
@@ -20,10 +21,10 @@ shinyUI(fluidPage(
       fluidRow(column(3, verbatimTextOutput("checked_decade")))
     ), 
     
-    mainPanel("Bar Graph", 
+    mainPanel(strong("Bar Graph"), 
               p(em("There are a total of ", num_movies_female, "movies with a female
                    lead and ",  num_movies_male, "movies with a male lead. We have movies ranging from ", start_date_words,"to ", end_date_words)),
-              plotOutput("mybargraph")
+              plotlyOutput("mybargraph")
   )
 ))
 )

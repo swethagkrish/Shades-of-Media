@@ -128,6 +128,3 @@ s2010 <- unique(s2010)
 s2010$avg <- round(s2010$avg, digits = 1)
 
 decades <- bind_rows(s1930, s1940, s1950, s1960, s1970, s1980, s1990, s2000, s2010)
-decades_grouped <- filter(decades, decades$decade == "1970s")
-
-

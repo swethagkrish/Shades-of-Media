@@ -7,7 +7,7 @@ shinyServer(function(input, output) {
   
   num_decades <- reactive({length(input$checked_decade)})
   
-  output$mybargraph = renderPlot({
+  output$mybargraph = renderPlotly({
     if (num_decades() == 9) {
       specific_decades <- decades 
       ggplot(specific_decades, aes(x = decade, y = avg, fill = gender)) + 

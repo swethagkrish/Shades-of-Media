@@ -2,63 +2,132 @@ library(dplyr)
 library(ggplot2)
 library(lubridate)
 library(plotly)
+library(stringr)
 
 main_data <- read.csv("../mainData.csv", stringsAsFactors = FALSE)
 one_lead <- main_data %>% 
   group_by(title) %>%
   filter(words == max(words)) %>%
-  select(-vote_count, -revenue, -budget, -imdb_id, -script_id, -gross, -imdb_character_name, -age, -words) %>%
-  ungroup()
+  select(-vote_count, -revenue, -budget, -imdb_id, -script_id, -gross, -imdb_character_name, -age, -words, -X) %>%
+  ungroup() 
 
 start_date <- as.Date(min(one_lead$release_date))
 end_date <- as.Date(max(one_lead$release_date))
 start_date_words <- format(start_date, format = "%B %d, %Y")
 end_date_words <- format(end_date, format = "%B %d, %Y")
-num_movies <- nrow(one_lead)
+num_movies_male <- nrow(filter(one_lead, gender == "m"))
+num_movies_female <- nrow(filter(one_lead, gender == "f"))
 
-# male
-male_lead <- one_lead %>%
-  filter(gender == "m") %>%
-  select(release_date, vote_average)
-male_lead$release_date <- as.Date(male_lead$release_date)
-male_lead <- male_lead[order(as.Date(male_lead$release_date)), ]
 
-start_date_male <- as.Date(min(male_lead$release_date))
-end_date_male <- as.Date(max(male_lead$release_date))
-start_date_male_words <- format(start_date_male, format = "%B %d, %Y")
-end_date_male_words <- format(end_date_male, format = "%B %d, %Y")
-num_movies_male <- nrow(male_lead)
+# 1930s
+s1930 <- one_lead %>%
+  filter(year >= 1930) %>%
+  filter(year <= 1939) %>%
+  group_by(gender) %>%
+  mutate(avg = median(vote_average)) %>%
+  ungroup() %>%
+  mutate(decade = "1930s") %>%
+  select(decade, avg, gender)
+s1930 <- unique(s1930)
+s1930$avg <- round(s1930$avg, digits = 1)
 
-# female
-female_lead <- one_lead %>%
-  filter(gender == "f") %>%
-  select(release_date, vote_average)
-female_lead$release_date <- as.Date(female_lead$release_date)
+# 1940s
+s1940 <- one_lead %>%
+  filter(year >= 1940) %>%
+  filter(year <= 1949) %>%
+  group_by(gender) %>%
+  mutate(avg = median(vote_average)) %>%
+  ungroup() %>%
+  mutate(decade = "1940s") %>%
+  select(decade, avg, gender)
+s1940 <- unique(s1940)
+s1940$avg <- round(s1940$avg, digits = 1)
 
-start_date_female <- as.Date(min(female_lead$release_date))
-end_date_female <- as.Date(max(female_lead$release_date))
-start_date_female_words <- format(start_date_female, format = "%B %d, %Y")
-end_date_female_words <- format(end_date_female, format = "%B %d, %Y")
-num_movies_female <- nrow(female_lead)
+# 1950s
+s1950 <- one_lead %>%
+  filter(year >= 1950) %>%
+  filter(year <= 1959) %>%
+  group_by(gender) %>%
+  mutate(avg = median(vote_average)) %>%
+  ungroup() %>%
+  mutate(decade = "1950s") %>%
+  select(decade, avg, gender)
+s1950 <- unique(s1950)
+s1950$avg <- round(s1950$avg, digits = 1)
 
-# plot using line
-ggplot() + 
-  geom_line(data = male_lead, aes(x = release_date, y = vote_average), color = "lightblue", size = 3.5) +
-  geom_line(data = female_lead, aes(x = release_date, y = vote_average), color = "lightpink", size = 3.5) +
-  labs(title = "A Comparison of Movie Ratings", 
-       subtitle = "Male versus Female Leads", 
-       caption = "Source", x = "Release Date",
-       y = "IMDB Rating") + theme(panel.grid.minor = element_blank())
+# 1960s
+s1960 <- one_lead %>%
+  filter(year >= 1960) %>%
+  filter(year <= 1969) %>%
+  group_by(gender) %>%
+  mutate(avg = median(vote_average)) %>%
+  ungroup() %>%
+  mutate(decade = "1960s") %>%
+  select(decade, avg, gender)
+s1960 <- unique(s1960)
+s1960$avg <- round(s1960$avg, digits = 1)
 
-# plot using area  
-ggplot() +
-  geom_area(data = male_lead, aes(x = release_date, y = vote_average), 
-            color = "lightblue", size = 2, fill = "lightblue") +
-  geom_area(data = female_lead, aes(x = release_date, y = vote_average), 
-            color = "lightpink", size = 2, fill = "lightpink") +
-  ylim(0, 10) + 
-  labs(title = "A Comparison of Movie Ratings", 
-       subtitle = "Male versus Female Leads", 
-       caption = "Source", x = "Release Date",
-       y = "IMDB Rating") + theme(panel.grid.minor = element_blank())
+# 1970s
+s1970 <- one_lead %>%
+  filter(year >= 1970) %>%
+  filter(year <= 1979) %>%
+  group_by(gender) %>%
+  mutate(avg = median(vote_average)) %>%
+  ungroup() %>%
+  mutate(decade = "1970s") %>%
+  select(decade, avg, gender)
+s1970 <- unique(s1970)
+s1970$avg <- round(s1970$avg, digits = 1)
+
+# 1980s
+s1980 <- one_lead %>%
+  filter(year >= 1980) %>%
+  filter(year <= 1989) %>%
+  group_by(gender) %>%
+  mutate(avg = median(vote_average)) %>%
+  ungroup() %>%
+  mutate(decade = "1980s") %>%
+  select(decade, avg, gender)
+s1980 <- unique(s1980)
+s1980$avg <- round(s1980$avg, digits = 1)
+
+# 1990s
+s1990 <- one_lead %>%
+  filter(year >= 1990) %>%
+  filter(year <= 1999) %>%
+  group_by(gender) %>%
+  mutate(avg = median(vote_average)) %>%
+  ungroup() %>%
+  mutate(decade = "1990s") %>%
+  select(decade, avg, gender)
+s1990 <- unique(s1990)
+s1990$avg <- round(s1990$avg, digits = 1)
+
+# 2000s
+s2000 <- one_lead %>%
+  filter(year >= 2000) %>%
+  filter(year <= 2009) %>%
+  group_by(gender) %>%
+  mutate(avg = median(vote_average)) %>%
+  ungroup() %>%
+  mutate(decade = "2000s") %>%
+  select(decade, avg, gender)
+s2000 <- unique(s2000)
+s2000$avg <- round(s2000$avg, digits = 1)
+
+# 2010s
+s2010 <- one_lead %>%
+  filter(year >= 2010) %>%
+  filter(year <= 2019) %>%
+  group_by(gender) %>%
+  mutate(avg = median(vote_average)) %>%
+  ungroup() %>%
+  mutate(decade = "2010s") %>%
+  select(decade, avg, gender)
+s2010 <- unique(s2010)
+s2010$avg <- round(s2010$avg, digits = 1)
+
+decades <- bind_rows(s1930, s1940, s1950, s1960, s1970, s1980, s1990, s2000, s2010)
+decades_grouped <- filter(decades, decades$decade == "1970s")
+
 

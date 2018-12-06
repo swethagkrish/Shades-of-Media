@@ -4,7 +4,7 @@ library(lubridate)
 library(plotly)
 library(stringr)
 
-main_data <- read.csv("../mainData.csv", stringsAsFactors = FALSE)
+main_data <- read.csv("mainData.csv", stringsAsFactors = FALSE)
 one_lead <- main_data %>% 
   group_by(title) %>%
   filter(words == max(words)) %>%

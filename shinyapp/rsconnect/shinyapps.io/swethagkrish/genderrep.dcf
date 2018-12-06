@@ -1,0 +1,12 @@
+name: genderrep
+title: genderrep
+username:
+account: swethagkrish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 605518
+bundleId: 1744130
+url: https://swethagkrish.shinyapps.io/genderrep/
+when: 1544051564.59826
+asMultiple: FALSE
+asStatic: FALSE

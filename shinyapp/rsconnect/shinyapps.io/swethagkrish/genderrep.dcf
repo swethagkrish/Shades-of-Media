@@ -5,8 +5,8 @@ account: swethagkrish
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 605518
-bundleId: 1744130
+bundleId: 1744959
 url: https://swethagkrish.shinyapps.io/genderrep/
-when: 1544051564.59826
+when: 1544078918.47512
 asMultiple: FALSE
 asStatic: FALSE

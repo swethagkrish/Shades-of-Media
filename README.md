@@ -1,4 +1,4 @@
-# Unequal Representation of Gender in Film
+# Gender in Film
 
 > *“I think we have a sexist film industry, and stories about women are largely untold”*      
 -- Carey Mulligan, actress
